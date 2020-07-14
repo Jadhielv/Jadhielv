@@ -1,10 +1,10 @@
 ### Hi there, I'm **Jadhiel!** 👋
 
 <a href="https://twitter.com/JadhielV">
-    <img align="left" alt="Jadhiel Vélez | Twitter" width="21px" src="assets\twitter.png" />
+    <img align="left" alt="Jadhiel Vélez | Twitter" width="21px" src="https://raw.githubusercontent.com/Jadhielv/Jadhielv/master/assets/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/jadhielv/">
-    <img align="left" alt="Jadhiel Vélez | LinkedIn" width="21px" src="assets\linkedin.png" />
+    <img align="left" alt="Jadhiel Vélez | LinkedIn" width="21px" src="https://raw.githubusercontent.com/Jadhielv/Jadhielv/master/assets/linkedin.png" />
 </a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=jadhielv.visitor-badge">
 
@@ -14,7 +14,7 @@ A Software Developer passionate about Web Development and Tech Enthusiast, from 
 
 - 🌱 I’m currently learning about PWAs & Flutter
 
-**Skills:**
+🚀 **Skills:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
