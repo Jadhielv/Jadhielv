@@ -6,12 +6,12 @@
 <a href="https://www.linkedin.com/in/jadhielv/">
     <img align="left" alt="Jadhiel Vélez | LinkedIn" width="21px" src="https://raw.githubusercontent.com/Jadhielv/Jadhielv/master/assets/linkedin.png" />
 </a>
-<a href="https://www.linkedin.com/in/jadhielv/">
+<a href="https://www.freecodecamp.org/jadhielv">
     <img align="left" alt="Jadhiel Vélez | freeCodeCamp" width="21px" src="https://raw.githubusercontent.com/Jadhielv/Jadhielv/master/assets/freecodecamp.png" />
 </a>
 
 <br />
-
+<br />
 
 A Software Developer passionate about Web Development and Tech Enthusiast, from Dominican Republic 🇩🇴🌴.
 
