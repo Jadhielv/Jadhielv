@@ -6,12 +6,12 @@
 <a href="https://www.linkedin.com/in/jadhielv/">
     <img align="left" alt="Jadhiel Vélez | LinkedIn" width="21px" src="https://raw.githubusercontent.com/Jadhielv/Jadhielv/master/assets/linkedin.png" />
 </a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=jadhielv.visitor-badge">
 
 <br />
 
 A Software Developer passionate about Web Development and Tech Enthusiast, from Dominican Republic 🇩🇴🌴.
 
+- 🔭 I’m currently working on my project [Progressive Web Apps - Complete Guide](https://github.com/Jadhielv/course-project-pwa)
 - 🌱 I’m currently learning about PWAs & Flutter
 
 🚀 **Skills:**
