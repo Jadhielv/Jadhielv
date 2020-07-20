@@ -13,10 +13,11 @@
 <br />
 <br />
 
-A Software Developer passionate about Web Development and Tech Enthusiast, from Dominican Republic 🇩🇴🌴.
+A <em>**Software Developer**</em> passionate about <em>**Web Development**</em> and Tech Enthusiast, from Dominican Republic 🇩🇴🌴.
 
 - 🔭 I’m currently working on [Progressive Web Apps](https://github.com/Jadhielv/course-project-pwa)
-- 🌱 I’m currently learning about PWAs & Flutter
+- 🌱 I’m currently learning about **PWAs** & **Flutter**
+- ⚡ Fun fact **Coffee** ☕ over **Tea 🍵**
 
 🚀 **Skills:**
 
