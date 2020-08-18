@@ -36,6 +36,5 @@ A <em>**Software Developer**</em> passionate about <em>**Web Development**</em> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 
-![Jadhiel Vélez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhielv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
+| ![Jadhiel Vélez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhielv&show_icons=true&theme=dracula&include_all_commits=true&hide=issues)	| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhielv&layout=compact&theme=dracula&hide=PLSQL,TSQL,CSS)	|
+|---	                                                                                                                  |---	
