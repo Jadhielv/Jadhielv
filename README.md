@@ -32,5 +32,5 @@ A <em>**Software Developer**</em> passionate about <em>**Web Development**</em> 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-| ![Jadhiel Vélez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhielv&show_icons=true&theme=dracula&hide=issues)	| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhielv&layout=compact&theme=dracula&hide=PLSQL,TSQL,CSS)	|
+| ![Jadhiel Vélez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhielv&show_icons=true&include_all_commits=true&theme=dracula)	| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhielv&layout=compact&theme=dracula)	|
 |---	                                                                                                                  |---	
