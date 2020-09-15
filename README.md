@@ -16,7 +16,7 @@
 A <em>**Software Developer**</em> passionate about <em>**Web Development**</em> and Tech Enthusiast, from Dominican Republic 🇩🇴🌴.
 
 - 🔭 I’m currently working on **[Progressive Web Apps](https://github.com/Jadhielv/course-project-pwa)**
-- 👨🏻‍💻 I’m contribute **3 open source projects** in my spare time.
+- 👨🏻‍💻 I’m contribute **4 open source projects** in my spare time.
 - 🌍 I'm mostly active within the **[.NET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🌱 I’m currently learning about **PWAs** & **Flutter**
 - ⚡ Fun fact: **Coffee** ☕ over **Tea 🍵**
