@@ -32,7 +32,7 @@ A <em>**Software Developer**</em> passionate about <em>**Web Development**</em> 
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="50" height="50"/></code>
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></code>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i've the most code.*
 
-| ![Jadhiel Vélez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhielv&show_icons=true&include_all_commits=true&count_private=true&icon_color=79dafa&text_color=f8f8f2&hide_title=true&theme=dark)	| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhielv&layout=compact&text_color=f8f8f2&langs_count=8&hide_title=true&theme=dark)	|
+| [![Jadhiel Vélez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhielv&show_icons=true&include_all_commits=true&count_private=true&icon_color=79dafa&text_color=f8f8f2&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)	| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhielv&layout=compact&text_color=f8f8f2&langs_count=8&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)	|
 |---	                                                                                                                  |---	
