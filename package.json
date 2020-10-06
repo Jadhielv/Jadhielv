@@ -1,0 +1,25 @@
+{
+    "name": "@jadhielv/jadhielv",
+    "version": "0.0.0",
+    "description": "Auto-update GitHub profile.",
+    "scripts": {
+        "update-readme": "./scripts/update-readme.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Jadhielv/Jadhielv.git"
+    },
+    "author": "Jadhiel Vélez <jadhielv@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Jadhielv/Jadhielv/issues"
+    },
+    "homepage": "https://github.com/Jadhielv/Jadhielv#readme",
+    "dependencies": {
+        "execa": "^4.0.3",
+        "graphql": "^15.3.0",
+        "graphql-request": "^3.1.0",
+        "jq": "^1.7.2"
+    }
+}
