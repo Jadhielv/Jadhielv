@@ -29,7 +29,6 @@ const rootPath = join(__dirname, '..')
   await execa('untoken', [
     join(rootPath, './README.template.md'),
     join(rootPath, './README.md'),
-    '--so_link', link,
     '--gh_repos_count', repositories.totalCount
   ], { cwd: rootPath, preferLocal: true })
 })()
