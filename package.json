@@ -20,6 +20,7 @@
         "execa": "^4.0.3",
         "graphql": "^15.3.0",
         "graphql-request": "^3.1.0",
-        "jq": "^1.7.2"
+        "jq": "^1.7.2",
+        "untoken-cli": "0.0.1"
     }
 }
