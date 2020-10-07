@@ -27,8 +27,8 @@ const rootPath = path.join(__dirname, '..')
   const { viewer: { repositories } } = gitHubResponse
   
   await execa('untoken', [
-    join(rootPath, './README.template.md'),
-    join(rootPath, './README.md'),
+    path.join(rootPath, './README.template.md'),
+    path.join(rootPath, './README.md'),
     '--gh_repos_count', repositories.totalCount
   ], { cwd: rootPath, preferLocal: true })
 })()
