@@ -1,9 +1,9 @@
 #!/usr/bin/env node
-import { join } from 'path';
-import execa from 'execa';
-import { GraphQLClient } from 'graphql-request';
+const path = require('path')
+const execa = require('execa')
+const { GraphQLClient } = require('graphql-request')
 
-const rootPath = join(__dirname, '..')
+const rootPath = path.join(__dirname, '..')
 
 ;(async() => {
   const gitHubClient = new GraphQLClient('https://api.github.com/graphql', {
