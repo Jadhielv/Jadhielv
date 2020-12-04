@@ -9,6 +9,9 @@
 <a href="https://www.freecodecamp.org/jadhielv">
     <img align="left" alt="Jadhiel Vélez | freeCodeCamp" width="21px" src="https://raw.githubusercontent.com/Jadhielv/Jadhielv/master/assets/freecodecamp.png" />
 </a>
+<a href="https://dev.to/jadhielv">
+  <img align="left" alt="Jadhiel Vélez | DEV Profile" width="21px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
+</a>
 
 <br />
 <br />
