@@ -18,7 +18,7 @@
     "homepage": "https://github.com/Jadhielv/Jadhielv#readme",
     "dependencies": {
         "execa": "^4.1.0",
-        "graphql-request": "^3.4.0",
+        "graphql-request": "^3.4.0-next.1",
         "jq": "^1.7.2",
         "untoken-cli": "0.0.1"
     }
