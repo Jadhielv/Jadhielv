@@ -41,7 +41,7 @@ const rootPath = path.join(__dirname, '..')
   `)
 
   const { viewer: { repositories } } = gitHubResponseForks
-  const { viewer: { repositories: { edges: { node } } } } = gitHubResponseSources
+  const { viewer: { repositories: { edges: [node] } } } = gitHubResponseSources
   
   await execa('untoken', [
     path.join(rootPath, './README.template.md'),
