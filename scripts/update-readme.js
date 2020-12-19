@@ -13,7 +13,7 @@ const rootPath = path.join(__dirname, '..')
     method: 'POST'
   })
 
-  const gitHubResponse = await gitHubClient.request(`
+  const gitHubResponseForks = await gitHubClient.request(`
     {
       viewer {
         login
@@ -24,11 +24,30 @@ const rootPath = path.join(__dirname, '..')
     }
   `)
 
-  const { viewer: { repositories } } = gitHubResponse
+  const gitHubResponseSources = await gitHubClient.request(`
+    {
+      viewer {
+        login
+        repositories(first:1, privacy: PUBLIC, ownerAffiliations: OWNER, isFork: false, orderBy: {field: UPDATED_AT, direction: DESC}) {
+          edges {
+            node {
+                name
+                url
+            }
+          }
+        }
+      }
+    }
+  `)
+
+  const { viewer: { repositories } } = gitHubResponseForks
+  const { viewer: { edges } } = gitHubResponseSources
   
   await execa('untoken', [
     path.join(rootPath, './README.template.md'),
     path.join(rootPath, './README.md'),
-    '--gh_repos_count', repositories.totalCount
+    '--gh_repos_count', repositories.totalCount,
+    '--gh_repo_name', edges.node.name,
+    '--gh_repo_url', edges.node.url
   ], { cwd: rootPath, preferLocal: true })
 })()
