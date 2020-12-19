@@ -41,13 +41,13 @@ const rootPath = path.join(__dirname, '..')
   `)
 
   const { viewer: { repositories } } = gitHubResponseForks
-  const { viewer: { repositories: { edges: [] } } } = gitHubResponseSources
+  const { viewer: { repositories: { edges } } } = gitHubResponseSources
   
   await execa('untoken', [
     path.join(rootPath, './README.template.md'),
     path.join(rootPath, './README.md'),
     '--gh_repos_count', repositories.totalCount,
-    '--gh_repo_name', edges.node.name,
-    '--gh_repo_url', edges.node.url
+    '--gh_repo_name', edges["node"].name,
+    '--gh_repo_url', edges["node"].url
   ], { cwd: rootPath, preferLocal: true })
 })()
