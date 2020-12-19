@@ -47,7 +47,7 @@ const rootPath = path.join(__dirname, '..')
     path.join(rootPath, './README.template.md'),
     path.join(rootPath, './README.md'),
     '--gh_repos_count', repositories.totalCount,
-    '--gh_repo_name', edges["node"].name,
-    '--gh_repo_url', edges["node"].url
+    '--gh_repo_name', edges[0].name,
+    '--gh_repo_url', edges[0].url
   ], { cwd: rootPath, preferLocal: true })
 })()
