@@ -35,5 +35,5 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
 
 ***NOTE**: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i've the most code.*
 
-| [![Jadhiel Vélez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhielv&show_icons=true&count_private=true&icon_color=ff3860&text_color=f8f8f2&hide_title=true&hide=contribs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)	| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhielv&layout=compact&text_color=f8f8f2&langs_count=8&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)	|
+| [![Jadhiel Vélez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhielv&show_icons=true&count_private=true&icon_color=79dafa&text_color=f8f8f2&hide_title=true&hide=contribs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)	| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhielv&layout=compact&text_color=f8f8f2&langs_count=8&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)	|
 |---	                                                                                                                  |---	
