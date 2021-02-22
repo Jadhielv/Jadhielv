@@ -28,7 +28,7 @@ const rootPath = path.join(__dirname, '..')
     {
       viewer {
         login
-        repositories(first:1, privacy: PUBLIC, ownerAffiliations: OWNER, isFork: false, orderBy: {field: UPDATED_AT, direction: DESC}) {
+        repositories(first: 1, privacy: PUBLIC, ownerAffiliations: OWNER, isFork: false, orderBy: {field: UPDATED_AT, direction: DESC}) {
           edges {
             node {
                 name
