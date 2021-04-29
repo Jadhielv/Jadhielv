@@ -1,16 +1,16 @@
 ## Hi there 👋 -  I'm Jadhiel!
 
 <a href="https://twitter.com/JadhielV">
-    <img align="left" alt="Jadhiel Vélez | Twitter" width="21px" src="https://raw.githubusercontent.com/Jadhielv/Jadhielv/master/assets/twitter.png" />
+    <img alt="Jadhiel Vélez | Twitter" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/jadhielv/">
-    <img align="left" alt="Jadhiel Vélez | LinkedIn" width="21px" src="https://raw.githubusercontent.com/Jadhielv/Jadhielv/master/assets/linkedin.png" />
+    <img alt="Jadhiel Vélez | LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.freecodecamp.org/jadhielv">
-    <img align="left" alt="Jadhiel Vélez | freeCodeCamp" width="21px" src="https://raw.githubusercontent.com/Jadhielv/Jadhielv/master/assets/freecodecamp.png" />
+    <img alt="Jadhiel Vélez | freeCodeCamp" title="freeCodeCamp Certifications" src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white"/>
 </a>
 <a href="https://dev.to/jadhielv">
-  <img align="left" alt="Jadhiel Vélez | DEV Profile" width="21px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
+    <img alt="Jadhiel Vélez | DEV Profile" title="Follow me on DEV Community" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
 </a>
 
 <br />
