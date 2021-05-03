@@ -50,6 +50,8 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
 <a href="#">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F.svg?logo=mysql&logoColor=white">
 </a>
+
+<br/>
 <br/>
 
 📊 **Github Stats:**
