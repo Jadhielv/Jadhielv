@@ -1,9 +1,6 @@
 name: Update Activity README
 
 on:
-  push:
-   branches:
-    - master
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
@@ -17,3 +14,5 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+        with:
+          COMMIT_MSG: 'chore: update recent activity'
