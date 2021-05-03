@@ -1,0 +1,21 @@
+name: GitHub - Activity - README
+
+on:
+  push:
+   branches:
+    - master
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Jadhielv/github-activity-readme@commit-username-and-email
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+        with:
+          COMMIT_MSG: 'chore: update recent activity'
