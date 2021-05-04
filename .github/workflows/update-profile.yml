@@ -44,10 +44,10 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 'chore: update'
+          commit_message: 'chore: update profile'
           branch: master
           
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: Jadhielv/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
         with:
