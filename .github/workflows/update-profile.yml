@@ -49,6 +49,6 @@ jobs:
           
       - uses: jamesgeorge007/github-activity-readme@master
         env:
-          GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
         with:
           COMMIT_MSG: 'chore: update recent activity'
