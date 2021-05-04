@@ -40,7 +40,7 @@ jobs:
       - name: Install dependencies
         run: npm i
 
-      - name: Update 
+      - name: Update Profile
         run: npm run update-readme
         env:
           GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
@@ -49,3 +49,10 @@ jobs:
         with:
           commit_message: 'chore: update'
           branch: master
+
+      - name: Update Activity
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+        with:
+          COMMIT_MSG: 'chore: update recent activity'
