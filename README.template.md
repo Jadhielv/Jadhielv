@@ -21,7 +21,7 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
 - 🔭 I’m currently working on **[{gh_repo_name}]({gh_repo_url})** repo.
 - 👨🏻‍💻 I’m contribute **[{gh_repos_count} open source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** 🇩🇴 and **[Vue](https://github.com/VueDominicana)** 🇩🇴 communities.
-- 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**
+- 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
 
 🚀 **Skills:**
 
