@@ -18,7 +18,7 @@
 
 A <em>**Senior Software Developer**</em> passionate about <em>**Web Development**</em> and Tech Enthusiast from Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[search-tasks](https://github.com/Jadhielv/search-tasks)** repo.
+- 🔭 I’m currently working on **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** repo.
 - 👨🏻‍💻 I’m contribute **[19 open source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** 🇩🇴 and **[Vue](https://github.com/VueDominicana)** 🇩🇴 communities.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/10) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-2. 🗣 Commented on [#2227](https://github.com/sweetalert2/sweetalert2/issues/2227) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
-3. 💪 Opened PR [#2227](https://github.com/sweetalert2/sweetalert2/pull/2227) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
-4. ❌ Closed PR [#210](https://github.com/nminaya/grammar-nazi-bot/pull/210) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-5. ❗️ Closed issue [#208](https://github.com/nminaya/grammar-nazi-bot/issues/208) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+1. 🎉 Merged PR [#7](https://github.com/Jadhielv/search-tasks/pull/7) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🎉 Merged PR [#10](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/10) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+3. 🗣 Commented on [#2227](https://github.com/sweetalert2/sweetalert2/issues/2227) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
+4. 💪 Opened PR [#2227](https://github.com/sweetalert2/sweetalert2/pull/2227) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
+5. ❌ Closed PR [#210](https://github.com/nminaya/grammar-nazi-bot/pull/210) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
 <!--END_SECTION:activity-->
 </details>
