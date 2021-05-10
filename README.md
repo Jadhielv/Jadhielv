@@ -18,7 +18,7 @@
 
 A <em>**Senior Software Developer**</em> passionate about <em>**Web Development**</em> and Tech Enthusiast from Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[first-pwa-start](https://github.com/Jadhielv/first-pwa-start)** repo.
+- 🔭 I’m currently working on **[course-project-pwa](https://github.com/Jadhielv/course-project-pwa)** repo.
 - 👨🏻‍💻 I’m contribute **[19 open source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** 🇩🇴 and **[Vue](https://github.com/VueDominicana)** 🇩🇴 communities.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
