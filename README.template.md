@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/10) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-2. 🗣 Commented on [#2227](https://github.com/sweetalert2/sweetalert2/issues/2227) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
-3. 💪 Opened PR [#2227](https://github.com/sweetalert2/sweetalert2/pull/2227) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
-4. ❌ Closed PR [#210](https://github.com/nminaya/grammar-nazi-bot/pull/210) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-5. ❗️ Closed issue [#208](https://github.com/nminaya/grammar-nazi-bot/issues/208) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+1. 🎉 Merged PR [#7](https://github.com/Jadhielv/search-tasks/pull/7) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🎉 Merged PR [#10](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/10) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+3. 🗣 Commented on [#2227](https://github.com/sweetalert2/sweetalert2/issues/2227) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
+4. 💪 Opened PR [#2227](https://github.com/sweetalert2/sweetalert2/pull/2227) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
+5. ❌ Closed PR [#210](https://github.com/nminaya/grammar-nazi-bot/pull/210) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
 <!--END_SECTION:activity-->
 </details>
