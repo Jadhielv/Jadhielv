@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Jadhielv/course-project-pwa/pull/2) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
-2. 🎉 Merged PR [#1](https://github.com/Jadhielv/first-pwa-start/pull/1) in [Jadhielv/first-pwa-start](https://github.com/Jadhielv/first-pwa-start)
-3. 🎉 Merged PR [#7](https://github.com/Jadhielv/search-tasks/pull/7) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. 🎉 Merged PR [#10](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/10) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-5. 🗣 Commented on [#2227](https://github.com/sweetalert2/sweetalert2/issues/2227) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
+1. 🗣 Commented on [#116](https://github.com/nminaya/grammar-nazi-bot/issues/116) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+2. 🗣 Commented on [#116](https://github.com/nminaya/grammar-nazi-bot/issues/116) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+3. 🎉 Merged PR [#2](https://github.com/Jadhielv/course-project-pwa/pull/2) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
+4. 🎉 Merged PR [#1](https://github.com/Jadhielv/first-pwa-start/pull/1) in [Jadhielv/first-pwa-start](https://github.com/Jadhielv/first-pwa-start)
+5. 🎉 Merged PR [#7](https://github.com/Jadhielv/search-tasks/pull/7) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
