@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#108](https://github.com/VueDominicana/DominicanWhoCodes/issues/108) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-2. 🗣 Commented on [#111](https://github.com/VueDominicana/DominicanWhoCodes/issues/111) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-3. 🎉 Merged PR [#11](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/11) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-4. 🗣 Commented on [#116](https://github.com/nminaya/grammar-nazi-bot/issues/116) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+1. 🎉 Merged PR [#3](https://github.com/Jadhielv/course-project-pwa/pull/3) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
+2. 🗣 Commented on [#108](https://github.com/VueDominicana/DominicanWhoCodes/issues/108) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+3. 🗣 Commented on [#111](https://github.com/VueDominicana/DominicanWhoCodes/issues/111) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+4. 🎉 Merged PR [#11](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/11) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
 5. 🗣 Commented on [#116](https://github.com/nminaya/grammar-nazi-bot/issues/116) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
 <!--END_SECTION:activity-->
 </details>
