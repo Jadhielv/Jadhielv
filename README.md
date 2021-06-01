@@ -18,7 +18,7 @@
 
 A <em>**Senior Software Developer**</em> passionate about <em>**Web Development**</em> and Tech Enthusiast from Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[KCTest](https://github.com/Jadhielv/KCTest)** repo.
+- 🔭 I’m currently working on **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** repo.
 - 👨🏻‍💻 I’m contribute **[19 open source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** 🇩🇴 and **[Vue](https://github.com/VueDominicana)** 🇩🇴 communities.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Jadhielv/course-project-pwa/pull/3) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
-2. 🗣 Commented on [#108](https://github.com/VueDominicana/DominicanWhoCodes/issues/108) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-3. 🗣 Commented on [#111](https://github.com/VueDominicana/DominicanWhoCodes/issues/111) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-4. 🎉 Merged PR [#11](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/11) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-5. 🗣 Commented on [#116](https://github.com/nminaya/grammar-nazi-bot/issues/116) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+1. 💪 Opened PR [#39](https://github.com/Jadhielv/KCTest/pull/39) in [Jadhielv/KCTest](https://github.com/Jadhielv/KCTest)
+2. 🎉 Merged PR [#3](https://github.com/Jadhielv/course-project-pwa/pull/3) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
+3. 🗣 Commented on [#108](https://github.com/VueDominicana/DominicanWhoCodes/issues/108) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+4. 🗣 Commented on [#111](https://github.com/VueDominicana/DominicanWhoCodes/issues/111) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+5. 🎉 Merged PR [#11](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/11) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
 <!--END_SECTION:activity-->
 </details>
