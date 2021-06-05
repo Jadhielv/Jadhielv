@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/Jadhielv/KCTest/pull/39) in [Jadhielv/KCTest](https://github.com/Jadhielv/KCTest)
-2. 💪 Opened PR [#39](https://github.com/Jadhielv/KCTest/pull/39) in [Jadhielv/KCTest](https://github.com/Jadhielv/KCTest)
-3. 🎉 Merged PR [#3](https://github.com/Jadhielv/course-project-pwa/pull/3) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
-4. 🗣 Commented on [#108](https://github.com/VueDominicana/DominicanWhoCodes/issues/108) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-5. 🗣 Commented on [#111](https://github.com/VueDominicana/DominicanWhoCodes/issues/111) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+1. 🎉 Merged PR [#12](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/12) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+2. 🎉 Merged PR [#39](https://github.com/Jadhielv/KCTest/pull/39) in [Jadhielv/KCTest](https://github.com/Jadhielv/KCTest)
+3. 💪 Opened PR [#39](https://github.com/Jadhielv/KCTest/pull/39) in [Jadhielv/KCTest](https://github.com/Jadhielv/KCTest)
+4. 🎉 Merged PR [#3](https://github.com/Jadhielv/course-project-pwa/pull/3) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
+5. 🗣 Commented on [#108](https://github.com/VueDominicana/DominicanWhoCodes/issues/108) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
