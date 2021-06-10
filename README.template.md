@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Jadhielv/search-tasks/pull/8) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🎉 Merged PR [#12](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/12) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-3. 🎉 Merged PR [#39](https://github.com/Jadhielv/KCTest/pull/39) in [Jadhielv/KCTest](https://github.com/Jadhielv/KCTest)
-4. 💪 Opened PR [#39](https://github.com/Jadhielv/KCTest/pull/39) in [Jadhielv/KCTest](https://github.com/Jadhielv/KCTest)
-5. 🎉 Merged PR [#3](https://github.com/Jadhielv/course-project-pwa/pull/3) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
+1. 🎉 Merged PR [#108](https://github.com/VueDominicana/DominicanWhoCodes/pull/108) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+2. 🎉 Merged PR [#113](https://github.com/VueDominicana/DominicanWhoCodes/pull/113) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+3. 🎉 Merged PR [#111](https://github.com/VueDominicana/DominicanWhoCodes/pull/111) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+4. 🎉 Merged PR [#8](https://github.com/Jadhielv/search-tasks/pull/8) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. 🎉 Merged PR [#12](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/12) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
 <!--END_SECTION:activity-->
 </details>
