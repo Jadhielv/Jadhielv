@@ -18,7 +18,7 @@
 
 A <em>**Senior Software Developer**</em> passionate about <em>**Web Development**</em> and Tech Enthusiast from Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[search-tasks](https://github.com/Jadhielv/search-tasks)** repo.
+- 🔭 I’m currently working on **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** repo.
 - 👨🏻‍💻 I’m contribute **[19 open source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** 🇩🇴 and **[Vue](https://github.com/VueDominicana)** 🇩🇴 communities.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#108](https://github.com/VueDominicana/DominicanWhoCodes/pull/108) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-2. 🎉 Merged PR [#113](https://github.com/VueDominicana/DominicanWhoCodes/pull/113) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-3. 🎉 Merged PR [#111](https://github.com/VueDominicana/DominicanWhoCodes/pull/111) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-4. 🎉 Merged PR [#8](https://github.com/Jadhielv/search-tasks/pull/8) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 🎉 Merged PR [#12](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/12) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+1. 🎉 Merged PR [#250](https://github.com/nminaya/grammar-nazi-bot/pull/250) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+2. ❗️ Closed issue [#116](https://github.com/nminaya/grammar-nazi-bot/issues/116) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+3. 🎉 Merged PR [#108](https://github.com/VueDominicana/DominicanWhoCodes/pull/108) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+4. 🎉 Merged PR [#113](https://github.com/VueDominicana/DominicanWhoCodes/pull/113) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+5. 🎉 Merged PR [#111](https://github.com/VueDominicana/DominicanWhoCodes/pull/111) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
