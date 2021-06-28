@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#264](https://github.com/nminaya/grammar-nazi-bot/pull/264) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-2. 🗣 Commented on [#259](https://github.com/nminaya/grammar-nazi-bot/issues/259) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-3. 🎉 Merged PR [#250](https://github.com/nminaya/grammar-nazi-bot/pull/250) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-4. ❗️ Closed issue [#116](https://github.com/nminaya/grammar-nazi-bot/issues/116) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-5. 🎉 Merged PR [#108](https://github.com/VueDominicana/DominicanWhoCodes/pull/108) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+1. 🎉 Merged PR [#264](https://github.com/nminaya/grammar-nazi-bot/pull/264) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+2. ❗️ Closed issue [#259](https://github.com/nminaya/grammar-nazi-bot/issues/259) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+3. 💪 Opened PR [#264](https://github.com/nminaya/grammar-nazi-bot/pull/264) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+4. 🗣 Commented on [#259](https://github.com/nminaya/grammar-nazi-bot/issues/259) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+5. 🎉 Merged PR [#250](https://github.com/nminaya/grammar-nazi-bot/pull/250) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
 <!--END_SECTION:activity-->
 </details>
