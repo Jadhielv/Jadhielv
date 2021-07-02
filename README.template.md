@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#165](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/165) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. ❗️ Opened issue [#164](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/164) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. 🎉 Merged PR [#264](https://github.com/nminaya/grammar-nazi-bot/pull/264) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-4. ❗️ Closed issue [#259](https://github.com/nminaya/grammar-nazi-bot/issues/259) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-5. 💪 Opened PR [#264](https://github.com/nminaya/grammar-nazi-bot/pull/264) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+1. 🎉 Merged PR [#165](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/165) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. ❗️ Closed issue [#164](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/164) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 💪 Opened PR [#165](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/165) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. ❗️ Opened issue [#164](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/164) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. 🎉 Merged PR [#264](https://github.com/nminaya/grammar-nazi-bot/pull/264) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
 <!--END_SECTION:activity-->
 </details>
