@@ -71,9 +71,9 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#269](https://github.com/nminaya/grammar-nazi-bot/issues/269) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-2. 🗣 Commented on [#1956](https://github.com/sweetalert2/sweetalert2/issues/1956) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
-3. 🎉 Merged PR [#167](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/167) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. 🗣 Commented on [#148](https://github.com/shikijs/shiki/issues/148) in [shikijs/shiki](https://github.com/shikijs/shiki)
+2. 🗣 Commented on [#269](https://github.com/nminaya/grammar-nazi-bot/issues/269) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+3. 🗣 Commented on [#1956](https://github.com/sweetalert2/sweetalert2/issues/1956) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
 4. ❗️ Closed issue [#166](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/166) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 5. 🗣 Commented on [#167](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/167) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
