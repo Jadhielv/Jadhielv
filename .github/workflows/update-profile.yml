@@ -46,9 +46,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
         with:
-          COMMIT_MSG: 'chore: update recent activity'
+          COMMIT_MSG: 'chore: update'
 
       - uses: stefanzweifel/git-auto-commit-action@v4.1.2
         with:
-          commit_message: 'chore: update profile'
+          commit_message: 'chore: update'
           branch: master
