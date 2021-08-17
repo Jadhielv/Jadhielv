@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#204](https://github.com/shikijs/shiki/pull/204) in [shikijs/shiki](https://github.com/shikijs/shiki)
-2. 🎉 Merged PR [#10](https://github.com/Jadhielv/search-tasks/pull/10) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. 🗣 Commented on [#148](https://github.com/shikijs/shiki/issues/148) in [shikijs/shiki](https://github.com/shikijs/shiki)
-4. ❗️ Closed issue [#166](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/166) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. ❗️ Opened issue [#18](https://github.com/itsalb3rt/blog-gui/issues/18) in [itsalb3rt/blog-gui](https://github.com/itsalb3rt/blog-gui)
+2. 💪 Opened PR [#204](https://github.com/shikijs/shiki/pull/204) in [shikijs/shiki](https://github.com/shikijs/shiki)
+3. 🎉 Merged PR [#10](https://github.com/Jadhielv/search-tasks/pull/10) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. 🗣 Commented on [#148](https://github.com/shikijs/shiki/issues/148) in [shikijs/shiki](https://github.com/shikijs/shiki)
 5. 🗣 Commented on [#167](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/167) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
