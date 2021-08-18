@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#2](https://github.com/cassidoo/cass.run/pull/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
-2. ❌ Closed PR [#2](https://github.com/cassidoo/cass.run/pull/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
-3. 💪 Opened PR [#2](https://github.com/cassidoo/cass.run/pull/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
-4. ❗️ Opened issue [#18](https://github.com/itsalb3rt/blog-gui/issues/18) in [itsalb3rt/blog-gui](https://github.com/itsalb3rt/blog-gui)
-5. 💪 Opened PR [#204](https://github.com/shikijs/shiki/pull/204) in [shikijs/shiki](https://github.com/shikijs/shiki)
+1. 🗣 Commented on [#2](https://github.com/cassidoo/cass.run/issues/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
+2. ❌ Reopened PR [#2](https://github.com/cassidoo/cass.run/pull/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
+3. ❌ Closed PR [#2](https://github.com/cassidoo/cass.run/pull/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
+4. 💪 Opened PR [#2](https://github.com/cassidoo/cass.run/pull/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
+5. ❗️ Opened issue [#18](https://github.com/itsalb3rt/blog-gui/issues/18) in [itsalb3rt/blog-gui](https://github.com/itsalb3rt/blog-gui)
 <!--END_SECTION:activity-->
 </details>
