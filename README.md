@@ -18,7 +18,7 @@
 
 A <em>**Senior Software Developer**</em> passionate about <em>**Web Development**</em> and Tech Enthusiast from Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** repo.
+- 🔭 I’m currently working on **[first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)** repo.
 - 👨🏻‍💻 I’m contribute **[21 open source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** 🇩🇴 and **[Vue](https://github.com/VueDominicana)** 🇩🇴 communities.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/cassidoo/cass.run/issues/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
-2. ❌ Reopened PR [#2](https://github.com/cassidoo/cass.run/pull/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
-3. ❌ Closed PR [#2](https://github.com/cassidoo/cass.run/pull/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
-4. 💪 Opened PR [#2](https://github.com/cassidoo/cass.run/pull/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
-5. ❗️ Opened issue [#18](https://github.com/itsalb3rt/blog-gui/issues/18) in [itsalb3rt/blog-gui](https://github.com/itsalb3rt/blog-gui)
+1. 🎉 Merged PR [#13](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/13) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+2. 🗣 Commented on [#2](https://github.com/cassidoo/cass.run/issues/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
+3. ❌ Reopened PR [#2](https://github.com/cassidoo/cass.run/pull/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
+4. ❌ Closed PR [#2](https://github.com/cassidoo/cass.run/pull/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
+5. 💪 Opened PR [#2](https://github.com/cassidoo/cass.run/pull/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
 <!--END_SECTION:activity-->
 </details>
