@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/13) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-2. 🗣 Commented on [#2](https://github.com/cassidoo/cass.run/issues/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
-3. ❌ Reopened PR [#2](https://github.com/cassidoo/cass.run/pull/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
-4. ❌ Closed PR [#2](https://github.com/cassidoo/cass.run/pull/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
-5. 💪 Opened PR [#2](https://github.com/cassidoo/cass.run/pull/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
+1. 🎉 Merged PR [#14](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/14) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+2. 🎉 Merged PR [#15](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/15) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+3. 🎉 Merged PR [#13](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/13) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+4. 🗣 Commented on [#2](https://github.com/cassidoo/cass.run/issues/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
+5. ❌ Reopened PR [#2](https://github.com/cassidoo/cass.run/pull/2) in [cassidoo/cass.run](https://github.com/cassidoo/cass.run)
 <!--END_SECTION:activity-->
 </details>
