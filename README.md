@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6913](https://github.com/unoplatform/uno/issues/6913) in [unoplatform/uno](https://github.com/unoplatform/uno)
-2. 💪 Opened PR [#208](https://github.com/shikijs/shiki/pull/208) in [shikijs/shiki](https://github.com/shikijs/shiki)
-3. ❗️ Opened issue [#207](https://github.com/shikijs/shiki/issues/207) in [shikijs/shiki](https://github.com/shikijs/shiki)
-4. 🎉 Merged PR [#14](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/14) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-5. 🎉 Merged PR [#15](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/15) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+1. 🗣 Commented on [#6913](https://github.com/unoplatform/uno/issues/6913) in [unoplatform/uno](https://github.com/unoplatform/uno)
+2. 🗣 Commented on [#6913](https://github.com/unoplatform/uno/issues/6913) in [unoplatform/uno](https://github.com/unoplatform/uno)
+3. ❗️ Opened issue [#6913](https://github.com/unoplatform/uno/issues/6913) in [unoplatform/uno](https://github.com/unoplatform/uno)
+4. 💪 Opened PR [#208](https://github.com/shikijs/shiki/pull/208) in [shikijs/shiki](https://github.com/shikijs/shiki)
+5. ❗️ Opened issue [#207](https://github.com/shikijs/shiki/issues/207) in [shikijs/shiki](https://github.com/shikijs/shiki)
 <!--END_SECTION:activity-->
 </details>
