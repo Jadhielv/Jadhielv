@@ -74,7 +74,7 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
 1. 🗣 Commented on [#6913](https://github.com/unoplatform/uno/issues/6913) in [unoplatform/uno](https://github.com/unoplatform/uno)
 2. 🗣 Commented on [#6913](https://github.com/unoplatform/uno/issues/6913) in [unoplatform/uno](https://github.com/unoplatform/uno)
 3. 🗣 Commented on [#6913](https://github.com/unoplatform/uno/issues/6913) in [unoplatform/uno](https://github.com/unoplatform/uno)
-4. ❗️ Opened issue [#6913](https://github.com/unoplatform/uno/issues/6913) in [unoplatform/uno](https://github.com/unoplatform/uno)
-5. 💪 Opened PR [#208](https://github.com/shikijs/shiki/pull/208) in [shikijs/shiki](https://github.com/shikijs/shiki)
+4. 🗣 Commented on [#6913](https://github.com/unoplatform/uno/issues/6913) in [unoplatform/uno](https://github.com/unoplatform/uno)
+5. ❗️ Opened issue [#6913](https://github.com/unoplatform/uno/issues/6913) in [unoplatform/uno](https://github.com/unoplatform/uno)
 <!--END_SECTION:activity-->
 </details>
