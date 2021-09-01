@@ -71,8 +71,8 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/shikijs/shiki-playground/issues/2) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
-2. 🗣 Commented on [#6913](https://github.com/unoplatform/uno/issues/6913) in [unoplatform/uno](https://github.com/unoplatform/uno)
+1. 💪 Opened PR [#3](https://github.com/shikijs/shiki-playground/pull/3) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
+2. ❗️ Opened issue [#2](https://github.com/shikijs/shiki-playground/issues/2) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
 3. 🗣 Commented on [#6913](https://github.com/unoplatform/uno/issues/6913) in [unoplatform/uno](https://github.com/unoplatform/uno)
 4. 🗣 Commented on [#6913](https://github.com/unoplatform/uno/issues/6913) in [unoplatform/uno](https://github.com/unoplatform/uno)
 5. 🗣 Commented on [#6913](https://github.com/unoplatform/uno/issues/6913) in [unoplatform/uno](https://github.com/unoplatform/uno)
