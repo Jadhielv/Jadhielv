@@ -75,6 +75,6 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
 2. 🗣 Commented on [#3](https://github.com/shikijs/shiki-playground/issues/3) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
 3. 💪 Opened PR [#3](https://github.com/shikijs/shiki-playground/pull/3) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
 4. ❗️ Opened issue [#2](https://github.com/shikijs/shiki-playground/issues/2) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
-5. 🗣 Commented on [#6913](https://github.com/unoplatform/uno/issues/6913) in [unoplatform/uno](https://github.com/unoplatform/uno)
+5. 🗣 Commented on [#167](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/167) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
