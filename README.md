@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7237](https://github.com/unoplatform/uno/pull/7237) in [unoplatform/uno](https://github.com/unoplatform/uno)
-2. 🗣 Commented on [#297](https://github.com/nminaya/grammar-nazi-bot/issues/297) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-3. 🗣 Commented on [#3](https://github.com/shikijs/shiki-playground/issues/3) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
-4. 💪 Opened PR [#3](https://github.com/shikijs/shiki-playground/pull/3) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
-5. ❗️ Opened issue [#2](https://github.com/shikijs/shiki-playground/issues/2) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
+1. 🗣 Commented on [#7237](https://github.com/unoplatform/uno/issues/7237) in [unoplatform/uno](https://github.com/unoplatform/uno)
+2. 💪 Opened PR [#7237](https://github.com/unoplatform/uno/pull/7237) in [unoplatform/uno](https://github.com/unoplatform/uno)
+3. 🗣 Commented on [#297](https://github.com/nminaya/grammar-nazi-bot/issues/297) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+4. 🗣 Commented on [#3](https://github.com/shikijs/shiki-playground/issues/3) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
+5. 💪 Opened PR [#3](https://github.com/shikijs/shiki-playground/pull/3) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
 <!--END_SECTION:activity-->
 </details>
