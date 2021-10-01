@@ -74,7 +74,7 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
 1. 🗣 Commented on [#1956](https://github.com/sweetalert2/sweetalert2/issues/1956) in [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
 2. 🗣 Commented on [#7237](https://github.com/unoplatform/uno/issues/7237) in [unoplatform/uno](https://github.com/unoplatform/uno)
 3. 💪 Opened PR [#7237](https://github.com/unoplatform/uno/pull/7237) in [unoplatform/uno](https://github.com/unoplatform/uno)
-4. 🗣 Commented on [#297](https://github.com/nminaya/grammar-nazi-bot/issues/297) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-5. 🗣 Commented on [#3](https://github.com/shikijs/shiki-playground/issues/3) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
+4. ❗️ Closed issue [#166](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/166) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. 🗣 Commented on [#167](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/167) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
