@@ -71,9 +71,9 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/Jadhielv/ITL/pull/41) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. ❗️ Opened issue [#40](https://github.com/Jadhielv/ITL/issues/40) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🗣 Commented on [#269](https://github.com/nminaya/grammar-nazi-bot/issues/269) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+1. 💪 Opened PR [#31](https://github.com/Streamelopers/opus-web/pull/31) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+2. 💪 Opened PR [#41](https://github.com/Jadhielv/ITL/pull/41) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. ❗️ Opened issue [#40](https://github.com/Jadhielv/ITL/issues/40) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 4. ❗️ Closed issue [#166](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/166) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 5. 🗣 Commented on [#167](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/167) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
