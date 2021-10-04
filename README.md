@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#242](https://github.com/quasarframework/quasar-awesome/pull/242) in [quasarframework/quasar-awesome](https://github.com/quasarframework/quasar-awesome)
-2. 🎉 Merged PR [#41](https://github.com/Jadhielv/ITL/pull/41) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. ❗️ Closed issue [#40](https://github.com/Jadhielv/ITL/issues/40) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 💪 Opened PR [#31](https://github.com/Streamelopers/opus-web/pull/31) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
-5. 💪 Opened PR [#41](https://github.com/Jadhielv/ITL/pull/41) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🗣 Commented on [#242](https://github.com/quasarframework/quasar-awesome/issues/242) in [quasarframework/quasar-awesome](https://github.com/quasarframework/quasar-awesome)
+2. 💪 Opened PR [#242](https://github.com/quasarframework/quasar-awesome/pull/242) in [quasarframework/quasar-awesome](https://github.com/quasarframework/quasar-awesome)
+3. 🎉 Merged PR [#41](https://github.com/Jadhielv/ITL/pull/41) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. ❗️ Closed issue [#40](https://github.com/Jadhielv/ITL/issues/40) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 💪 Opened PR [#31](https://github.com/Streamelopers/opus-web/pull/31) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
 <!--END_SECTION:activity-->
 </details>
