@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2661](https://github.com/date-fns/date-fns/issues/2661) in [date-fns/date-fns](https://github.com/date-fns/date-fns)
-2. 🗣 Commented on [#242](https://github.com/quasarframework/quasar-awesome/issues/242) in [quasarframework/quasar-awesome](https://github.com/quasarframework/quasar-awesome)
-3. 💪 Opened PR [#242](https://github.com/quasarframework/quasar-awesome/pull/242) in [quasarframework/quasar-awesome](https://github.com/quasarframework/quasar-awesome)
-4. 🎉 Merged PR [#41](https://github.com/Jadhielv/ITL/pull/41) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. ❗️ Closed issue [#40](https://github.com/Jadhielv/ITL/issues/40) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 💪 Opened PR [#51](https://github.com/Streamelopers/opus-api/pull/51) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+2. 🗣 Commented on [#2661](https://github.com/date-fns/date-fns/issues/2661) in [date-fns/date-fns](https://github.com/date-fns/date-fns)
+3. 🗣 Commented on [#242](https://github.com/quasarframework/quasar-awesome/issues/242) in [quasarframework/quasar-awesome](https://github.com/quasarframework/quasar-awesome)
+4. 💪 Opened PR [#242](https://github.com/quasarframework/quasar-awesome/pull/242) in [quasarframework/quasar-awesome](https://github.com/quasarframework/quasar-awesome)
+5. 🎉 Merged PR [#41](https://github.com/Jadhielv/ITL/pull/41) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
