@@ -71,10 +71,10 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#298](https://github.com/nminaya/grammar-nazi-bot/issues/298) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-2. 🗣 Commented on [#298](https://github.com/nminaya/grammar-nazi-bot/issues/298) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-3. 💪 Opened PR [#51](https://github.com/Streamelopers/opus-api/pull/51) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-4. 🗣 Commented on [#2661](https://github.com/date-fns/date-fns/issues/2661) in [date-fns/date-fns](https://github.com/date-fns/date-fns)
-5. 🗣 Commented on [#242](https://github.com/quasarframework/quasar-awesome/issues/242) in [quasarframework/quasar-awesome](https://github.com/quasarframework/quasar-awesome)
+1. 💪 Opened PR [#174](https://github.com/leonardomso/33-js-concepts/pull/174) in [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+2. ❗️ Opened issue [#173](https://github.com/leonardomso/33-js-concepts/issues/173) in [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+3. 🗣 Commented on [#298](https://github.com/nminaya/grammar-nazi-bot/issues/298) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+4. 🗣 Commented on [#298](https://github.com/nminaya/grammar-nazi-bot/issues/298) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+5. 💪 Opened PR [#51](https://github.com/Streamelopers/opus-api/pull/51) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
 <!--END_SECTION:activity-->
 </details>
