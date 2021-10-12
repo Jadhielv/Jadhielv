@@ -72,9 +72,9 @@ A <em>**Senior Software Developer**</em> passionate about <em>**Web Development*
     
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#298](https://github.com/nminaya/grammar-nazi-bot/issues/298) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-2. 💪 Opened PR [#51](https://github.com/Streamelopers/opus-api/pull/51) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-3. 🗣 Commented on [#2661](https://github.com/date-fns/date-fns/issues/2661) in [date-fns/date-fns](https://github.com/date-fns/date-fns)
-4. 🗣 Commented on [#242](https://github.com/quasarframework/quasar-awesome/issues/242) in [quasarframework/quasar-awesome](https://github.com/quasarframework/quasar-awesome)
-5. 💪 Opened PR [#242](https://github.com/quasarframework/quasar-awesome/pull/242) in [quasarframework/quasar-awesome](https://github.com/quasarframework/quasar-awesome)
+2. 🗣 Commented on [#298](https://github.com/nminaya/grammar-nazi-bot/issues/298) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+3. 💪 Opened PR [#51](https://github.com/Streamelopers/opus-api/pull/51) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+4. 🗣 Commented on [#2661](https://github.com/date-fns/date-fns/issues/2661) in [date-fns/date-fns](https://github.com/date-fns/date-fns)
+5. 🗣 Commented on [#242](https://github.com/quasarframework/quasar-awesome/issues/242) in [quasarframework/quasar-awesome](https://github.com/quasarframework/quasar-awesome)
 <!--END_SECTION:activity-->
 </details>
