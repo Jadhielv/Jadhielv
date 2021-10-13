@@ -6,9 +6,6 @@
 <a href="https://www.freecodecamp.org/jadhielv">
     <img alt="Jadhiel Vélez | freeCodeCamp" title="freeCodeCamp Certifications" src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white"/>
 </a>
-<a href="https://dev.to/jadhielv">
-    <img alt="Jadhiel Vélez | DEV Profile" title="Follow me on DEV Community" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-</a>
 
 <br />
 <br />
