@@ -7,6 +7,8 @@
     <img alt="Jadhiel Vélez | freeCodeCamp" title="freeCodeCamp Certifications" src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white"/>
 </a>
 
+[![wakatime](https://wakatime.com/badge/user/807d1c4c-0d5e-495f-8731-9ab4d3541445.svg)](https://wakatime.com/@807d1c4c-0d5e-495f-8731-9ab4d3541445)
+
 <br />
 <br />
 
