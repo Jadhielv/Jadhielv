@@ -1,16 +1,8 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> -  I'm Jadhiel!
 
-<a href="https://www.linkedin.com/in/jadhielv/">
-    <img alt="Jadhiel Vélez | LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.freecodecamp.org/jadhielv">
-    <img alt="Jadhiel Vélez | freeCodeCamp" title="freeCodeCamp Certifications" src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white"/>
-</a>
-
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhielv/)
+[![freecodecamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/jadhielv)
 [![wakatime](https://wakatime.com/badge/user/807d1c4c-0d5e-495f-8731-9ab4d3541445.svg)](https://wakatime.com/@807d1c4c-0d5e-495f-8731-9ab4d3541445)
-
-<br />
-<br />
 
 A <em>**Senior Software Developer**</em> passionate about <em>**Web Development**</em> and Tech Enthusiast from Dominican Republic 🇩🇴🌴.
 
