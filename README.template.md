@@ -1,8 +1,5 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> -  I'm Jadhiel!
 
-<a href="https://twitter.com/JadhielV">
-    <img alt="Jadhiel Vélez | Twitter" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
 <a href="https://www.linkedin.com/in/jadhielv/">
     <img alt="Jadhiel Vélez | LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
