@@ -4,7 +4,7 @@
 [![freecodecamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white&style=plastic)](https://www.freecodecamp.org/jadhielv)
 [![wakatime](https://wakatime.com/badge/user/807d1c4c-0d5e-495f-8731-9ab4d3541445.svg)](https://wakatime.com/@807d1c4c-0d5e-495f-8731-9ab4d3541445)
 
-A <em>**Sr. Software Developer**</em> passionate about <em>**Web Development**</em> and Tech Enthusiast from Dominican Republic 🇩🇴🌴.
+I'm a <em>**Sr. Software Developer**</em> from Dominican Republic 🇩🇴🌴.
 
 - 🔭 I’m currently working on **[{gh_repo_name}]({gh_repo_url})** repo.
 - 👨🏻‍💻 I’m contribute **[{gh_repos_count} open source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time.
@@ -59,10 +59,10 @@ A <em>**Sr. Software Developer**</em> passionate about <em>**Web Development**</
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Jadhielv/search-tasks/pull/10) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🗣 Commented on [#148](https://github.com/shikijs/shiki/issues/148) in [shikijs/shiki](https://github.com/shikijs/shiki)
-3. 🗣 Commented on [#269](https://github.com/nminaya/grammar-nazi-bot/issues/269) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-4. ❗️ Closed issue [#166](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/166) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. 🗣 Commented on [#167](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/167) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. 💪 Opened PR [#174](https://github.com/leonardomso/33-js-concepts/pull/174) in [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+2. ❗️ Opened issue [#173](https://github.com/leonardomso/33-js-concepts/issues/173) in [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+3. 🗣 Commented on [#298](https://github.com/nminaya/grammar-nazi-bot/issues/298) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+4. 🗣 Commented on [#298](https://github.com/nminaya/grammar-nazi-bot/issues/298) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+5. 💪 Opened PR [#51](https://github.com/Streamelopers/opus-api/pull/51) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
 <!--END_SECTION:activity-->
 </details>
