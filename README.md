@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Software Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/Streamelopers/opus-api/issues/53) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-2. 💪 Opened PR [#176](https://github.com/leonardomso/33-js-concepts/pull/176) in [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-3. ❗️ Opened issue [#175](https://github.com/leonardomso/33-js-concepts/issues/175) in [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-4. 🗣 Commented on [#117](https://github.com/VueDominicana/DominicanWhoCodes/issues/117) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-5. 💪 Opened PR [#174](https://github.com/leonardomso/33-js-concepts/pull/174) in [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+1. ❗️ Opened issue [#55](https://github.com/Streamelopers/opus-api/issues/55) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+2. 🗣 Commented on [#53](https://github.com/Streamelopers/opus-api/issues/53) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+3. 💪 Opened PR [#176](https://github.com/leonardomso/33-js-concepts/pull/176) in [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+4. ❗️ Opened issue [#175](https://github.com/leonardomso/33-js-concepts/issues/175) in [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+5. 🗣 Commented on [#117](https://github.com/VueDominicana/DominicanWhoCodes/issues/117) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
