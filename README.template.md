@@ -4,7 +4,7 @@
 [![freecodecamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white&style=plastic)](https://www.freecodecamp.org/jadhielv)
 [![wakatime](https://wakatime.com/badge/user/807d1c4c-0d5e-495f-8731-9ab4d3541445.svg)](https://wakatime.com/@807d1c4c-0d5e-495f-8731-9ab4d3541445)
 
-I'm a <em>**Sr. Software Developer**</em> from Dominican Republic 🇩🇴🌴.
+I'm a <em>***`Sr. Software Developer`***</em> from Dominican Republic 🇩🇴🌴.
 
 - 🔭 I’m currently working on **[{gh_repo_name}]({gh_repo_url})** repo.
 - 👨🏻‍💻 I’m contribute **[{gh_repos_count} open source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time.
