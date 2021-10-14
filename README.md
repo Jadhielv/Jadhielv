@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Software Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#174](https://github.com/leonardomso/33-js-concepts/pull/174) in [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-2. ❗️ Opened issue [#173](https://github.com/leonardomso/33-js-concepts/issues/173) in [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-3. 🗣 Commented on [#298](https://github.com/nminaya/grammar-nazi-bot/issues/298) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+1. 🗣 Commented on [#117](https://github.com/VueDominicana/DominicanWhoCodes/issues/117) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+2. 💪 Opened PR [#174](https://github.com/leonardomso/33-js-concepts/pull/174) in [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+3. ❗️ Opened issue [#173](https://github.com/leonardomso/33-js-concepts/issues/173) in [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
 4. 🗣 Commented on [#298](https://github.com/nminaya/grammar-nazi-bot/issues/298) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-5. 💪 Opened PR [#51](https://github.com/Streamelopers/opus-api/pull/51) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+5. 🗣 Commented on [#298](https://github.com/nminaya/grammar-nazi-bot/issues/298) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
 <!--END_SECTION:activity-->
 </details>
