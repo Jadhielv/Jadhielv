@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Software Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/Streamelopers/opus-web/pull/34) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
-2. 🗣 Commented on [#11](https://github.com/Streamelopers/opus-web/issues/11) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
-3. 💪 Opened PR [#56](https://github.com/Streamelopers/opus-api/pull/56) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-4. ❗️ Opened issue [#55](https://github.com/Streamelopers/opus-api/issues/55) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-5. 🗣 Commented on [#53](https://github.com/Streamelopers/opus-api/issues/53) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+1. 🗣 Commented on [#34](https://github.com/Streamelopers/opus-web/issues/34) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+2. 💪 Opened PR [#34](https://github.com/Streamelopers/opus-web/pull/34) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+3. 🗣 Commented on [#11](https://github.com/Streamelopers/opus-web/issues/11) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+4. 💪 Opened PR [#56](https://github.com/Streamelopers/opus-api/pull/56) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+5. ❗️ Opened issue [#55](https://github.com/Streamelopers/opus-api/issues/55) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
 <!--END_SECTION:activity-->
 </details>
