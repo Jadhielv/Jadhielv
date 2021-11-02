@@ -63,6 +63,6 @@ I'm a <em>***`Sr. Software Developer`***</em> from Dominican Republic 🇩🇴�
 2. ❗️ Opened issue [#63](https://github.com/Streamelopers/opus-api/issues/63) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
 3. 🗣 Commented on [#34](https://github.com/Streamelopers/opus-web/issues/34) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
 4. 💪 Opened PR [#34](https://github.com/Streamelopers/opus-web/pull/34) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
-5. 🗣 Commented on [#11](https://github.com/Streamelopers/opus-web/issues/11) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+5. 💪 Opened PR [#51](https://github.com/Streamelopers/opus-api/pull/51) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
 <!--END_SECTION:activity-->
 </details>
