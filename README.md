@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Software Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs/pull/2) in [refactoring-do/cloud-based-multitenancy-nestjs](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs)
-2. 💪 Opened PR [#1](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs/pull/1) in [refactoring-do/cloud-based-multitenancy-nestjs](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs)
-3. 💪 Opened PR [#64](https://github.com/Streamelopers/opus-api/pull/64) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-4. ❗️ Opened issue [#63](https://github.com/Streamelopers/opus-api/issues/63) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-5. 🗣 Commented on [#34](https://github.com/Streamelopers/opus-web/issues/34) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+1. 🗣 Commented on [#2](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs/issues/2) in [refactoring-do/cloud-based-multitenancy-nestjs](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs)
+2. 🗣 Commented on [#2](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs/issues/2) in [refactoring-do/cloud-based-multitenancy-nestjs](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs)
+3. 💪 Opened PR [#69](https://github.com/Streamelopers/opus-api/pull/69) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+4. 💪 Opened PR [#2](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs/pull/2) in [refactoring-do/cloud-based-multitenancy-nestjs](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs)
+5. 💪 Opened PR [#1](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs/pull/1) in [refactoring-do/cloud-based-multitenancy-nestjs](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs)
 <!--END_SECTION:activity-->
 </details>
