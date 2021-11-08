@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Software Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/Streamelopers/opus-web/pull/45) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
-2. ❗️ Opened issue [#44](https://github.com/Streamelopers/opus-web/issues/44) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
-3. ❗️ Opened issue [#70](https://github.com/Streamelopers/opus-api/issues/70) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-4. 🗣 Commented on [#2](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs/issues/2) in [refactoring-do/cloud-based-multitenancy-nestjs](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs)
+1. ❗️ Opened issue [#323](https://github.com/nminaya/grammar-nazi-bot/issues/323) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+2. 💪 Opened PR [#45](https://github.com/Streamelopers/opus-web/pull/45) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+3. ❗️ Opened issue [#44](https://github.com/Streamelopers/opus-web/issues/44) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+4. ❗️ Opened issue [#70](https://github.com/Streamelopers/opus-api/issues/70) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
 5. 🗣 Commented on [#2](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs/issues/2) in [refactoring-do/cloud-based-multitenancy-nestjs](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs)
 <!--END_SECTION:activity-->
 </details>
