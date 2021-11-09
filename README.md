@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Software Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#345](https://github.com/nminaya/grammar-nazi-bot/pull/345) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-2. ❗️ Closed issue [#70](https://github.com/Streamelopers/opus-api/issues/70) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-3. 🗣 Commented on [#70](https://github.com/Streamelopers/opus-api/issues/70) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-4. ❗️ Opened issue [#323](https://github.com/nminaya/grammar-nazi-bot/issues/323) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-5. 💪 Opened PR [#45](https://github.com/Streamelopers/opus-web/pull/45) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+1. 🗣 Commented on [#46](https://github.com/Streamelopers/opus-web/issues/46) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+2. 💪 Opened PR [#345](https://github.com/nminaya/grammar-nazi-bot/pull/345) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+3. ❗️ Closed issue [#70](https://github.com/Streamelopers/opus-api/issues/70) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+4. 🗣 Commented on [#70](https://github.com/Streamelopers/opus-api/issues/70) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+5. ❗️ Opened issue [#323](https://github.com/nminaya/grammar-nazi-bot/issues/323) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
 <!--END_SECTION:activity-->
 </details>
