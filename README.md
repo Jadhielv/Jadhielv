@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Software Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#568](https://github.com/dotnet/AspNetDocs/pull/568) in [dotnet/AspNetDocs](https://github.com/dotnet/AspNetDocs)
-2. ❗️ Opened issue [#567](https://github.com/dotnet/AspNetDocs/issues/567) in [dotnet/AspNetDocs](https://github.com/dotnet/AspNetDocs)
-3. 💪 Opened PR [#1031](https://github.com/dotnet-foundation/website/pull/1031) in [dotnet-foundation/website](https://github.com/dotnet-foundation/website)
-4. 💪 Opened PR [#137](https://github.com/dotnet-foundation/membership/pull/137) in [dotnet-foundation/membership](https://github.com/dotnet-foundation/membership)
-5. 🗣 Commented on [#46](https://github.com/Streamelopers/opus-web/issues/46) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+1. 🗣 Commented on [#568](https://github.com/dotnet/AspNetDocs/issues/568) in [dotnet/AspNetDocs](https://github.com/dotnet/AspNetDocs)
+2. 💪 Opened PR [#568](https://github.com/dotnet/AspNetDocs/pull/568) in [dotnet/AspNetDocs](https://github.com/dotnet/AspNetDocs)
+3. ❗️ Opened issue [#567](https://github.com/dotnet/AspNetDocs/issues/567) in [dotnet/AspNetDocs](https://github.com/dotnet/AspNetDocs)
+4. 💪 Opened PR [#1031](https://github.com/dotnet-foundation/website/pull/1031) in [dotnet-foundation/website](https://github.com/dotnet-foundation/website)
+5. 💪 Opened PR [#137](https://github.com/dotnet-foundation/membership/pull/137) in [dotnet-foundation/membership](https://github.com/dotnet-foundation/membership)
 <!--END_SECTION:activity-->
 </details>
