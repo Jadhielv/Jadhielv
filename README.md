@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Software Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs/issues/2) in [refactoring-do/cloud-based-multitenancy-nestjs](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs)
+1. 🗣 Commented on [#350](https://github.com/nminaya/grammar-nazi-bot/issues/350) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
 2. 🗣 Commented on [#2](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs/issues/2) in [refactoring-do/cloud-based-multitenancy-nestjs](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs)
-3. 🗣 Commented on [#137](https://github.com/dotnet-foundation/membership/issues/137) in [dotnet-foundation/membership](https://github.com/dotnet-foundation/membership)
-4. 🗣 Commented on [#568](https://github.com/dotnet/AspNetDocs/issues/568) in [dotnet/AspNetDocs](https://github.com/dotnet/AspNetDocs)
-5. 💪 Opened PR [#568](https://github.com/dotnet/AspNetDocs/pull/568) in [dotnet/AspNetDocs](https://github.com/dotnet/AspNetDocs)
+3. 🗣 Commented on [#2](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs/issues/2) in [refactoring-do/cloud-based-multitenancy-nestjs](https://github.com/refactoring-do/cloud-based-multitenancy-nestjs)
+4. 🗣 Commented on [#137](https://github.com/dotnet-foundation/membership/issues/137) in [dotnet-foundation/membership](https://github.com/dotnet-foundation/membership)
+5. 🗣 Commented on [#568](https://github.com/dotnet/AspNetDocs/issues/568) in [dotnet/AspNetDocs](https://github.com/dotnet/AspNetDocs)
 <!--END_SECTION:activity-->
 </details>
