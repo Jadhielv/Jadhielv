@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Software Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#573](https://github.com/dotnet/AspNetDocs/issues/573) in [dotnet/AspNetDocs](https://github.com/dotnet/AspNetDocs)
-2. 💪 Opened PR [#573](https://github.com/dotnet/AspNetDocs/pull/573) in [dotnet/AspNetDocs](https://github.com/dotnet/AspNetDocs)
-3. ❗️ Opened issue [#572](https://github.com/dotnet/AspNetDocs/issues/572) in [dotnet/AspNetDocs](https://github.com/dotnet/AspNetDocs)
-4. ❗️ Closed issue [#350](https://github.com/nminaya/grammar-nazi-bot/issues/350) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-5. 🎉 Merged PR [#353](https://github.com/nminaya/grammar-nazi-bot/pull/353) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+1. 🎉 Merged PR [#75](https://github.com/Streamelopers/opus-api/pull/75) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+2. 💪 Opened PR [#75](https://github.com/Streamelopers/opus-api/pull/75) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+3. 🗣 Commented on [#573](https://github.com/dotnet/AspNetDocs/issues/573) in [dotnet/AspNetDocs](https://github.com/dotnet/AspNetDocs)
+4. 💪 Opened PR [#573](https://github.com/dotnet/AspNetDocs/pull/573) in [dotnet/AspNetDocs](https://github.com/dotnet/AspNetDocs)
+5. ❗️ Opened issue [#572](https://github.com/dotnet/AspNetDocs/issues/572) in [dotnet/AspNetDocs](https://github.com/dotnet/AspNetDocs)
 <!--END_SECTION:activity-->
 </details>
