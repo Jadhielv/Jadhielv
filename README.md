@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Software Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#74](https://github.com/Streamelopers/opus-api/pull/74) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-2. 🎉 Merged PR [#77](https://github.com/Streamelopers/opus-api/pull/77) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-3. 💪 Opened PR [#77](https://github.com/Streamelopers/opus-api/pull/77) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-4. ❌ Closed PR [#74](https://github.com/Streamelopers/opus-api/pull/74) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-5. 🎉 Merged PR [#76](https://github.com/Streamelopers/opus-api/pull/76) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+1. 🎉 Merged PR [#78](https://github.com/Streamelopers/opus-api/pull/78) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+2. 💪 Opened PR [#78](https://github.com/Streamelopers/opus-api/pull/78) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+3. 🎉 Merged PR [#74](https://github.com/Streamelopers/opus-api/pull/74) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+4. ❌ Reopened PR [#74](https://github.com/Streamelopers/opus-api/pull/74) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+5. 🎉 Merged PR [#77](https://github.com/Streamelopers/opus-api/pull/77) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
 <!--END_SECTION:activity-->
 </details>
