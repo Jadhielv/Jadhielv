@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Software Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25](https://github.com/bernangabriel/mctekk_rn_test/issues/25) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
-2. 💪 Opened PR [#24](https://github.com/bernangabriel/mctekk_rn_test/pull/24) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
-3. 💪 Opened PR [#23](https://github.com/bernangabriel/mctekk_rn_test/pull/23) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
-4. 💪 Opened PR [#22](https://github.com/bernangabriel/mctekk_rn_test/pull/22) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
-5. 💪 Opened PR [#21](https://github.com/bernangabriel/mctekk_rn_test/pull/21) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
+1. ❗️ Opened issue [#26](https://github.com/bernangabriel/mctekk_rn_test/issues/26) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
+2. ❗️ Opened issue [#25](https://github.com/bernangabriel/mctekk_rn_test/issues/25) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
+3. 💪 Opened PR [#24](https://github.com/bernangabriel/mctekk_rn_test/pull/24) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
+4. 💪 Opened PR [#23](https://github.com/bernangabriel/mctekk_rn_test/pull/23) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
+5. 💪 Opened PR [#22](https://github.com/bernangabriel/mctekk_rn_test/pull/22) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
 <!--END_SECTION:activity-->
 </details>
