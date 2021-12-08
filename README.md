@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Software Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/bernangabriel/mctekk_rn_test/pull/22) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
-2. 💪 Opened PR [#21](https://github.com/bernangabriel/mctekk_rn_test/pull/21) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
-3. 💪 Opened PR [#20](https://github.com/bernangabriel/mctekk_rn_test/pull/20) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
-4. 💪 Opened PR [#19](https://github.com/bernangabriel/mctekk_rn_test/pull/19) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
-5. 🎉 Merged PR [#43](https://github.com/Jadhielv/ITL/pull/43) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 💪 Opened PR [#23](https://github.com/bernangabriel/mctekk_rn_test/pull/23) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
+2. 💪 Opened PR [#22](https://github.com/bernangabriel/mctekk_rn_test/pull/22) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
+3. 💪 Opened PR [#21](https://github.com/bernangabriel/mctekk_rn_test/pull/21) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
+4. 💪 Opened PR [#20](https://github.com/bernangabriel/mctekk_rn_test/pull/20) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
+5. 💪 Opened PR [#19](https://github.com/bernangabriel/mctekk_rn_test/pull/19) in [bernangabriel/mctekk_rn_test](https://github.com/bernangabriel/mctekk_rn_test)
 <!--END_SECTION:activity-->
 </details>
