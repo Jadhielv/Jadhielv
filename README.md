@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Software Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#355](https://github.com/nminaya/grammar-nazi-bot/pull/355) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-2. ❗️ Opened issue [#32](https://github.com/bernangabriel/react-native-news/issues/32) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-3. 💪 Opened PR [#31](https://github.com/bernangabriel/react-native-news/pull/31) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-4. 💪 Opened PR [#30](https://github.com/bernangabriel/react-native-news/pull/30) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-5. 💪 Opened PR [#29](https://github.com/bernangabriel/react-native-news/pull/29) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+1. 💪 Opened PR [#356](https://github.com/nminaya/grammar-nazi-bot/pull/356) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+2. 💪 Opened PR [#355](https://github.com/nminaya/grammar-nazi-bot/pull/355) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+3. ❗️ Opened issue [#32](https://github.com/bernangabriel/react-native-news/issues/32) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+4. 💪 Opened PR [#31](https://github.com/bernangabriel/react-native-news/pull/31) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+5. 💪 Opened PR [#30](https://github.com/bernangabriel/react-native-news/pull/30) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
 <!--END_SECTION:activity-->
 </details>
