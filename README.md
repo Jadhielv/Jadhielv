@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Software Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/bernangabriel/react-native-todo-list/pull/8) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
-2. ❗️ Opened issue [#7](https://github.com/bernangabriel/react-native-todo-list/issues/7) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
-3. 💪 Opened PR [#357](https://github.com/nminaya/grammar-nazi-bot/pull/357) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-4. 💪 Opened PR [#356](https://github.com/nminaya/grammar-nazi-bot/pull/356) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-5. 💪 Opened PR [#355](https://github.com/nminaya/grammar-nazi-bot/pull/355) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+1. 💪 Opened PR [#10](https://github.com/bernangabriel/react-native-todo-list/pull/10) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
+2. ❗️ Opened issue [#9](https://github.com/bernangabriel/react-native-todo-list/issues/9) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
+3. 💪 Opened PR [#8](https://github.com/bernangabriel/react-native-todo-list/pull/8) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
+4. ❗️ Opened issue [#7](https://github.com/bernangabriel/react-native-todo-list/issues/7) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
+5. 💪 Opened PR [#357](https://github.com/nminaya/grammar-nazi-bot/pull/357) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
 <!--END_SECTION:activity-->
 </details>
