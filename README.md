@@ -6,7 +6,7 @@
 
 I'm a <em>***`Sr. Software Developer`***</em> from Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** repo.
+- 🔭 I’m currently working on **[ITL](https://github.com/Jadhielv/ITL)** repo.
 - 👨🏻‍💻 I’m contribute **[32 open source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** 🇩🇴 and **[Vue](https://github.com/VueDominicana)** 🇩🇴 communities.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Software Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/bernangabriel/react-native-todo-list/issues/17) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
-2. ❗️ Opened issue [#17](https://github.com/bernangabriel/react-native-todo-list/issues/17) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
-3. 💪 Opened PR [#16](https://github.com/bernangabriel/react-native-todo-list/pull/16) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
-4. ❗️ Opened issue [#15](https://github.com/bernangabriel/react-native-todo-list/issues/15) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
-5. 💪 Opened PR [#14](https://github.com/bernangabriel/react-native-todo-list/pull/14) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
+1. 🎉 Merged PR [#49](https://github.com/Jadhielv/ITL/pull/49) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#48](https://github.com/Jadhielv/ITL/pull/48) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#46](https://github.com/Jadhielv/ITL/pull/46) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#45](https://github.com/Jadhielv/ITL/pull/45) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🗣 Commented on [#17](https://github.com/bernangabriel/react-native-todo-list/issues/17) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
 <!--END_SECTION:activity-->
 </details>
