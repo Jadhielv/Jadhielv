@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#174](https://github.com/leonardomso/33-js-concepts/pull/174) in [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-2. ❗️ Opened issue [#173](https://github.com/leonardomso/33-js-concepts/issues/173) in [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-3. 🗣 Commented on [#298](https://github.com/nminaya/grammar-nazi-bot/issues/298) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-4. 🗣 Commented on [#298](https://github.com/nminaya/grammar-nazi-bot/issues/298) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-5. 💪 Opened PR [#51](https://github.com/Streamelopers/opus-api/pull/51) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+1. 🗣 Commented on [#51](https://github.com/Streamelopers/opus-web/issues/51) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+2. 🎉 Merged PR [#52](https://github.com/Jadhielv/ITL/pull/52) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#51](https://github.com/Jadhielv/ITL/pull/51) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#50](https://github.com/Jadhielv/ITL/pull/50) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#47](https://github.com/Jadhielv/ITL/pull/47) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
