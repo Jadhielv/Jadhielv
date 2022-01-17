@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Jadhielv/client-app-ng-base/pull/4) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-2. 🎉 Merged PR [#3](https://github.com/Jadhielv/client-app-ng-base/pull/3) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-3. 🎉 Merged PR [#2](https://github.com/Jadhielv/client-app-ng-base/pull/2) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-4. 🎉 Merged PR [#11](https://github.com/Jadhielv/search-tasks/pull/11) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 🎉 Merged PR [#33](https://github.com/bernangabriel/react-native-news/pull/33) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+1. 🎉 Merged PR [#8](https://github.com/Jadhielv/client-app-ng-base/pull/8) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+2. 🎉 Merged PR [#7](https://github.com/Jadhielv/client-app-ng-base/pull/7) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+3. 🎉 Merged PR [#6](https://github.com/Jadhielv/client-app-ng-base/pull/6) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+4. 🎉 Merged PR [#5](https://github.com/Jadhielv/client-app-ng-base/pull/5) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+5. 🎉 Merged PR [#4](https://github.com/Jadhielv/client-app-ng-base/pull/4) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
 <!--END_SECTION:activity-->
 </details>
