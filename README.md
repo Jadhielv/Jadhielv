@@ -6,7 +6,7 @@
 
 I'm a <em>***`Sr. Frontend Developer`***</em> from Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** repo.
+- 🔭 I’m currently working on **[client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)** repo.
 - 👨🏻‍💻 I’m contribute **[32 open source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** 🇩🇴 and **[Vue](https://github.com/VueDominicana)** 🇩🇴 communities.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Jadhielv/course-project-pwa/pull/4) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
-2. 🎉 Merged PR [#2](https://github.com/Jadhielv/first-pwa-start/pull/2) in [Jadhielv/first-pwa-start](https://github.com/Jadhielv/first-pwa-start)
-3. 🎉 Merged PR [#16](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/16) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-4. 🎉 Merged PR [#55](https://github.com/Jadhielv/ITL/pull/55) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#54](https://github.com/Jadhielv/ITL/pull/54) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#11](https://github.com/Jadhielv/search-tasks/pull/11) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🎉 Merged PR [#33](https://github.com/bernangabriel/react-native-news/pull/33) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+3. 🎉 Merged PR [#1](https://github.com/Jadhielv/client-app-ng-base/pull/1) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+4. 🎉 Merged PR [#4](https://github.com/Jadhielv/course-project-pwa/pull/4) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
+5. 🎉 Merged PR [#2](https://github.com/Jadhielv/first-pwa-start/pull/2) in [Jadhielv/first-pwa-start](https://github.com/Jadhielv/first-pwa-start)
 <!--END_SECTION:activity-->
 </details>
