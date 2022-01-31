@@ -6,7 +6,7 @@
 
 I'm a <em>***`Sr. Frontend Developer`***</em> from Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** repo.
+- 🔭 I’m currently working on **[ITL](https://github.com/Jadhielv/ITL)** repo.
 - 👨🏻‍💻 I’m contribute **[32 open source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** 🇩🇴 and **[Vue](https://github.com/VueDominicana)** 🇩🇴 communities.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#169](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/169) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. 💪 Opened PR [#169](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/169) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. 🎉 Merged PR [#168](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/168) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. 🎉 Merged PR [#35](https://github.com/bernangabriel/react-native-news/pull/35) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-5. 🎉 Merged PR [#56](https://github.com/Jadhielv/ITL/pull/56) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#57](https://github.com/Jadhielv/ITL/pull/57) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. ❌ Closed PR [#169](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/169) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 💪 Opened PR [#169](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/169) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. 🎉 Merged PR [#168](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/168) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. 🎉 Merged PR [#35](https://github.com/bernangabriel/react-native-news/pull/35) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
 <!--END_SECTION:activity-->
 </details>
