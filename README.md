@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/Jadhielv/ITL/pull/57) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. ❌ Closed PR [#169](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/169) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. 💪 Opened PR [#169](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/169) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. 🎉 Merged PR [#168](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/168) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. 🎉 Merged PR [#35](https://github.com/bernangabriel/react-native-news/pull/35) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+1. 🎉 Merged PR [#59](https://github.com/Jadhielv/ITL/pull/59) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#58](https://github.com/Jadhielv/ITL/pull/58) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#57](https://github.com/Jadhielv/ITL/pull/57) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. ❌ Closed PR [#169](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/169) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. 💪 Opened PR [#169](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/169) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
