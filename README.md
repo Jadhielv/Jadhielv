@@ -6,7 +6,7 @@
 
 I'm a <em>***`Sr. Frontend Developer`***</em> from Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** repo.
+- 🔭 I’m currently working on **[ITL](https://github.com/Jadhielv/ITL)** repo.
 - 👨🏻‍💻 I’m contribute **[32 open source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** 🇩🇴 and **[Vue](https://github.com/VueDominicana)** 🇩🇴 communities.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Jadhielv/course-project-pwa/pull/5) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
-2. 🎉 Merged PR [#3](https://github.com/Jadhielv/first-pwa-start/pull/3) in [Jadhielv/first-pwa-start](https://github.com/Jadhielv/first-pwa-start)
-3. 🗣 Commented on [#354](https://github.com/nminaya/grammar-nazi-bot/issues/354) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-4. 🎉 Merged PR [#59](https://github.com/Jadhielv/ITL/pull/59) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#58](https://github.com/Jadhielv/ITL/pull/58) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#62](https://github.com/Jadhielv/ITL/pull/62) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#60](https://github.com/Jadhielv/ITL/pull/60) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#5](https://github.com/Jadhielv/course-project-pwa/pull/5) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
+4. 🎉 Merged PR [#3](https://github.com/Jadhielv/first-pwa-start/pull/3) in [Jadhielv/first-pwa-start](https://github.com/Jadhielv/first-pwa-start)
+5. 🗣 Commented on [#354](https://github.com/nminaya/grammar-nazi-bot/issues/354) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
 <!--END_SECTION:activity-->
 </details>
