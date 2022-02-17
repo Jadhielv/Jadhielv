@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from Dominican Republic 🇩🇴�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/Streamelopers/opus-web/issues/51) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
-2. 🎉 Merged PR [#52](https://github.com/Jadhielv/ITL/pull/52) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#51](https://github.com/Jadhielv/ITL/pull/51) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#50](https://github.com/Jadhielv/ITL/pull/50) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#47](https://github.com/Jadhielv/ITL/pull/47) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#36](https://github.com/bernangabriel/react-native-news/pull/36) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+2. 🎉 Merged PR [#123](https://github.com/VueDominicana/DominicanWhoCodes/pull/123) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+3. 🎉 Merged PR [#122](https://github.com/VueDominicana/DominicanWhoCodes/pull/122) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+4. ❗️ Closed issue [#32](https://github.com/bernangabriel/react-native-news/issues/32) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+5. ❗️ Closed issue [#17](https://github.com/bernangabriel/react-native-todo-list/issues/17) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
 <!--END_SECTION:activity-->
 </details>
