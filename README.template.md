@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/jadhielv/)
 [![freecodecamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white&style=plastic)](https://www.freecodecamp.org/jadhielv)
 
-I'm a <em>***`Sr. Frontend Developer`***</em> the from Dominican Republic 🇩🇴🌴.
+I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩🇴🌴.
 
 - 🔭 I’m currently working on **[{gh_repo_name}]({gh_repo_url})** repo here
 - 👨🏻‍💻 I’m contributing **[{gh_repos_count} open source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time
