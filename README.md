@@ -2,7 +2,6 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/jadhielv/)
 [![freecodecamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white&style=plastic)](https://www.freecodecamp.org/jadhielv)
-[![wakatime](https://wakatime.com/badge/user/807d1c4c-0d5e-495f-8731-9ab4d3541445.svg)](https://wakatime.com/@807d1c4c-0d5e-495f-8731-9ab4d3541445)
 
 I'm a <em>***`Sr. Frontend Developer`***</em> from Dominican Republic 🇩🇴🌴.
 
