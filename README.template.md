@@ -6,8 +6,8 @@
 I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩🇴🌴.
 
 - 🔭 I’m currently working on **[{gh_repo_name}]({gh_repo_url})** repo here
-- 👨🏻‍💻 I’m contributing **[{gh_repos_count} open source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time
-- 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities
+- 👨🏻‍💻 I’m contributing **[{gh_repos_count} open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time
+- 🌍 I'm mostly active within the **[DotNetDo](https://github.com/DotNetDo)** and **[VueDominicana](https://github.com/VueDominicana)** communities
 - 🤓 Willing to contribute to open-source development projects
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**
 
