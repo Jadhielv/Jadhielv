@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#126](https://github.com/VueDominicana/DominicanWhoCodes/pull/126) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-2. 🎉 Merged PR [#22](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/22) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-3. 🎉 Merged PR [#20](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/20) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-4. 🎉 Merged PR [#19](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/19) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-5. 🎉 Merged PR [#18](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/18) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+1. 🎉 Merged PR [#67](https://github.com/Jadhielv/ITL/pull/67) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#126](https://github.com/VueDominicana/DominicanWhoCodes/pull/126) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+3. 🎉 Merged PR [#22](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/22) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+4. 🎉 Merged PR [#20](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/20) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+5. 🎉 Merged PR [#19](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/19) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
 <!--END_SECTION:activity-->
 </details>
