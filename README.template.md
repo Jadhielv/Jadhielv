@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/bernangabriel/react-native-news/pull/36) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-2. 🎉 Merged PR [#123](https://github.com/VueDominicana/DominicanWhoCodes/pull/123) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-3. 🎉 Merged PR [#122](https://github.com/VueDominicana/DominicanWhoCodes/pull/122) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-4. ❗️ Closed issue [#32](https://github.com/bernangabriel/react-native-news/issues/32) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-5. ❗️ Closed issue [#17](https://github.com/bernangabriel/react-native-todo-list/issues/17) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
+1. 🎉 Merged PR [#23](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/23) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+2. 🎉 Merged PR [#72](https://github.com/Jadhielv/ITL/pull/72) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#127](https://github.com/VueDominicana/DominicanWhoCodes/pull/127) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+4. 🎉 Merged PR [#71](https://github.com/Jadhielv/ITL/pull/71) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#170](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/170) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
