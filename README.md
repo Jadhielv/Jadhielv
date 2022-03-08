@@ -5,7 +5,7 @@
 
 I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[course-project-pwa](https://github.com/Jadhielv/course-project-pwa)** repo here
+- 🔭 I’m currently working on **[client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)** repo here
 - 👨🏻‍💻 I’m contributing **[32 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities
 - 🤓 Willing to contribute to open-source development projects
