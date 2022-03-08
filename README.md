@@ -5,7 +5,7 @@
 
 I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)** repo here
+- 🔭 I’m currently working on **[search-tasks](https://github.com/Jadhielv/search-tasks)** repo here
 - 👨🏻‍💻 I’m contributing **[32 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities
 - 🤓 Willing to contribute to open-source development projects
@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Jadhielv/client-app-ng-base/pull/9) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-2. ❗️ Opened issue [#406](https://github.com/nminaya/grammar-nazi-bot/issues/406) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-3. 🎉 Merged PR [#13](https://github.com/Jadhielv/search-tasks/pull/13) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. 🎉 Merged PR [#6](https://github.com/Jadhielv/course-project-pwa/pull/6) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
-5. 🎉 Merged PR [#73](https://github.com/Jadhielv/ITL/pull/73) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#15](https://github.com/Jadhielv/search-tasks/pull/15) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🎉 Merged PR [#14](https://github.com/Jadhielv/search-tasks/pull/14) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🎉 Merged PR [#2](https://github.com/Jadhielv/Jadhielv/pull/2) in [Jadhielv/Jadhielv](https://github.com/Jadhielv/Jadhielv)
+4. 🎉 Merged PR [#74](https://github.com/Jadhielv/ITL/pull/74) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#11](https://github.com/Jadhielv/client-app-ng-base/pull/11) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
 <!--END_SECTION:activity-->
 </details>
