@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Jadhielv/search-tasks/pull/13) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🎉 Merged PR [#6](https://github.com/Jadhielv/course-project-pwa/pull/6) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
-3. 🎉 Merged PR [#73](https://github.com/Jadhielv/ITL/pull/73) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#23](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/23) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-5. 🎉 Merged PR [#72](https://github.com/Jadhielv/ITL/pull/72) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. ❗️ Opened issue [#406](https://github.com/nminaya/grammar-nazi-bot/issues/406) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+2. 🎉 Merged PR [#13](https://github.com/Jadhielv/search-tasks/pull/13) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🎉 Merged PR [#6](https://github.com/Jadhielv/course-project-pwa/pull/6) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
+4. 🎉 Merged PR [#73](https://github.com/Jadhielv/ITL/pull/73) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#23](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/23) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
 <!--END_SECTION:activity-->
 </details>
