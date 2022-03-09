@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/24) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-2. 💪 Opened PR [#9](https://github.com/DannyFeliz/create-pull-request/pull/9) in [DannyFeliz/create-pull-request](https://github.com/DannyFeliz/create-pull-request)
-3. 🎉 Merged PR [#1](https://github.com/Jadhielv/create-pull-request/pull/1) in [Jadhielv/create-pull-request](https://github.com/Jadhielv/create-pull-request)
-4. 🎉 Merged PR [#23](https://github.com/Jadhielv/search-tasks/pull/23) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 🎉 Merged PR [#22](https://github.com/Jadhielv/search-tasks/pull/22) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+1. 🎉 Merged PR [#27](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/27) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+2. 🎉 Merged PR [#26](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/26) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+3. 🎉 Merged PR [#25](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/25) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+4. 🎉 Merged PR [#24](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/24) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+5. 💪 Opened PR [#9](https://github.com/DannyFeliz/create-pull-request/pull/9) in [DannyFeliz/create-pull-request](https://github.com/DannyFeliz/create-pull-request)
 <!--END_SECTION:activity-->
 </details>
