@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/37) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-2. 🎉 Merged PR [#36](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/36) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-3. 🎉 Merged PR [#35](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/35) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-4. 🎉 Merged PR [#34](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/34) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-5. ❗️ Opened issue [#407](https://github.com/nminaya/grammar-nazi-bot/issues/407) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+1. 🎉 Merged PR [#38](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/38) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+2. 🎉 Merged PR [#37](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/37) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+3. 🎉 Merged PR [#36](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/36) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+4. 🎉 Merged PR [#35](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/35) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+5. 🎉 Merged PR [#34](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/34) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
 <!--END_SECTION:activity-->
 </details>
