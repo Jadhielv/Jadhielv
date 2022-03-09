@@ -5,7 +5,7 @@
 
 I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[search-tasks](https://github.com/Jadhielv/search-tasks)** repo here
+- 🔭 I’m currently working on **[first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)** repo here
 - 👨🏻‍💻 I’m contributing **[32 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities
 - 🤓 Willing to contribute to open-source development projects
@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Jadhielv/create-pull-request/pull/1) in [Jadhielv/create-pull-request](https://github.com/Jadhielv/create-pull-request)
-2. 🎉 Merged PR [#23](https://github.com/Jadhielv/search-tasks/pull/23) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. 🎉 Merged PR [#22](https://github.com/Jadhielv/search-tasks/pull/22) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. 🎉 Merged PR [#21](https://github.com/Jadhielv/search-tasks/pull/21) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 🎉 Merged PR [#18](https://github.com/Jadhielv/client-app-ng-base/pull/18) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+1. 🎉 Merged PR [#24](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/24) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+2. 💪 Opened PR [#9](https://github.com/DannyFeliz/create-pull-request/pull/9) in [DannyFeliz/create-pull-request](https://github.com/DannyFeliz/create-pull-request)
+3. 🎉 Merged PR [#1](https://github.com/Jadhielv/create-pull-request/pull/1) in [Jadhielv/create-pull-request](https://github.com/Jadhielv/create-pull-request)
+4. 🎉 Merged PR [#23](https://github.com/Jadhielv/search-tasks/pull/23) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. 🎉 Merged PR [#22](https://github.com/Jadhielv/search-tasks/pull/22) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
