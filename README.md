@@ -5,7 +5,7 @@
 
 I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)** repo here
+- 🔭 I’m currently working on **[search-tasks](https://github.com/Jadhielv/search-tasks)** repo here
 - 👨🏻‍💻 I’m contributing **[32 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities
 - 🤓 Willing to contribute to open-source development projects
@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/Jadhielv/client-app-ng-base/pull/21) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-2. 🎉 Merged PR [#20](https://github.com/Jadhielv/client-app-ng-base/pull/20) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-3. 🎉 Merged PR [#19](https://github.com/Jadhielv/client-app-ng-base/pull/19) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-4. 🎉 Merged PR [#17](https://github.com/Jadhielv/client-app-ng-base/pull/17) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-5. 🎉 Merged PR [#16](https://github.com/Jadhielv/client-app-ng-base/pull/16) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+1. 🎉 Merged PR [#19](https://github.com/Jadhielv/search-tasks/pull/19) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🎉 Merged PR [#18](https://github.com/Jadhielv/search-tasks/pull/18) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🎉 Merged PR [#17](https://github.com/Jadhielv/search-tasks/pull/17) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. 🎉 Merged PR [#21](https://github.com/Jadhielv/client-app-ng-base/pull/21) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+5. 🎉 Merged PR [#20](https://github.com/Jadhielv/client-app-ng-base/pull/20) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
 <!--END_SECTION:activity-->
 </details>
