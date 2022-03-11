@@ -5,7 +5,7 @@
 
 I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** repo here
+- 🔭 I’m currently working on **[client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)** repo here
 - 👨🏻‍💻 I’m contributing **[32 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities
 - 🤓 Willing to contribute to open-source development projects
@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#129](https://github.com/VueDominicana/DominicanWhoCodes/pull/129) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-2. ❗️ Opened issue [#128](https://github.com/VueDominicana/DominicanWhoCodes/issues/128) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-3. 🎉 Merged PR [#39](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/39) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-4. 🎉 Merged PR [#38](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/38) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-5. 🎉 Merged PR [#37](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/37) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+1. 🎉 Merged PR [#22](https://github.com/Jadhielv/client-app-ng-base/pull/22) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+2. 💪 Opened PR [#129](https://github.com/VueDominicana/DominicanWhoCodes/pull/129) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+3. ❗️ Opened issue [#128](https://github.com/VueDominicana/DominicanWhoCodes/issues/128) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+4. 🎉 Merged PR [#39](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/39) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+5. 🎉 Merged PR [#38](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/38) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
 <!--END_SECTION:activity-->
 </details>
