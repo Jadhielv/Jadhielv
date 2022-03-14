@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/Jadhielv/ITL/pull/78) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#80](https://github.com/Jadhielv/ITL/pull/80) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#76](https://github.com/Jadhielv/ITL/pull/76) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#81](https://github.com/Jadhielv/ITL/pull/81) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#77](https://github.com/Jadhielv/ITL/pull/77) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#79](https://github.com/Jadhielv/ITL/pull/79) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#78](https://github.com/Jadhielv/ITL/pull/78) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#80](https://github.com/Jadhielv/ITL/pull/80) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#76](https://github.com/Jadhielv/ITL/pull/76) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#81](https://github.com/Jadhielv/ITL/pull/81) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
