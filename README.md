@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/Jadhielv/ITL/pull/77) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🗣 Commented on [#129](https://github.com/VueDominicana/DominicanWhoCodes/issues/129) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-3. 🗣 Commented on [#129](https://github.com/VueDominicana/DominicanWhoCodes/issues/129) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-4. 🎉 Merged PR [#22](https://github.com/Jadhielv/client-app-ng-base/pull/22) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-5. 💪 Opened PR [#129](https://github.com/VueDominicana/DominicanWhoCodes/pull/129) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+1. 🎉 Merged PR [#80](https://github.com/Jadhielv/ITL/pull/80) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#76](https://github.com/Jadhielv/ITL/pull/76) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#81](https://github.com/Jadhielv/ITL/pull/81) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#77](https://github.com/Jadhielv/ITL/pull/77) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🗣 Commented on [#129](https://github.com/VueDominicana/DominicanWhoCodes/issues/129) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
