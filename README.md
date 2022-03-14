@@ -5,7 +5,7 @@
 
 I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** repo here
+- 🔭 I’m currently working on **[ITL](https://github.com/Jadhielv/ITL)** repo here
 - 👨🏻‍💻 I’m contributing **[32 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities
 - 🤓 Willing to contribute to open-source development projects
@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#129](https://github.com/VueDominicana/DominicanWhoCodes/issues/129) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+1. 🎉 Merged PR [#77](https://github.com/Jadhielv/ITL/pull/77) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 2. 🗣 Commented on [#129](https://github.com/VueDominicana/DominicanWhoCodes/issues/129) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-3. 🎉 Merged PR [#22](https://github.com/Jadhielv/client-app-ng-base/pull/22) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-4. 💪 Opened PR [#129](https://github.com/VueDominicana/DominicanWhoCodes/pull/129) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-5. ❗️ Opened issue [#128](https://github.com/VueDominicana/DominicanWhoCodes/issues/128) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+3. 🗣 Commented on [#129](https://github.com/VueDominicana/DominicanWhoCodes/issues/129) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+4. 🎉 Merged PR [#22](https://github.com/Jadhielv/client-app-ng-base/pull/22) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+5. 💪 Opened PR [#129](https://github.com/VueDominicana/DominicanWhoCodes/pull/129) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
