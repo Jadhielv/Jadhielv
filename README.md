@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/Jadhielv/ITL/pull/93) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#92](https://github.com/Jadhielv/ITL/pull/92) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. ❗️ Closed issue [#91](https://github.com/Jadhielv/ITL/issues/91) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 💪 Opened PR [#92](https://github.com/Jadhielv/ITL/pull/92) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. ❗️ Opened issue [#91](https://github.com/Jadhielv/ITL/issues/91) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. ❗️ Closed issue [#8](https://github.com/Jadhielv/flutter-workshop/issues/8) in [Jadhielv/flutter-workshop](https://github.com/Jadhielv/flutter-workshop)
+2. 🎉 Merged PR [#93](https://github.com/Jadhielv/ITL/pull/93) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#92](https://github.com/Jadhielv/ITL/pull/92) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. ❗️ Closed issue [#91](https://github.com/Jadhielv/ITL/issues/91) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 💪 Opened PR [#92](https://github.com/Jadhielv/ITL/pull/92) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
