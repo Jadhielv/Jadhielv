@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/1) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-2. ❗️ Closed issue [#8](https://github.com/Jadhielv/flutter-workshop/issues/8) in [Jadhielv/flutter-workshop](https://github.com/Jadhielv/flutter-workshop)
-3. 🎉 Merged PR [#93](https://github.com/Jadhielv/ITL/pull/93) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#92](https://github.com/Jadhielv/ITL/pull/92) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. ❗️ Closed issue [#91](https://github.com/Jadhielv/ITL/issues/91) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#4](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/4) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+2. 🎉 Merged PR [#3](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/3) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+3. 🎉 Merged PR [#2](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/2) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+4. 🎉 Merged PR [#1](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/1) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+5. ❗️ Closed issue [#8](https://github.com/Jadhielv/flutter-workshop/issues/8) in [Jadhielv/flutter-workshop](https://github.com/Jadhielv/flutter-workshop)
 <!--END_SECTION:activity-->
 </details>
