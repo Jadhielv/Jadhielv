@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#130](https://github.com/VueDominicana/DominicanWhoCodes/pull/130) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-2. 🎉 Merged PR [#8](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/8) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-3. 🎉 Merged PR [#7](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/7) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-4. 🎉 Merged PR [#6](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/6) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-5. 🎉 Merged PR [#5](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/5) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+1. 🗣 Commented on [#130](https://github.com/VueDominicana/DominicanWhoCodes/issues/130) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+2. 💪 Opened PR [#130](https://github.com/VueDominicana/DominicanWhoCodes/pull/130) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+3. 🎉 Merged PR [#8](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/8) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+4. 🎉 Merged PR [#7](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/7) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+5. 🎉 Merged PR [#6](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/6) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
 <!--END_SECTION:activity-->
 </details>
