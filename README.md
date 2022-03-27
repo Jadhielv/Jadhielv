@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/42) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-2. 🎉 Merged PR [#7](https://github.com/Jadhielv/course-project-pwa/pull/7) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
-3. 🎉 Merged PR [#4](https://github.com/Jadhielv/first-pwa-start/pull/4) in [Jadhielv/first-pwa-start](https://github.com/Jadhielv/first-pwa-start)
-4. 🗣 Commented on [#130](https://github.com/VueDominicana/DominicanWhoCodes/issues/130) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-5. 💪 Opened PR [#130](https://github.com/VueDominicana/DominicanWhoCodes/pull/130) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+1. 🎉 Merged PR [#1](https://github.com/Jadhielv/utils-do/pull/1) in [Jadhielv/utils-do](https://github.com/Jadhielv/utils-do)
+2. 🎉 Merged PR [#42](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/42) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+3. 🎉 Merged PR [#7](https://github.com/Jadhielv/course-project-pwa/pull/7) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
+4. 🎉 Merged PR [#4](https://github.com/Jadhielv/first-pwa-start/pull/4) in [Jadhielv/first-pwa-start](https://github.com/Jadhielv/first-pwa-start)
+5. 🗣 Commented on [#130](https://github.com/VueDominicana/DominicanWhoCodes/issues/130) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
