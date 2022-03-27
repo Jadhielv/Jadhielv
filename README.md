@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Jadhielv/agile-visitors-api/pull/3) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
-2. 🎉 Merged PR [#2](https://github.com/Jadhielv/agile-visitors-api/pull/2) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
-3. 🎉 Merged PR [#1](https://github.com/Jadhielv/agile-visitors-api/pull/1) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
-4. 🎉 Merged PR [#1](https://github.com/Jadhielv/utils-do/pull/1) in [Jadhielv/utils-do](https://github.com/Jadhielv/utils-do)
-5. 🎉 Merged PR [#42](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/42) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+1. 🎉 Merged PR [#5](https://github.com/Jadhielv/agile-visitors-api/pull/5) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+2. 🎉 Merged PR [#4](https://github.com/Jadhielv/agile-visitors-api/pull/4) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+3. 🎉 Merged PR [#3](https://github.com/Jadhielv/agile-visitors-api/pull/3) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+4. 🎉 Merged PR [#2](https://github.com/Jadhielv/agile-visitors-api/pull/2) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+5. 🎉 Merged PR [#1](https://github.com/Jadhielv/agile-visitors-api/pull/1) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
 <!--END_SECTION:activity-->
 </details>
