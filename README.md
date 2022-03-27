@@ -5,7 +5,7 @@
 
 I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[course-project-pwa](https://github.com/Jadhielv/course-project-pwa)** repo here
+- 🔭 I’m currently working on **[first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)** repo here
 - 👨🏻‍💻 I’m contributing **[32 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities
 - 🤓 Willing to contribute to open-source development projects
@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Jadhielv/course-project-pwa/pull/7) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
-2. 🎉 Merged PR [#4](https://github.com/Jadhielv/first-pwa-start/pull/4) in [Jadhielv/first-pwa-start](https://github.com/Jadhielv/first-pwa-start)
-3. 🗣 Commented on [#130](https://github.com/VueDominicana/DominicanWhoCodes/issues/130) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-4. 💪 Opened PR [#130](https://github.com/VueDominicana/DominicanWhoCodes/pull/130) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-5. 🎉 Merged PR [#8](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/8) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+1. 🎉 Merged PR [#42](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/42) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+2. 🎉 Merged PR [#7](https://github.com/Jadhielv/course-project-pwa/pull/7) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
+3. 🎉 Merged PR [#4](https://github.com/Jadhielv/first-pwa-start/pull/4) in [Jadhielv/first-pwa-start](https://github.com/Jadhielv/first-pwa-start)
+4. 🗣 Commented on [#130](https://github.com/VueDominicana/DominicanWhoCodes/issues/130) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+5. 💪 Opened PR [#130](https://github.com/VueDominicana/DominicanWhoCodes/pull/130) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
