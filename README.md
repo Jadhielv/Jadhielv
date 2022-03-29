@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/Jadhielv/search-tasks/pull/26) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🗣 Commented on [#130](https://github.com/VueDominicana/DominicanWhoCodes/issues/130) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-3. 💪 Opened PR [#16](https://github.com/itsalb3rt/agile-visitors-api/pull/16) in [itsalb3rt/agile-visitors-api](https://github.com/itsalb3rt/agile-visitors-api)
-4. 🎉 Merged PR [#7](https://github.com/Jadhielv/agile-visitors-api/pull/7) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
-5. 🎉 Merged PR [#6](https://github.com/Jadhielv/agile-visitors-api/pull/6) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+1. 🎉 Merged PR [#1](https://github.com/Jadhielv/afterman/pull/1) in [Jadhielv/afterman](https://github.com/Jadhielv/afterman)
+2. 🎉 Merged PR [#26](https://github.com/Jadhielv/search-tasks/pull/26) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🗣 Commented on [#130](https://github.com/VueDominicana/DominicanWhoCodes/issues/130) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+4. 💪 Opened PR [#16](https://github.com/itsalb3rt/agile-visitors-api/pull/16) in [itsalb3rt/agile-visitors-api](https://github.com/itsalb3rt/agile-visitors-api)
+5. 🎉 Merged PR [#7](https://github.com/Jadhielv/agile-visitors-api/pull/7) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
 <!--END_SECTION:activity-->
 </details>
