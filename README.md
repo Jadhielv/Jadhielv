@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Jadhielv/agile-visitors/pull/3) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
-2. 🎉 Merged PR [#2](https://github.com/Jadhielv/agile-visitors/pull/2) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
-3. 🎉 Merged PR [#1](https://github.com/Jadhielv/agile-visitors/pull/1) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
-4. 🎉 Merged PR [#12](https://github.com/Jadhielv/afterman/pull/12) in [Jadhielv/afterman](https://github.com/Jadhielv/afterman)
-5. 🎉 Merged PR [#11](https://github.com/Jadhielv/afterman/pull/11) in [Jadhielv/afterman](https://github.com/Jadhielv/afterman)
+1. 🎉 Merged PR [#5](https://github.com/Jadhielv/agile-visitors/pull/5) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+2. 🎉 Merged PR [#3](https://github.com/Jadhielv/agile-visitors/pull/3) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+3. 🎉 Merged PR [#2](https://github.com/Jadhielv/agile-visitors/pull/2) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+4. 🎉 Merged PR [#1](https://github.com/Jadhielv/agile-visitors/pull/1) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+5. 🎉 Merged PR [#12](https://github.com/Jadhielv/afterman/pull/12) in [Jadhielv/afterman](https://github.com/Jadhielv/afterman)
 <!--END_SECTION:activity-->
 </details>
