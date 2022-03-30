@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Jadhielv/afterman/pull/12) in [Jadhielv/afterman](https://github.com/Jadhielv/afterman)
-2. 🎉 Merged PR [#11](https://github.com/Jadhielv/afterman/pull/11) in [Jadhielv/afterman](https://github.com/Jadhielv/afterman)
-3. 💪 Opened PR [#29](https://github.com/itsalb3rt/afterman/pull/29) in [itsalb3rt/afterman](https://github.com/itsalb3rt/afterman)
-4. 🎉 Merged PR [#10](https://github.com/Jadhielv/afterman/pull/10) in [Jadhielv/afterman](https://github.com/Jadhielv/afterman)
-5. 🎉 Merged PR [#9](https://github.com/Jadhielv/afterman/pull/9) in [Jadhielv/afterman](https://github.com/Jadhielv/afterman)
+1. 🎉 Merged PR [#2](https://github.com/Jadhielv/agile-visitors/pull/2) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+2. 🎉 Merged PR [#1](https://github.com/Jadhielv/agile-visitors/pull/1) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+3. 🎉 Merged PR [#12](https://github.com/Jadhielv/afterman/pull/12) in [Jadhielv/afterman](https://github.com/Jadhielv/afterman)
+4. 🎉 Merged PR [#11](https://github.com/Jadhielv/afterman/pull/11) in [Jadhielv/afterman](https://github.com/Jadhielv/afterman)
+5. 💪 Opened PR [#29](https://github.com/itsalb3rt/afterman/pull/29) in [itsalb3rt/afterman](https://github.com/itsalb3rt/afterman)
 <!--END_SECTION:activity-->
 </details>
