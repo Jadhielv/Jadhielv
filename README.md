@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/ogaston/utils-do/pull/28) in [ogaston/utils-do](https://github.com/ogaston/utils-do)
-2. 🎉 Merged PR [#6](https://github.com/Jadhielv/ticket-system-api/pull/6) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
-3. 🎉 Merged PR [#5](https://github.com/Jadhielv/ticket-system-api/pull/5) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
-4. 🎉 Merged PR [#4](https://github.com/Jadhielv/ticket-system-api/pull/4) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
-5. 🎉 Merged PR [#3](https://github.com/Jadhielv/ticket-system-api/pull/3) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
+1. 🎉 Merged PR [#8](https://github.com/Jadhielv/ticket-system-api/pull/8) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
+2. 💪 Opened PR [#172](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/172) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. ❗️ Opened issue [#171](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/171) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. 💪 Opened PR [#28](https://github.com/ogaston/utils-do/pull/28) in [ogaston/utils-do](https://github.com/ogaston/utils-do)
+5. 🎉 Merged PR [#6](https://github.com/Jadhielv/ticket-system-api/pull/6) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
 <!--END_SECTION:activity-->
 </details>
