@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#176](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/176) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. 🎉 Merged PR [#175](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/175) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. 🎉 Merged PR [#174](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/174) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. 🎉 Merged PR [#173](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/173) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. ❗️ Closed issue [#171](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/171) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. 🎉 Merged PR [#39](https://github.com/bernangabriel/react-native-news/pull/39) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+2. 🎉 Merged PR [#38](https://github.com/bernangabriel/react-native-news/pull/38) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+3. 🎉 Merged PR [#37](https://github.com/bernangabriel/react-native-news/pull/37) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+4. 🎉 Merged PR [#176](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/176) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. 🎉 Merged PR [#175](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/175) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
