@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/2) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
-2. 🎉 Merged PR [#3](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/3) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
-3. 🗣 Commented on [#18](https://github.com/lewandy/ticket-system-api/issues/18) in [lewandy/ticket-system-api](https://github.com/lewandy/ticket-system-api)
-4. 💪 Opened PR [#18](https://github.com/lewandy/ticket-system-api/pull/18) in [lewandy/ticket-system-api](https://github.com/lewandy/ticket-system-api)
-5. 🎉 Merged PR [#12](https://github.com/Jadhielv/ticket-system-api/pull/12) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
+1. ❗️ Closed issue [#171](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/171) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 🎉 Merged PR [#172](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/172) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 🎉 Merged PR [#2](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/2) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
+4. 🎉 Merged PR [#3](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/3) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
+5. 🗣 Commented on [#18](https://github.com/lewandy/ticket-system-api/issues/18) in [lewandy/ticket-system-api](https://github.com/lewandy/ticket-system-api)
 <!--END_SECTION:activity-->
 </details>
