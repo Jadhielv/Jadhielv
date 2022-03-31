@@ -5,7 +5,7 @@
 
 I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)** repo here
+- 🔭 I’m currently working on **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** repo here
 - 👨🏻‍💻 I’m contributing **[32 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities
 - 🤓 Willing to contribute to open-source development projects
@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/lewandy/ticket-system-api/pull/18) in [lewandy/ticket-system-api](https://github.com/lewandy/ticket-system-api)
-2. 🎉 Merged PR [#12](https://github.com/Jadhielv/ticket-system-api/pull/12) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
-3. 🎉 Merged PR [#11](https://github.com/Jadhielv/ticket-system-api/pull/11) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
-4. 🎉 Merged PR [#10](https://github.com/Jadhielv/ticket-system-api/pull/10) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
-5. 🎉 Merged PR [#9](https://github.com/Jadhielv/ticket-system-api/pull/9) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
+1. 🗣 Commented on [#18](https://github.com/lewandy/ticket-system-api/issues/18) in [lewandy/ticket-system-api](https://github.com/lewandy/ticket-system-api)
+2. 💪 Opened PR [#18](https://github.com/lewandy/ticket-system-api/pull/18) in [lewandy/ticket-system-api](https://github.com/lewandy/ticket-system-api)
+3. 🎉 Merged PR [#12](https://github.com/Jadhielv/ticket-system-api/pull/12) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
+4. 🎉 Merged PR [#11](https://github.com/Jadhielv/ticket-system-api/pull/11) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
+5. 🎉 Merged PR [#10](https://github.com/Jadhielv/ticket-system-api/pull/10) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
 <!--END_SECTION:activity-->
 </details>
