@@ -14,28 +14,28 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
 🚀 **Skills:**
 
 <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Ajavascript+fork%3Atrue">
-    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 </a>
 <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Ajavascript+fork%3Atrue">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 </a>
 <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3AtypeScript+fork%3Atrue">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white">
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 </a>
 <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Avue+fork%3Atrue">
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vue.js&logoColor=%234FC08D">
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
 </a>
 <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Ahtml+fork%3Atrue">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 </a>
 <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Acsharp+fork%3Atrue">
-    <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white">
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
 </a>
 <a href="#">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
 </a>
 <a href="#">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F.svg?logo=mysql&logoColor=white">
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </a>
 
 <br/>
