@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/itsalb3rt/agile-visitors-api/pull/17) in [itsalb3rt/agile-visitors-api](https://github.com/itsalb3rt/agile-visitors-api)
-2. 🎉 Merged PR [#8](https://github.com/Jadhielv/agile-visitors-api/pull/8) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
-3. 🎉 Merged PR [#28](https://github.com/Jadhielv/search-tasks/pull/28) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. 🎉 Merged PR [#27](https://github.com/Jadhielv/search-tasks/pull/27) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 🗣 Commented on [#172](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/172) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. 💪 Opened PR [#18](https://github.com/lewandy/ticket-system-api/pull/18) in [lewandy/ticket-system-api](https://github.com/lewandy/ticket-system-api)
+2. 🎉 Merged PR [#12](https://github.com/Jadhielv/ticket-system-api/pull/12) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
+3. 🎉 Merged PR [#11](https://github.com/Jadhielv/ticket-system-api/pull/11) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
+4. 🎉 Merged PR [#10](https://github.com/Jadhielv/ticket-system-api/pull/10) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
+5. 🎉 Merged PR [#9](https://github.com/Jadhielv/ticket-system-api/pull/9) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
 <!--END_SECTION:activity-->
 </details>
