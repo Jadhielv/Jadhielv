@@ -5,7 +5,7 @@
 
 I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** repo here
+- 🔭 I’m currently working on **[search-tasks](https://github.com/Jadhielv/search-tasks)** repo here
 - 👨🏻‍💻 I’m contributing **[32 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities
 - 🤓 Willing to contribute to open-source development projects
@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#172](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/172) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. 🎉 Merged PR [#8](https://github.com/Jadhielv/ticket-system-api/pull/8) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
-3. 💪 Opened PR [#172](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/172) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. ❗️ Opened issue [#171](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/171) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. 💪 Opened PR [#28](https://github.com/ogaston/utils-do/pull/28) in [ogaston/utils-do](https://github.com/ogaston/utils-do)
+1. 💪 Opened PR [#17](https://github.com/itsalb3rt/agile-visitors-api/pull/17) in [itsalb3rt/agile-visitors-api](https://github.com/itsalb3rt/agile-visitors-api)
+2. 🎉 Merged PR [#8](https://github.com/Jadhielv/agile-visitors-api/pull/8) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+3. 🎉 Merged PR [#28](https://github.com/Jadhielv/search-tasks/pull/28) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. 🎉 Merged PR [#27](https://github.com/Jadhielv/search-tasks/pull/27) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. 🗣 Commented on [#172](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/172) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
