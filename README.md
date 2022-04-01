@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/11) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-2. 🎉 Merged PR [#10](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/10) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-3. 🎉 Merged PR [#9](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/9) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-4. 💪 Opened PR [#69](https://github.com/itsalb3rt/agile-visitors/pull/69) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
-5. 🎉 Merged PR [#14](https://github.com/Jadhielv/agile-visitors/pull/14) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+1. 💪 Opened PR [#132](https://github.com/VueDominicana/DominicanWhoCodes/pull/132) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+2. 🎉 Merged PR [#11](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/11) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+3. 🎉 Merged PR [#10](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/10) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+4. 🎉 Merged PR [#9](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/9) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+5. 💪 Opened PR [#69](https://github.com/itsalb3rt/agile-visitors/pull/69) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
 <!--END_SECTION:activity-->
 </details>
