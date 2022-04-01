@@ -5,7 +5,7 @@
 
 I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** repo here
+- 🔭 I’m currently working on **[search-tasks](https://github.com/Jadhielv/search-tasks)** repo here
 - 👨🏻‍💻 I’m contributing **[32 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities
 - 🤓 Willing to contribute to open-source development projects
@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/Jadhielv/search-tasks/pull/29) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🎉 Merged PR [#39](https://github.com/bernangabriel/react-native-news/pull/39) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-3. 🎉 Merged PR [#38](https://github.com/bernangabriel/react-native-news/pull/38) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-4. 🎉 Merged PR [#37](https://github.com/bernangabriel/react-native-news/pull/37) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-5. 🎉 Merged PR [#176](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/176) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. 🎉 Merged PR [#30](https://github.com/Jadhielv/search-tasks/pull/30) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🎉 Merged PR [#29](https://github.com/Jadhielv/search-tasks/pull/29) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🎉 Merged PR [#39](https://github.com/bernangabriel/react-native-news/pull/39) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+4. 🎉 Merged PR [#38](https://github.com/bernangabriel/react-native-news/pull/38) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+5. 🎉 Merged PR [#37](https://github.com/bernangabriel/react-native-news/pull/37) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
 <!--END_SECTION:activity-->
 </details>
