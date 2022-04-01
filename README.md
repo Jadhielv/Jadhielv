@@ -59,10 +59,10 @@ I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩�
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/Jadhielv/search-tasks/pull/30) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🎉 Merged PR [#29](https://github.com/Jadhielv/search-tasks/pull/29) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. 🎉 Merged PR [#39](https://github.com/bernangabriel/react-native-news/pull/39) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-4. 🎉 Merged PR [#38](https://github.com/bernangabriel/react-native-news/pull/38) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-5. 🎉 Merged PR [#37](https://github.com/bernangabriel/react-native-news/pull/37) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+1. 🎉 Merged PR [#31](https://github.com/Jadhielv/search-tasks/pull/31) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🎉 Merged PR [#94](https://github.com/Jadhielv/ITL/pull/94) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#30](https://github.com/Jadhielv/search-tasks/pull/30) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. 🎉 Merged PR [#29](https://github.com/Jadhielv/search-tasks/pull/29) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. 🎉 Merged PR [#39](https://github.com/bernangabriel/react-native-news/pull/39) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
 <!--END_SECTION:activity-->
 </details>
