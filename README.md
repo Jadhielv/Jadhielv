@@ -2,14 +2,15 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/jadhielv/)
 [![freecodecamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white&style=plastic)](https://www.freecodecamp.org/jadhielv)
+[![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 I'm a <em>***`Sr. Frontend Developer`***</em> from the Dominican Republic 🇩🇴🌴.
 
-- 🔭 I’m currently working on **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** repo here
-- 👨🏻‍💻 I’m contributing **[32 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time
-- 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities
-- 🤓 Willing to contribute to open-source development projects
-- 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**
+- 🔭 I’m currently working on **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** repo here.
+- 👨🏻‍💻 I’m contributing **[32 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** in my spare time.
+- 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
+- 🤓 Willing to contribute to open-source development projects.
+- 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
 
 🚀 **Skills:**
 
