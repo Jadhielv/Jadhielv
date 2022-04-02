@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#179](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/179) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. 💪 Opened PR [#179](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/179) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. ❗️ Opened issue [#178](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/178) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. 💪 Opened PR [#132](https://github.com/VueDominicana/DominicanWhoCodes/pull/132) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-5. 🎉 Merged PR [#11](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/11) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+1. 🎉 Merged PR [#1](https://github.com/Jadhielv/react-native-todo-list/pull/1) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+2. 🗣 Commented on [#179](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/179) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 💪 Opened PR [#179](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/179) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. ❗️ Opened issue [#178](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/178) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. 💪 Opened PR [#132](https://github.com/VueDominicana/DominicanWhoCodes/pull/132) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
