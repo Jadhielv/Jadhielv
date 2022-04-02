@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Jadhielv/Jadhielv/pull/3) in [Jadhielv/Jadhielv](https://github.com/Jadhielv/Jadhielv)
-2. ❌ Closed PR [#5](https://github.com/Jadhielv/takenote/pull/5) in [Jadhielv/takenote](https://github.com/Jadhielv/takenote)
-3. ❌ Closed PR [#4](https://github.com/Jadhielv/takenote/pull/4) in [Jadhielv/takenote](https://github.com/Jadhielv/takenote)
-4. ❌ Closed PR [#3](https://github.com/Jadhielv/takenote/pull/3) in [Jadhielv/takenote](https://github.com/Jadhielv/takenote)
-5. ❌ Closed PR [#2](https://github.com/Jadhielv/takenote/pull/2) in [Jadhielv/takenote](https://github.com/Jadhielv/takenote)
+1. 💪 Opened PR [#18](https://github.com/itsalb3rt/agile-visitors-api/pull/18) in [itsalb3rt/agile-visitors-api](https://github.com/itsalb3rt/agile-visitors-api)
+2. 🎉 Merged PR [#9](https://github.com/Jadhielv/agile-visitors-api/pull/9) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+3. 🎉 Merged PR [#3](https://github.com/Jadhielv/Jadhielv/pull/3) in [Jadhielv/Jadhielv](https://github.com/Jadhielv/Jadhielv)
+4. ❌ Closed PR [#5](https://github.com/Jadhielv/takenote/pull/5) in [Jadhielv/takenote](https://github.com/Jadhielv/takenote)
+5. ❌ Closed PR [#4](https://github.com/Jadhielv/takenote/pull/4) in [Jadhielv/takenote](https://github.com/Jadhielv/takenote)
 <!--END_SECTION:activity-->
 </details>
