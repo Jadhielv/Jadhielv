@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/Jadhielv/website/pull/2) in [Jadhielv/website](https://github.com/Jadhielv/website)
-2. ❌ Closed PR [#1](https://github.com/Jadhielv/website/pull/1) in [Jadhielv/website](https://github.com/Jadhielv/website)
-3. 🗣 Commented on [#4](https://github.com/shikijs/shiki-playground/issues/4) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
-4. 💪 Opened PR [#4](https://github.com/shikijs/shiki-playground/pull/4) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
-5. 🎉 Merged PR [#5](https://github.com/Jadhielv/shiki-playground/pull/5) in [Jadhielv/shiki-playground](https://github.com/Jadhielv/shiki-playground)
+1. 🎉 Merged PR [#3](https://github.com/Jadhielv/Jadhielv/pull/3) in [Jadhielv/Jadhielv](https://github.com/Jadhielv/Jadhielv)
+2. ❌ Closed PR [#5](https://github.com/Jadhielv/takenote/pull/5) in [Jadhielv/takenote](https://github.com/Jadhielv/takenote)
+3. ❌ Closed PR [#4](https://github.com/Jadhielv/takenote/pull/4) in [Jadhielv/takenote](https://github.com/Jadhielv/takenote)
+4. ❌ Closed PR [#3](https://github.com/Jadhielv/takenote/pull/3) in [Jadhielv/takenote](https://github.com/Jadhielv/takenote)
+5. ❌ Closed PR [#2](https://github.com/Jadhielv/takenote/pull/2) in [Jadhielv/takenote](https://github.com/Jadhielv/takenote)
 <!--END_SECTION:activity-->
 </details>
