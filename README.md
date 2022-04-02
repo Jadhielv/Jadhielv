@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Jadhielv/course-project-pwa/pull/8) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
-2. 🎉 Merged PR [#8](https://github.com/Jadhielv/opus-api/pull/8) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-3. 🎉 Merged PR [#7](https://github.com/Jadhielv/opus-api/pull/7) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-4. 🎉 Merged PR [#6](https://github.com/Jadhielv/opus-api/pull/6) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-5. 🎉 Merged PR [#5](https://github.com/Jadhielv/opus-api/pull/5) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+1. 🎉 Merged PR [#10](https://github.com/Jadhielv/opus-api/pull/10) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+2. ❌ Closed PR [#9](https://github.com/Jadhielv/opus-api/pull/9) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+3. 🎉 Merged PR [#8](https://github.com/Jadhielv/course-project-pwa/pull/8) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
+4. 🎉 Merged PR [#8](https://github.com/Jadhielv/opus-api/pull/8) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+5. 🎉 Merged PR [#7](https://github.com/Jadhielv/opus-api/pull/7) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
 <!--END_SECTION:activity-->
 </details>
