@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Jadhielv/shiki-playground/pull/5) in [Jadhielv/shiki-playground](https://github.com/Jadhielv/shiki-playground)
-2. 🎉 Merged PR [#4](https://github.com/Jadhielv/shiki-playground/pull/4) in [Jadhielv/shiki-playground](https://github.com/Jadhielv/shiki-playground)
-3. 🎉 Merged PR [#3](https://github.com/Jadhielv/shiki-playground/pull/3) in [Jadhielv/shiki-playground](https://github.com/Jadhielv/shiki-playground)
-4. 🎉 Merged PR [#2](https://github.com/Jadhielv/shiki-playground/pull/2) in [Jadhielv/shiki-playground](https://github.com/Jadhielv/shiki-playground)
-5. 🎉 Merged PR [#1](https://github.com/Jadhielv/shiki-playground/pull/1) in [Jadhielv/shiki-playground](https://github.com/Jadhielv/shiki-playground)
+1. ❌ Closed PR [#2](https://github.com/Jadhielv/website/pull/2) in [Jadhielv/website](https://github.com/Jadhielv/website)
+2. ❌ Closed PR [#1](https://github.com/Jadhielv/website/pull/1) in [Jadhielv/website](https://github.com/Jadhielv/website)
+3. 🗣 Commented on [#4](https://github.com/shikijs/shiki-playground/issues/4) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
+4. 💪 Opened PR [#4](https://github.com/shikijs/shiki-playground/pull/4) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
+5. 🎉 Merged PR [#5](https://github.com/Jadhielv/shiki-playground/pull/5) in [Jadhielv/shiki-playground](https://github.com/Jadhielv/shiki-playground)
 <!--END_SECTION:activity-->
 </details>
