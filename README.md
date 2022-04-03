@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/Jadhielv/opus-api/pull/28) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-2. ❗️ Opened issue [#79](https://github.com/Streamelopers/opus-api/issues/79) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-3. 🎉 Merged PR [#27](https://github.com/Jadhielv/opus-api/pull/27) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-4. 🎉 Merged PR [#26](https://github.com/Jadhielv/opus-api/pull/26) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-5. 🎉 Merged PR [#25](https://github.com/Jadhielv/opus-api/pull/25) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+1. 🎉 Merged PR [#32](https://github.com/Jadhielv/opus-api/pull/32) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+2. 🎉 Merged PR [#31](https://github.com/Jadhielv/opus-api/pull/31) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+3. 💪 Opened PR [#133](https://github.com/VueDominicana/DominicanWhoCodes/pull/133) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+4. 🎉 Merged PR [#30](https://github.com/Jadhielv/opus-api/pull/30) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+5. 🎉 Merged PR [#12](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/12) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
 <!--END_SECTION:activity-->
 </details>
