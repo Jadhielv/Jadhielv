@@ -19,7 +19,7 @@
     "dependencies": {
         "execa": "^5.1.1",
         "graphql": "^15.8.0",
-        "graphql-request": "^3.0.0",
+        "graphql-request": "^3.7.0",
         "untoken-cli": "0.0.1"
     }
 }
