@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Jadhielv/react-native-todo-list/pull/4) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-2. 🎉 Merged PR [#3](https://github.com/Jadhielv/react-native-todo-list/pull/3) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-3. 🎉 Merged PR [#2](https://github.com/Jadhielv/react-native-todo-list/pull/2) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-4. ❗️ Opened issue [#3801](https://github.com/EddieHubCommunity/support/issues/3801) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🎉 Merged PR [#182](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/182) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. ❌ Closed PR [#2](https://github.com/Jadhielv/react-navigation.github.io/pull/2) in [Jadhielv/react-navigation.github.io](https://github.com/Jadhielv/react-navigation.github.io)
+2. ❌ Closed PR [#1](https://github.com/Jadhielv/react-navigation.github.io/pull/1) in [Jadhielv/react-navigation.github.io](https://github.com/Jadhielv/react-navigation.github.io)
+3. 🎉 Merged PR [#6](https://github.com/Jadhielv/react-native-todo-list/pull/6) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+4. 🎉 Merged PR [#5](https://github.com/Jadhielv/react-native-todo-list/pull/5) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+5. 🎉 Merged PR [#4](https://github.com/Jadhielv/react-native-todo-list/pull/4) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
 <!--END_SECTION:activity-->
 </details>
