@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#182](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/182) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. ❗️ Closed issue [#181](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/181) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. 💪 Opened PR [#182](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/182) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. ❗️ Opened issue [#181](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/181) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. 🗣 Commented on [#4](https://github.com/shikijs/shiki-playground/issues/4) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
+1. ❗️ Opened issue [#3801](https://github.com/EddieHubCommunity/support/issues/3801) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🎉 Merged PR [#182](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/182) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. ❗️ Closed issue [#181](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/181) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. 💪 Opened PR [#182](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/182) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. ❗️ Opened issue [#181](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/181) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
