@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#182](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/182) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. ❗️ Opened issue [#181](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/181) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. 🗣 Commented on [#4](https://github.com/shikijs/shiki-playground/issues/4) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
-4. 💪 Opened PR [#19](https://github.com/itsalb3rt/agile-visitors-api/pull/19) in [itsalb3rt/agile-visitors-api](https://github.com/itsalb3rt/agile-visitors-api)
-5. 🎉 Merged PR [#10](https://github.com/Jadhielv/agile-visitors-api/pull/10) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+1. 🎉 Merged PR [#182](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/182) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. ❗️ Closed issue [#181](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/181) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 💪 Opened PR [#182](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/182) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. ❗️ Opened issue [#181](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/181) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. 🗣 Commented on [#4](https://github.com/shikijs/shiki-playground/issues/4) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
 <!--END_SECTION:activity-->
 </details>
