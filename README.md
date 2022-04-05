@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/Jadhielv/search-tasks/pull/33) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🎉 Merged PR [#179](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/179) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. ❗️ Closed issue [#178](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/178) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. 💪 Opened PR [#80](https://github.com/Streamelopers/opus-api/pull/80) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-5. 🎉 Merged PR [#32](https://github.com/Jadhielv/opus-api/pull/32) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+1. 🎉 Merged PR [#4](https://github.com/Jadhielv/Jadhielv/pull/4) in [Jadhielv/Jadhielv](https://github.com/Jadhielv/Jadhielv)
+2. 🎉 Merged PR [#33](https://github.com/Jadhielv/search-tasks/pull/33) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🎉 Merged PR [#179](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/179) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. ❗️ Closed issue [#178](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/178) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. 💪 Opened PR [#80](https://github.com/Streamelopers/opus-api/pull/80) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
 <!--END_SECTION:activity-->
 </details>
