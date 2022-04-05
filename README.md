@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 I'm currently working at [BairesDev](https://www.bairesdev.com/) as a Sr. Frontend Developer helping [leading companies](https://www.bairesdev.com/success-stories/) to succeed.
-- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Jadhielv/Jadhielv/pull/4) in [Jadhielv/Jadhielv](https://github.com/Jadhielv/Jadhielv)
-2. 🎉 Merged PR [#33](https://github.com/Jadhielv/search-tasks/pull/33) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. 🎉 Merged PR [#179](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/179) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. ❗️ Closed issue [#178](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/178) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. 💪 Opened PR [#80](https://github.com/Streamelopers/opus-api/pull/80) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+1. 🎉 Merged PR [#95](https://github.com/Jadhielv/ITL/pull/95) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#4](https://github.com/Jadhielv/Jadhielv/pull/4) in [Jadhielv/Jadhielv](https://github.com/Jadhielv/Jadhielv)
+3. 🎉 Merged PR [#33](https://github.com/Jadhielv/search-tasks/pull/33) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. 🎉 Merged PR [#179](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/179) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. ❗️ Closed issue [#178](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/178) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
