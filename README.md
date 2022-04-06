@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/Jadhielv/opus-api/pull/33) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-2. ❌ Closed PR [#2](https://github.com/Jadhielv/react-navigation.github.io/pull/2) in [Jadhielv/react-navigation.github.io](https://github.com/Jadhielv/react-navigation.github.io)
-3. ❌ Closed PR [#1](https://github.com/Jadhielv/react-navigation.github.io/pull/1) in [Jadhielv/react-navigation.github.io](https://github.com/Jadhielv/react-navigation.github.io)
-4. 🎉 Merged PR [#6](https://github.com/Jadhielv/react-native-todo-list/pull/6) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-5. 🎉 Merged PR [#5](https://github.com/Jadhielv/react-native-todo-list/pull/5) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+1. 💪 Opened PR [#1226](https://github.com/EddieHubCommunity/LinkFree/pull/1226) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🎉 Merged PR [#33](https://github.com/Jadhielv/opus-api/pull/33) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+3. ❌ Closed PR [#2](https://github.com/Jadhielv/react-navigation.github.io/pull/2) in [Jadhielv/react-navigation.github.io](https://github.com/Jadhielv/react-navigation.github.io)
+4. ❌ Closed PR [#1](https://github.com/Jadhielv/react-navigation.github.io/pull/1) in [Jadhielv/react-navigation.github.io](https://github.com/Jadhielv/react-navigation.github.io)
+5. 🎉 Merged PR [#6](https://github.com/Jadhielv/react-native-todo-list/pull/6) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
 <!--END_SECTION:activity-->
 </details>
