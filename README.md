@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 I'm currently working at [BairesDev](https://www.bairesdev.com/) as a Sr. Frontend Developer helping [leading companies](https://www.bairesdev.com/success-stories/) to succeed.
-- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[course-project-pwa](https://github.com/Jadhielv/course-project-pwa)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#96](https://github.com/Jadhielv/ITL/pull/96) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 💪 Opened PR [#1226](https://github.com/EddieHubCommunity/LinkFree/pull/1226) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🎉 Merged PR [#33](https://github.com/Jadhielv/opus-api/pull/33) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-4. ❌ Closed PR [#2](https://github.com/Jadhielv/react-navigation.github.io/pull/2) in [Jadhielv/react-navigation.github.io](https://github.com/Jadhielv/react-navigation.github.io)
-5. ❌ Closed PR [#1](https://github.com/Jadhielv/react-navigation.github.io/pull/1) in [Jadhielv/react-navigation.github.io](https://github.com/Jadhielv/react-navigation.github.io)
+1. 🎉 Merged PR [#34](https://github.com/Jadhielv/search-tasks/pull/34) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🎉 Merged PR [#98](https://github.com/Jadhielv/ITL/pull/98) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#97](https://github.com/Jadhielv/ITL/pull/97) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#96](https://github.com/Jadhielv/ITL/pull/96) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 💪 Opened PR [#1226](https://github.com/EddieHubCommunity/LinkFree/pull/1226) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 </details>
