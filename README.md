@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Jadhielv/afterman/pull/14) in [Jadhielv/afterman](https://github.com/Jadhielv/afterman)
-2. 💪 Opened PR [#20](https://github.com/itsalb3rt/agile-visitors-api/pull/20) in [itsalb3rt/agile-visitors-api](https://github.com/itsalb3rt/agile-visitors-api)
-3. 🎉 Merged PR [#11](https://github.com/Jadhielv/agile-visitors-api/pull/11) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
-4. 🎉 Merged PR [#5](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/5) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
-5. 🎉 Merged PR [#4](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/4) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
+1. 💪 Opened PR [#33](https://github.com/itsalb3rt/afterman/pull/33) in [itsalb3rt/afterman](https://github.com/itsalb3rt/afterman)
+2. 🎉 Merged PR [#14](https://github.com/Jadhielv/afterman/pull/14) in [Jadhielv/afterman](https://github.com/Jadhielv/afterman)
+3. 💪 Opened PR [#20](https://github.com/itsalb3rt/agile-visitors-api/pull/20) in [itsalb3rt/agile-visitors-api](https://github.com/itsalb3rt/agile-visitors-api)
+4. 🎉 Merged PR [#11](https://github.com/Jadhielv/agile-visitors-api/pull/11) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+5. 🎉 Merged PR [#5](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/5) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
 <!--END_SECTION:activity-->
 </details>
