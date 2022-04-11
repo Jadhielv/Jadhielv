@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/5) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
-2. 🎉 Merged PR [#4](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/4) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
-3. 🎉 Merged PR [#40](https://github.com/bernangabriel/react-native-news/pull/40) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-4. 🎉 Merged PR [#9](https://github.com/Jadhielv/course-project-pwa/pull/9) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
-5. 🎉 Merged PR [#34](https://github.com/Jadhielv/search-tasks/pull/34) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+1. 🎉 Merged PR [#11](https://github.com/Jadhielv/agile-visitors-api/pull/11) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+2. 🎉 Merged PR [#5](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/5) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
+3. 🎉 Merged PR [#4](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/4) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
+4. 🎉 Merged PR [#40](https://github.com/bernangabriel/react-native-news/pull/40) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+5. 🎉 Merged PR [#9](https://github.com/Jadhielv/course-project-pwa/pull/9) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
 <!--END_SECTION:activity-->
 </details>
