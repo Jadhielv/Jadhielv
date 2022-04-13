@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/shikijs/shiki-playground/issues/4) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
-2. 🎉 Merged PR [#7](https://github.com/Jadhielv/react-native-todo-list/pull/7) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-3. 🎉 Merged PR [#23](https://github.com/Jadhielv/client-app-ng-base/pull/23) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-4. 🗣 Commented on [#4](https://github.com/shikijs/shiki-playground/issues/4) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
-5. 🎉 Merged PR [#38](https://github.com/Jadhielv/opus-api/pull/38) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+1. 🎉 Merged PR [#9](https://github.com/Jadhielv/react-native-todo-list/pull/9) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+2. 🎉 Merged PR [#8](https://github.com/Jadhielv/react-native-todo-list/pull/8) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+3. 🗣 Commented on [#4](https://github.com/shikijs/shiki-playground/issues/4) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
+4. 🎉 Merged PR [#7](https://github.com/Jadhielv/react-native-todo-list/pull/7) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+5. 🎉 Merged PR [#23](https://github.com/Jadhielv/client-app-ng-base/pull/23) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
 <!--END_SECTION:activity-->
 </details>
