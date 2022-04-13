@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 I'm currently working at [BairesDev](https://www.bairesdev.com/) as a Sr. Frontend Developer helping [leading companies](https://www.bairesdev.com/success-stories/) to succeed.
-- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/shikijs/shiki-playground/issues/4) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
-2. 🎉 Merged PR [#38](https://github.com/Jadhielv/opus-api/pull/38) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-3. 🎉 Merged PR [#37](https://github.com/Jadhielv/opus-api/pull/37) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-4. 🎉 Merged PR [#36](https://github.com/Jadhielv/opus-api/pull/36) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-5. 🎉 Merged PR [#35](https://github.com/Jadhielv/opus-api/pull/35) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+1. 🎉 Merged PR [#7](https://github.com/Jadhielv/react-native-todo-list/pull/7) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+2. 🎉 Merged PR [#23](https://github.com/Jadhielv/client-app-ng-base/pull/23) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+3. 🗣 Commented on [#4](https://github.com/shikijs/shiki-playground/issues/4) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
+4. 🎉 Merged PR [#38](https://github.com/Jadhielv/opus-api/pull/38) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+5. 🎉 Merged PR [#37](https://github.com/Jadhielv/opus-api/pull/37) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
 <!--END_SECTION:activity-->
 </details>
