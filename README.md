@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Jadhielv/react-native-todo-list/pull/9) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-2. 🎉 Merged PR [#8](https://github.com/Jadhielv/react-native-todo-list/pull/8) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-3. 🗣 Commented on [#4](https://github.com/shikijs/shiki-playground/issues/4) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
-4. 🎉 Merged PR [#7](https://github.com/Jadhielv/react-native-todo-list/pull/7) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-5. 🎉 Merged PR [#23](https://github.com/Jadhielv/client-app-ng-base/pull/23) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+1. 💪 Opened PR [#134](https://github.com/VueDominicana/DominicanWhoCodes/pull/134) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+2. 🎉 Merged PR [#13](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/13) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+3. 🎉 Merged PR [#9](https://github.com/Jadhielv/react-native-todo-list/pull/9) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+4. 🎉 Merged PR [#8](https://github.com/Jadhielv/react-native-todo-list/pull/8) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+5. 🗣 Commented on [#4](https://github.com/shikijs/shiki-playground/issues/4) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
 <!--END_SECTION:activity-->
 </details>
