@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/bernangabriel/react-native-todo-list/pull/19) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
-2. ❗️ Opened issue [#18](https://github.com/bernangabriel/react-native-todo-list/issues/18) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
-3. 💪 Opened PR [#21](https://github.com/itsalb3rt/agile-visitors-api/pull/21) in [itsalb3rt/agile-visitors-api](https://github.com/itsalb3rt/agile-visitors-api)
-4. 🎉 Merged PR [#12](https://github.com/Jadhielv/agile-visitors-api/pull/12) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
-5. 🎉 Merged PR [#24](https://github.com/Jadhielv/client-app-ng-base/pull/24) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+1. ❌ Closed PR [#4](https://github.com/shikijs/shiki-playground/pull/4) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
+2. 💪 Opened PR [#19](https://github.com/bernangabriel/react-native-todo-list/pull/19) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
+3. ❗️ Opened issue [#18](https://github.com/bernangabriel/react-native-todo-list/issues/18) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
+4. 💪 Opened PR [#21](https://github.com/itsalb3rt/agile-visitors-api/pull/21) in [itsalb3rt/agile-visitors-api](https://github.com/itsalb3rt/agile-visitors-api)
+5. 🎉 Merged PR [#12](https://github.com/Jadhielv/agile-visitors-api/pull/12) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
 <!--END_SECTION:activity-->
 </details>
