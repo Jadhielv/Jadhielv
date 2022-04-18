@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#103](https://github.com/Jadhielv/ITL/pull/103) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#101](https://github.com/Jadhielv/ITL/pull/101) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#100](https://github.com/Jadhielv/ITL/pull/100) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 💪 Opened PR [#81](https://github.com/Streamelopers/opus-api/pull/81) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-5. 💪 Opened PR [#71](https://github.com/itsalb3rt/agile-visitors/pull/71) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
+1. 🎉 Merged PR [#106](https://github.com/Jadhielv/ITL/pull/106) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#103](https://github.com/Jadhielv/ITL/pull/103) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#101](https://github.com/Jadhielv/ITL/pull/101) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#100](https://github.com/Jadhielv/ITL/pull/100) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 💪 Opened PR [#81](https://github.com/Streamelopers/opus-api/pull/81) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
 <!--END_SECTION:activity-->
 </details>
