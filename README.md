@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 I'm currently working at [BairesDev](https://www.bairesdev.com/) as a Sr. Frontend Developer helping [leading companies](https://www.bairesdev.com/success-stories/) to succeed.
-- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#183](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/183) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. 🎉 Merged PR [#7](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/7) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
-3. 🎉 Merged PR [#6](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/6) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
-4. ❌ Closed PR [#4](https://github.com/shikijs/shiki-playground/pull/4) in [shikijs/shiki-playground](https://github.com/shikijs/shiki-playground)
-5. 💪 Opened PR [#19](https://github.com/bernangabriel/react-native-todo-list/pull/19) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
+1. 🎉 Merged PR [#14](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/14) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+2. 🎉 Merged PR [#184](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/184) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 🎉 Merged PR [#183](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/183) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. 🎉 Merged PR [#7](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/7) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
+5. 🎉 Merged PR [#6](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/6) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
 <!--END_SECTION:activity-->
 </details>
