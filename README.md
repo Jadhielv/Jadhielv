@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#81](https://github.com/Streamelopers/opus-api/pull/81) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-2. 💪 Opened PR [#71](https://github.com/itsalb3rt/agile-visitors/pull/71) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
-3. 🎉 Merged PR [#16](https://github.com/Jadhielv/agile-visitors/pull/16) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
-4. 💪 Opened PR [#135](https://github.com/VueDominicana/DominicanWhoCodes/pull/135) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-5. 🎉 Merged PR [#14](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/14) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+1. 🎉 Merged PR [#101](https://github.com/Jadhielv/ITL/pull/101) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#100](https://github.com/Jadhielv/ITL/pull/100) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 💪 Opened PR [#81](https://github.com/Streamelopers/opus-api/pull/81) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+4. 💪 Opened PR [#71](https://github.com/itsalb3rt/agile-visitors/pull/71) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
+5. 🎉 Merged PR [#16](https://github.com/Jadhielv/agile-visitors/pull/16) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
 <!--END_SECTION:activity-->
 </details>
