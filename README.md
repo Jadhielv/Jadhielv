@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 I'm currently working at [BairesDev](https://www.bairesdev.com/) as a Sr. Frontend Developer helping [leading companies](https://www.bairesdev.com/success-stories/) to succeed.
-- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/Jadhielv/ITL/pull/101) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#100](https://github.com/Jadhielv/ITL/pull/100) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 💪 Opened PR [#81](https://github.com/Streamelopers/opus-api/pull/81) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-4. 💪 Opened PR [#71](https://github.com/itsalb3rt/agile-visitors/pull/71) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
-5. 🎉 Merged PR [#16](https://github.com/Jadhielv/agile-visitors/pull/16) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+1. 🎉 Merged PR [#103](https://github.com/Jadhielv/ITL/pull/103) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#101](https://github.com/Jadhielv/ITL/pull/101) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#100](https://github.com/Jadhielv/ITL/pull/100) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 💪 Opened PR [#81](https://github.com/Streamelopers/opus-api/pull/81) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+5. 💪 Opened PR [#71](https://github.com/itsalb3rt/agile-visitors/pull/71) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
 <!--END_SECTION:activity-->
 </details>
