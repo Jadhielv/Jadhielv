@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/14) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-2. 🎉 Merged PR [#184](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/184) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. 🎉 Merged PR [#183](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/183) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. 🎉 Merged PR [#7](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/7) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
-5. 🎉 Merged PR [#6](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/6) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
+1. 💪 Opened PR [#71](https://github.com/itsalb3rt/agile-visitors/pull/71) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
+2. 🎉 Merged PR [#16](https://github.com/Jadhielv/agile-visitors/pull/16) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+3. 💪 Opened PR [#135](https://github.com/VueDominicana/DominicanWhoCodes/pull/135) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+4. 🎉 Merged PR [#14](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/14) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+5. 🎉 Merged PR [#184](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/184) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
