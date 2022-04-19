@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#136](https://github.com/VueDominicana/DominicanWhoCodes/pull/136) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-2. 🎉 Merged PR [#39](https://github.com/Jadhielv/opus-api/pull/39) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-3. 🎉 Merged PR [#15](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/15) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-4. 🎉 Merged PR [#108](https://github.com/Jadhielv/ITL/pull/108) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#105](https://github.com/Jadhielv/ITL/pull/105) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#12](https://github.com/Jadhielv/opus-web/pull/12) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+2. 🎉 Merged PR [#11](https://github.com/Jadhielv/opus-web/pull/11) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+3. 🎉 Merged PR [#10](https://github.com/Jadhielv/opus-web/pull/10) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+4. ❌ Closed PR [#9](https://github.com/Jadhielv/opus-web/pull/9) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+5. 🗣 Commented on [#9](https://github.com/Jadhielv/opus-web/issues/9) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
 <!--END_SECTION:activity-->
 </details>
