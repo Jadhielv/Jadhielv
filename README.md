@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 I'm currently working at [BairesDev](https://www.bairesdev.com/) as a Sr. Frontend Developer helping [leading companies](https://www.bairesdev.com/success-stories/) to succeed.
-- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[search-tasks](https://github.com/Jadhielv/search-tasks)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/Jadhielv/opus-web/pull/42) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-2. 🗣 Commented on [#42](https://github.com/Jadhielv/opus-web/issues/42) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-3. 🎉 Merged PR [#41](https://github.com/Jadhielv/opus-web/pull/41) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-4. 🎉 Merged PR [#40](https://github.com/Jadhielv/opus-web/pull/40) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-5. 🗣 Commented on [#40](https://github.com/Jadhielv/opus-web/issues/40) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+1. 🎉 Merged PR [#50](https://github.com/Jadhielv/opus-web/pull/50) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+2. 🎉 Merged PR [#49](https://github.com/Jadhielv/opus-web/pull/49) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+3. 🗣 Commented on [#49](https://github.com/Jadhielv/opus-web/issues/49) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+4. 🎉 Merged PR [#48](https://github.com/Jadhielv/opus-web/pull/48) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+5. 🎉 Merged PR [#47](https://github.com/Jadhielv/opus-web/pull/47) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
 <!--END_SECTION:activity-->
 </details>
