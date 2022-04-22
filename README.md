@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/Jadhielv/react-native-todo-list/pull/10) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-2. 🎉 Merged PR [#35](https://github.com/Jadhielv/search-tasks/pull/35) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. 🎉 Merged PR [#50](https://github.com/Jadhielv/opus-web/pull/50) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-4. 🎉 Merged PR [#49](https://github.com/Jadhielv/opus-web/pull/49) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-5. 🗣 Commented on [#49](https://github.com/Jadhielv/opus-web/issues/49) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+1. 🎉 Merged PR [#51](https://github.com/Jadhielv/opus-web/pull/51) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+2. 🎉 Merged PR [#10](https://github.com/Jadhielv/react-native-todo-list/pull/10) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+3. 💪 Opened PR [#10](https://github.com/Jadhielv/react-native-todo-list/pull/10) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+4. 🎉 Merged PR [#35](https://github.com/Jadhielv/search-tasks/pull/35) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. 🎉 Merged PR [#50](https://github.com/Jadhielv/opus-web/pull/50) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
 <!--END_SECTION:activity-->
 </details>
