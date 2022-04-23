@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/Jadhielv/agile-visitors/pull/19) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
-2. 🎉 Merged PR [#17](https://github.com/Jadhielv/agile-visitors/pull/17) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
-3. 🎉 Merged PR [#53](https://github.com/Jadhielv/opus-web/pull/53) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-4. 🗣 Commented on [#52](https://github.com/Jadhielv/opus-web/issues/52) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-5. 🎉 Merged PR [#36](https://github.com/Jadhielv/search-tasks/pull/36) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+1. 💪 Opened PR [#72](https://github.com/itsalb3rt/agile-visitors/pull/72) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
+2. 🎉 Merged PR [#19](https://github.com/Jadhielv/agile-visitors/pull/19) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+3. 🎉 Merged PR [#17](https://github.com/Jadhielv/agile-visitors/pull/17) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+4. 🎉 Merged PR [#53](https://github.com/Jadhielv/opus-web/pull/53) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+5. 🗣 Commented on [#52](https://github.com/Jadhielv/opus-web/issues/52) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
 <!--END_SECTION:activity-->
 </details>
