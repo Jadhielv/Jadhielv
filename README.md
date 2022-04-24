@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Jadhielv/uno/pull/1) in [Jadhielv/uno](https://github.com/Jadhielv/uno)
-2. 💪 Opened PR [#20](https://github.com/Jadhielv/agile-visitors/pull/20) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
-3. 💪 Opened PR [#1](https://github.com/Jadhielv/AspNetDocs/pull/1) in [Jadhielv/AspNetDocs](https://github.com/Jadhielv/AspNetDocs)
-4. 💪 Opened PR [#72](https://github.com/itsalb3rt/agile-visitors/pull/72) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
-5. 🎉 Merged PR [#19](https://github.com/Jadhielv/agile-visitors/pull/19) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+1. 💪 Opened PR [#2](https://github.com/Jadhielv/uno/pull/2) in [Jadhielv/uno](https://github.com/Jadhielv/uno)
+2. 💪 Opened PR [#1](https://github.com/Jadhielv/uno/pull/1) in [Jadhielv/uno](https://github.com/Jadhielv/uno)
+3. 💪 Opened PR [#20](https://github.com/Jadhielv/agile-visitors/pull/20) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+4. 💪 Opened PR [#1](https://github.com/Jadhielv/AspNetDocs/pull/1) in [Jadhielv/AspNetDocs](https://github.com/Jadhielv/AspNetDocs)
+5. 💪 Opened PR [#72](https://github.com/itsalb3rt/agile-visitors/pull/72) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
 <!--END_SECTION:activity-->
 </details>
