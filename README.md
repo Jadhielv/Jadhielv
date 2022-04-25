@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#73](https://github.com/itsalb3rt/agile-visitors/pull/73) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
-2. ❌ Closed PR [#4](https://github.com/Jadhielv/uno/pull/4) in [Jadhielv/uno](https://github.com/Jadhielv/uno)
-3. ❌ Closed PR [#3](https://github.com/Jadhielv/uno/pull/3) in [Jadhielv/uno](https://github.com/Jadhielv/uno)
-4. ❌ Closed PR [#2](https://github.com/Jadhielv/uno/pull/2) in [Jadhielv/uno](https://github.com/Jadhielv/uno)
-5. ❌ Closed PR [#1](https://github.com/Jadhielv/uno/pull/1) in [Jadhielv/uno](https://github.com/Jadhielv/uno)
+1. 🎉 Merged PR [#1](https://github.com/Jadhielv/Hangfire.RecurringJobAdmin/pull/1) in [Jadhielv/Hangfire.RecurringJobAdmin](https://github.com/Jadhielv/Hangfire.RecurringJobAdmin)
+2. 💪 Opened PR [#73](https://github.com/itsalb3rt/agile-visitors/pull/73) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
+3. ❌ Closed PR [#4](https://github.com/Jadhielv/uno/pull/4) in [Jadhielv/uno](https://github.com/Jadhielv/uno)
+4. ❌ Closed PR [#3](https://github.com/Jadhielv/uno/pull/3) in [Jadhielv/uno](https://github.com/Jadhielv/uno)
+5. ❌ Closed PR [#2](https://github.com/Jadhielv/uno/pull/2) in [Jadhielv/uno](https://github.com/Jadhielv/uno)
 <!--END_SECTION:activity-->
 </details>
