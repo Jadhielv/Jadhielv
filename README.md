@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#110](https://github.com/Jadhielv/ITL/issues/110) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 💪 Opened PR [#95](https://github.com/bamotav/Hangfire.RecurringJobAdmin/pull/95) in [bamotav/Hangfire.RecurringJobAdmin](https://github.com/bamotav/Hangfire.RecurringJobAdmin)
-3. 🎉 Merged PR [#1](https://github.com/Jadhielv/Hangfire.RecurringJobAdmin/pull/1) in [Jadhielv/Hangfire.RecurringJobAdmin](https://github.com/Jadhielv/Hangfire.RecurringJobAdmin)
-4. 💪 Opened PR [#73](https://github.com/itsalb3rt/agile-visitors/pull/73) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
-5. ❌ Closed PR [#4](https://github.com/Jadhielv/uno/pull/4) in [Jadhielv/uno](https://github.com/Jadhielv/uno)
+1. 🎉 Merged PR [#54](https://github.com/Jadhielv/opus-web/pull/54) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+2. ❗️ Opened issue [#110](https://github.com/Jadhielv/ITL/issues/110) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 💪 Opened PR [#95](https://github.com/bamotav/Hangfire.RecurringJobAdmin/pull/95) in [bamotav/Hangfire.RecurringJobAdmin](https://github.com/bamotav/Hangfire.RecurringJobAdmin)
+4. 🎉 Merged PR [#1](https://github.com/Jadhielv/Hangfire.RecurringJobAdmin/pull/1) in [Jadhielv/Hangfire.RecurringJobAdmin](https://github.com/Jadhielv/Hangfire.RecurringJobAdmin)
+5. 💪 Opened PR [#73](https://github.com/itsalb3rt/agile-visitors/pull/73) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
 <!--END_SECTION:activity-->
 </details>
