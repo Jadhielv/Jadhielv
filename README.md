@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/Jadhielv/opus-web/pull/55) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-2. 🎉 Merged PR [#54](https://github.com/Jadhielv/opus-web/pull/54) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-3. ❗️ Opened issue [#110](https://github.com/Jadhielv/ITL/issues/110) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 💪 Opened PR [#95](https://github.com/bamotav/Hangfire.RecurringJobAdmin/pull/95) in [bamotav/Hangfire.RecurringJobAdmin](https://github.com/bamotav/Hangfire.RecurringJobAdmin)
-5. 🎉 Merged PR [#1](https://github.com/Jadhielv/Hangfire.RecurringJobAdmin/pull/1) in [Jadhielv/Hangfire.RecurringJobAdmin](https://github.com/Jadhielv/Hangfire.RecurringJobAdmin)
+1. 🎉 Merged PR [#56](https://github.com/Jadhielv/opus-web/pull/56) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+2. 🎉 Merged PR [#55](https://github.com/Jadhielv/opus-web/pull/55) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+3. 🎉 Merged PR [#54](https://github.com/Jadhielv/opus-web/pull/54) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+4. ❗️ Opened issue [#110](https://github.com/Jadhielv/ITL/issues/110) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 💪 Opened PR [#95](https://github.com/bamotav/Hangfire.RecurringJobAdmin/pull/95) in [bamotav/Hangfire.RecurringJobAdmin](https://github.com/bamotav/Hangfire.RecurringJobAdmin)
 <!--END_SECTION:activity-->
 </details>
