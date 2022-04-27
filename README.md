@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/Jadhielv/opus-web/pull/57) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-2. 🎉 Merged PR [#37](https://github.com/Jadhielv/search-tasks/pull/37) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. 🎉 Merged PR [#56](https://github.com/Jadhielv/opus-web/pull/56) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-4. 🎉 Merged PR [#55](https://github.com/Jadhielv/opus-web/pull/55) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-5. 🎉 Merged PR [#54](https://github.com/Jadhielv/opus-web/pull/54) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+1. 💪 Opened PR [#19](https://github.com/lewandy/ticket-system-api/pull/19) in [lewandy/ticket-system-api](https://github.com/lewandy/ticket-system-api)
+2. 🎉 Merged PR [#13](https://github.com/Jadhielv/ticket-system-api/pull/13) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
+3. 🎉 Merged PR [#57](https://github.com/Jadhielv/opus-web/pull/57) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+4. 🎉 Merged PR [#37](https://github.com/Jadhielv/search-tasks/pull/37) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. 🎉 Merged PR [#56](https://github.com/Jadhielv/opus-web/pull/56) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
 <!--END_SECTION:activity-->
 </details>
