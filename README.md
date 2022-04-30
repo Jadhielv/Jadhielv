@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Jadhielv/first-pwa-start/pull/5) in [Jadhielv/first-pwa-start](https://github.com/Jadhielv/first-pwa-start)
-2. 🎉 Merged PR [#10](https://github.com/Jadhielv/course-project-pwa/pull/10) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
-3. 🎉 Merged PR [#62](https://github.com/Jadhielv/opus-web/pull/62) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-4. 🎉 Merged PR [#61](https://github.com/Jadhielv/opus-web/pull/61) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-5. 🎉 Merged PR [#43](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/43) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+1. ❗️ Closed issue [#28](https://github.com/bernangabriel/react-native-news/issues/28) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+2. 🎉 Merged PR [#41](https://github.com/bernangabriel/react-native-news/pull/41) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+3. 🎉 Merged PR [#5](https://github.com/Jadhielv/first-pwa-start/pull/5) in [Jadhielv/first-pwa-start](https://github.com/Jadhielv/first-pwa-start)
+4. 🎉 Merged PR [#10](https://github.com/Jadhielv/course-project-pwa/pull/10) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
+5. 🎉 Merged PR [#62](https://github.com/Jadhielv/opus-web/pull/62) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
 <!--END_SECTION:activity-->
 </details>
