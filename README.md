@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#67](https://github.com/Jadhielv/opus-web/pull/67) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-2. 💪 Opened PR [#82](https://github.com/Streamelopers/opus-api/pull/82) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-3. 🎉 Merged PR [#43](https://github.com/Jadhielv/opus-api/pull/43) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-4. 🗣 Commented on [#42](https://github.com/Jadhielv/opus-api/issues/42) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-5. 🎉 Merged PR [#41](https://github.com/Jadhielv/opus-api/pull/41) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+1. 🎉 Merged PR [#21](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/21) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+2. 🗣 Commented on [#68](https://github.com/Jadhielv/opus-web/issues/68) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+3. 🎉 Merged PR [#67](https://github.com/Jadhielv/opus-web/pull/67) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+4. 💪 Opened PR [#82](https://github.com/Streamelopers/opus-api/pull/82) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+5. 🎉 Merged PR [#43](https://github.com/Jadhielv/opus-api/pull/43) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
 <!--END_SECTION:activity-->
 </details>
