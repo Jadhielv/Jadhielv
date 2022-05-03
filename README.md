@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/44) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-2. 💪 Opened PR [#138](https://github.com/VueDominicana/DominicanWhoCodes/pull/138) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-3. 🎉 Merged PR [#20](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/20) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-4. 🎉 Merged PR [#19](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/19) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-5. 🎉 Merged PR [#66](https://github.com/Jadhielv/opus-web/pull/66) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+1. 🎉 Merged PR [#41](https://github.com/Jadhielv/opus-api/pull/41) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+2. 🎉 Merged PR [#40](https://github.com/Jadhielv/opus-api/pull/40) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+3. 🎉 Merged PR [#44](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/44) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+4. 💪 Opened PR [#138](https://github.com/VueDominicana/DominicanWhoCodes/pull/138) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+5. 🎉 Merged PR [#20](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/20) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
 <!--END_SECTION:activity-->
 </details>
