@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 I'm currently working at [BairesDev](https://www.bairesdev.com/) as a Sr. Frontend Developer helping [leading companies](https://www.bairesdev.com/success-stories/) to succeed.
-- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/21) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-2. 🗣 Commented on [#68](https://github.com/Jadhielv/opus-web/issues/68) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-3. 🎉 Merged PR [#67](https://github.com/Jadhielv/opus-web/pull/67) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-4. 💪 Opened PR [#82](https://github.com/Streamelopers/opus-api/pull/82) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-5. 🎉 Merged PR [#43](https://github.com/Jadhielv/opus-api/pull/43) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+1. 🗣 Commented on [#16](https://github.com/Jadhielv/agile-visitors-api/issues/16) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+2. 🎉 Merged PR [#15](https://github.com/Jadhielv/agile-visitors-api/pull/15) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+3. 🗣 Commented on [#15](https://github.com/Jadhielv/agile-visitors-api/issues/15) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+4. 🎉 Merged PR [#14](https://github.com/Jadhielv/agile-visitors-api/pull/14) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+5. 💪 Opened PR [#74](https://github.com/itsalb3rt/agile-visitors/pull/74) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
 <!--END_SECTION:activity-->
 </details>
