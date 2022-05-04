@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/bernangabriel/react-native-todo-list/issues/18) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
-2. ❌ Closed PR [#19](https://github.com/bernangabriel/react-native-todo-list/pull/19) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
-3. 🗣 Commented on [#19](https://github.com/bernangabriel/react-native-todo-list/issues/19) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
-4. 🎉 Merged PR [#13](https://github.com/Jadhielv/react-native-todo-list/pull/13) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-5. 🎉 Merged PR [#12](https://github.com/Jadhielv/react-native-todo-list/pull/12) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+1. 🎉 Merged PR [#44](https://github.com/Jadhielv/opus-api/pull/44) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+2. ❗️ Closed issue [#18](https://github.com/bernangabriel/react-native-todo-list/issues/18) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
+3. ❌ Closed PR [#19](https://github.com/bernangabriel/react-native-todo-list/pull/19) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
+4. 🗣 Commented on [#19](https://github.com/bernangabriel/react-native-todo-list/issues/19) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
+5. 🎉 Merged PR [#13](https://github.com/Jadhielv/react-native-todo-list/pull/13) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
 <!--END_SECTION:activity-->
 </details>
