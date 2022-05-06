@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 I'm currently working at [BairesDev](https://www.bairesdev.com/) as a Sr. Frontend Developer helping [leading companies](https://www.bairesdev.com/success-stories/) to succeed.
-- 👨🏻‍💻 I’m contributing **[34 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/itsalb3rt/afterman/pull/36) in [itsalb3rt/afterman](https://github.com/itsalb3rt/afterman)
-2. 🎉 Merged PR [#17](https://github.com/Jadhielv/afterman/pull/17) in [Jadhielv/afterman](https://github.com/Jadhielv/afterman)
-3. 🎉 Merged PR [#44](https://github.com/Jadhielv/opus-api/pull/44) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-4. ❗️ Closed issue [#18](https://github.com/bernangabriel/react-native-todo-list/issues/18) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
-5. ❌ Closed PR [#19](https://github.com/bernangabriel/react-native-todo-list/pull/19) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
+1. 🎉 Merged PR [#14](https://github.com/Jadhielv/react-native-todo-list/pull/14) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+2. 💪 Opened PR [#36](https://github.com/itsalb3rt/afterman/pull/36) in [itsalb3rt/afterman](https://github.com/itsalb3rt/afterman)
+3. 🎉 Merged PR [#17](https://github.com/Jadhielv/afterman/pull/17) in [Jadhielv/afterman](https://github.com/Jadhielv/afterman)
+4. 🎉 Merged PR [#44](https://github.com/Jadhielv/opus-api/pull/44) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+5. ❗️ Closed issue [#18](https://github.com/bernangabriel/react-native-todo-list/issues/18) in [bernangabriel/react-native-todo-list](https://github.com/bernangabriel/react-native-todo-list)
 <!--END_SECTION:activity-->
 </details>
