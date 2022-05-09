@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 I'm currently working at [BairesDev](https://www.bairesdev.com/) as a Sr. Frontend Developer helping [leading companies](https://www.bairesdev.com/success-stories/) to succeed.
-- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#95](https://github.com/bamotav/Hangfire.RecurringJobAdmin/pull/95) in [bamotav/Hangfire.RecurringJobAdmin](https://github.com/bamotav/Hangfire.RecurringJobAdmin)
-2. 🗣 Commented on [#95](https://github.com/bamotav/Hangfire.RecurringJobAdmin/issues/95) in [bamotav/Hangfire.RecurringJobAdmin](https://github.com/bamotav/Hangfire.RecurringJobAdmin)
-3. 🎉 Merged PR [#15](https://github.com/Jadhielv/react-native-todo-list/pull/15) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-4. 🎉 Merged PR [#14](https://github.com/Jadhielv/react-native-todo-list/pull/14) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-5. 💪 Opened PR [#36](https://github.com/itsalb3rt/afterman/pull/36) in [itsalb3rt/afterman](https://github.com/itsalb3rt/afterman)
+1. 🗣 Commented on [#9](https://github.com/Jadhielv/graphql-with-dotnet-core/issues/9) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
+2. 🎉 Merged PR [#8](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/8) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
+3. ❌ Closed PR [#95](https://github.com/bamotav/Hangfire.RecurringJobAdmin/pull/95) in [bamotav/Hangfire.RecurringJobAdmin](https://github.com/bamotav/Hangfire.RecurringJobAdmin)
+4. 🗣 Commented on [#95](https://github.com/bamotav/Hangfire.RecurringJobAdmin/issues/95) in [bamotav/Hangfire.RecurringJobAdmin](https://github.com/bamotav/Hangfire.RecurringJobAdmin)
+5. 🎉 Merged PR [#15](https://github.com/Jadhielv/react-native-todo-list/pull/15) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
 <!--END_SECTION:activity-->
 </details>
