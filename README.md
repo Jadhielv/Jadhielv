@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#116](https://github.com/Jadhielv/ITL/pull/116) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#9](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/9) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
-3. 🗣 Commented on [#9](https://github.com/Jadhielv/graphql-with-dotnet-core/issues/9) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
-4. 🎉 Merged PR [#8](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/8) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
-5. ❌ Closed PR [#95](https://github.com/bamotav/Hangfire.RecurringJobAdmin/pull/95) in [bamotav/Hangfire.RecurringJobAdmin](https://github.com/bamotav/Hangfire.RecurringJobAdmin)
+1. 🎉 Merged PR [#117](https://github.com/Jadhielv/ITL/pull/117) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#40](https://github.com/Jadhielv/search-tasks/pull/40) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🎉 Merged PR [#116](https://github.com/Jadhielv/ITL/pull/116) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#9](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/9) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
+5. 🗣 Commented on [#9](https://github.com/Jadhielv/graphql-with-dotnet-core/issues/9) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
 <!--END_SECTION:activity-->
 </details>
