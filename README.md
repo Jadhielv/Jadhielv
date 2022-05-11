@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 I'm currently working at [BairesDev](https://www.bairesdev.com/) as a Sr. Frontend Developer helping [leading companies](https://www.bairesdev.com/success-stories/) to succeed.
-- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[course-project-pwa](https://github.com/Jadhielv/course-project-pwa)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Jadhielv/course-project-pwa/pull/11) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
-2. 🎉 Merged PR [#73](https://github.com/Jadhielv/opus-web/pull/73) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-3. 🎉 Merged PR [#16](https://github.com/Jadhielv/react-native-todo-list/pull/16) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-4. 🎉 Merged PR [#72](https://github.com/Jadhielv/opus-web/pull/72) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-5. 🎉 Merged PR [#71](https://github.com/Jadhielv/opus-web/pull/71) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+1. 🎉 Merged PR [#74](https://github.com/Jadhielv/opus-web/pull/74) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+2. 🎉 Merged PR [#11](https://github.com/Jadhielv/course-project-pwa/pull/11) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
+3. 🎉 Merged PR [#73](https://github.com/Jadhielv/opus-web/pull/73) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+4. 🎉 Merged PR [#16](https://github.com/Jadhielv/react-native-todo-list/pull/16) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+5. 🎉 Merged PR [#72](https://github.com/Jadhielv/opus-web/pull/72) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
 <!--END_SECTION:activity-->
 </details>
