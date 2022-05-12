@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/Jadhielv/opus-web/pull/74) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-2. 🎉 Merged PR [#11](https://github.com/Jadhielv/course-project-pwa/pull/11) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
-3. 🎉 Merged PR [#73](https://github.com/Jadhielv/opus-web/pull/73) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-4. 🎉 Merged PR [#16](https://github.com/Jadhielv/react-native-todo-list/pull/16) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-5. 🎉 Merged PR [#72](https://github.com/Jadhielv/opus-web/pull/72) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+1. 💪 Opened PR [#139](https://github.com/VueDominicana/DominicanWhoCodes/pull/139) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+2. 🎉 Merged PR [#22](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/22) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+3. 🎉 Merged PR [#74](https://github.com/Jadhielv/opus-web/pull/74) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+4. 🎉 Merged PR [#11](https://github.com/Jadhielv/course-project-pwa/pull/11) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
+5. 🎉 Merged PR [#73](https://github.com/Jadhielv/opus-web/pull/73) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
 <!--END_SECTION:activity-->
 </details>
