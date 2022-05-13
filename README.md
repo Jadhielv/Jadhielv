@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/Jadhielv/opus-api/pull/46) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-2. 💪 Opened PR [#17](https://github.com/Jadhielv/react-native-todo-list/pull/17) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-3. 🎉 Merged PR [#76](https://github.com/Jadhielv/opus-web/pull/76) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-4. 🎉 Merged PR [#75](https://github.com/Jadhielv/opus-web/pull/75) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-5. 💪 Opened PR [#75](https://github.com/itsalb3rt/agile-visitors/pull/75) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
+1. 🎉 Merged PR [#17](https://github.com/Jadhielv/react-native-todo-list/pull/17) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+2. 🎉 Merged PR [#46](https://github.com/Jadhielv/opus-api/pull/46) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+3. 💪 Opened PR [#17](https://github.com/Jadhielv/react-native-todo-list/pull/17) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+4. 🎉 Merged PR [#76](https://github.com/Jadhielv/opus-web/pull/76) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+5. 🎉 Merged PR [#75](https://github.com/Jadhielv/opus-web/pull/75) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
 <!--END_SECTION:activity-->
 </details>
