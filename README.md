@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/Jadhielv/opus-web/pull/81) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-2. 🎉 Merged PR [#51](https://github.com/Jadhielv/opus-api/pull/51) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-3. 🎉 Merged PR [#127](https://github.com/Jadhielv/ITL/pull/127) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#50](https://github.com/Jadhielv/opus-api/pull/50) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-5. 🎉 Merged PR [#49](https://github.com/Jadhielv/opus-api/pull/49) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+1. 💪 Opened PR [#26](https://github.com/Jadhielv/agile-visitors/pull/26) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+2. 🎉 Merged PR [#81](https://github.com/Jadhielv/opus-web/pull/81) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+3. 🎉 Merged PR [#51](https://github.com/Jadhielv/opus-api/pull/51) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+4. 🎉 Merged PR [#127](https://github.com/Jadhielv/ITL/pull/127) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#50](https://github.com/Jadhielv/opus-api/pull/50) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
 <!--END_SECTION:activity-->
 </details>
