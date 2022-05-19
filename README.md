@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 I'm currently working at [BairesDev](https://www.bairesdev.com/) as a Sr. Frontend Developer helping [leading companies](https://www.bairesdev.com/success-stories/) to succeed.
-- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/Jadhielv/agile-visitors-api/pull/19) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
-2. 💪 Opened PR [#128](https://github.com/Jadhielv/ITL/pull/128) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#23](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/23) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-4. 💪 Opened PR [#23](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/23) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-5. 🎉 Merged PR [#83](https://github.com/Jadhielv/opus-web/pull/83) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+1. 🎉 Merged PR [#52](https://github.com/Jadhielv/opus-api/pull/52) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+2. 🎉 Merged PR [#18](https://github.com/Jadhielv/afterman/pull/18) in [Jadhielv/afterman](https://github.com/Jadhielv/afterman)
+3. 🎉 Merged PR [#27](https://github.com/Jadhielv/agile-visitors/pull/27) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+4. 🎉 Merged PR [#19](https://github.com/Jadhielv/agile-visitors-api/pull/19) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+5. 💪 Opened PR [#128](https://github.com/Jadhielv/ITL/pull/128) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
