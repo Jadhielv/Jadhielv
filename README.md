@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 I'm currently working at [BairesDev](https://www.bairesdev.com/) as a Sr. Frontend Developer helping [leading companies](https://www.bairesdev.com/success-stories/) to succeed.
-- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/Jadhielv/opus-api/pull/53) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-2. 🎉 Merged PR [#84](https://github.com/Jadhielv/opus-web/pull/84) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-3. 🎉 Merged PR [#41](https://github.com/Jadhielv/search-tasks/pull/41) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. 💪 Opened PR [#56](https://github.com/Streamelopers/opus-web/pull/56) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
-5. 💪 Opened PR [#83](https://github.com/Streamelopers/opus-api/pull/83) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+1. 🎉 Merged PR [#45](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/45) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+2. 💪 Opened PR [#20](https://github.com/lewandy/ticket-system-api/pull/20) in [lewandy/ticket-system-api](https://github.com/lewandy/ticket-system-api)
+3. 🎉 Merged PR [#14](https://github.com/Jadhielv/ticket-system-api/pull/14) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
+4. 🎉 Merged PR [#53](https://github.com/Jadhielv/opus-api/pull/53) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+5. 🎉 Merged PR [#84](https://github.com/Jadhielv/opus-web/pull/84) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
 <!--END_SECTION:activity-->
 </details>
