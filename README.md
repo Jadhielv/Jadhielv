@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/45) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-2. 💪 Opened PR [#20](https://github.com/lewandy/ticket-system-api/pull/20) in [lewandy/ticket-system-api](https://github.com/lewandy/ticket-system-api)
-3. 🎉 Merged PR [#14](https://github.com/Jadhielv/ticket-system-api/pull/14) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
-4. 🎉 Merged PR [#53](https://github.com/Jadhielv/opus-api/pull/53) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-5. 🎉 Merged PR [#84](https://github.com/Jadhielv/opus-web/pull/84) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+1. 🎉 Merged PR [#85](https://github.com/Jadhielv/opus-web/pull/85) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+2. 🎉 Merged PR [#45](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/45) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+3. 💪 Opened PR [#20](https://github.com/lewandy/ticket-system-api/pull/20) in [lewandy/ticket-system-api](https://github.com/lewandy/ticket-system-api)
+4. 🎉 Merged PR [#14](https://github.com/Jadhielv/ticket-system-api/pull/14) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
+5. 🎉 Merged PR [#53](https://github.com/Jadhielv/opus-api/pull/53) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
 <!--END_SECTION:activity-->
 </details>
