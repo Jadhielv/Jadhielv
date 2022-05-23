@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 I'm currently working at [BairesDev](https://www.bairesdev.com/) as a Sr. Frontend Developer helping [leading companies](https://www.bairesdev.com/success-stories/) to succeed.
-- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[search-tasks](https://github.com/Jadhielv/search-tasks)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#130](https://github.com/Jadhielv/ITL/pull/130) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#129](https://github.com/Jadhielv/ITL/pull/129) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#84](https://github.com/Streamelopers/opus-api/pull/84) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-4. 💪 Opened PR [#84](https://github.com/Streamelopers/opus-api/pull/84) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-5. 🎉 Merged PR [#85](https://github.com/Jadhielv/opus-web/pull/85) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+1. 🎉 Merged PR [#42](https://github.com/Jadhielv/search-tasks/pull/42) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🎉 Merged PR [#130](https://github.com/Jadhielv/ITL/pull/130) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#129](https://github.com/Jadhielv/ITL/pull/129) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#84](https://github.com/Streamelopers/opus-api/pull/84) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+5. 💪 Opened PR [#84](https://github.com/Streamelopers/opus-api/pull/84) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
 <!--END_SECTION:activity-->
 </details>
