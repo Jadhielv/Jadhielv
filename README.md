@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/bernangabriel/react-native-news/pull/42) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-2. 🎉 Merged PR [#142](https://github.com/VueDominicana/DominicanWhoCodes/pull/142) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-3. 🎉 Merged PR [#47](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/47) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-4. 🎉 Merged PR [#135](https://github.com/Jadhielv/ITL/pull/135) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 💪 Opened PR [#77](https://github.com/itsalb3rt/agile-visitors/pull/77) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
+1. 💪 Opened PR [#33](https://github.com/ta-vivo/ta-vivo-api/pull/33) in [ta-vivo/ta-vivo-api](https://github.com/ta-vivo/ta-vivo-api)
+2. 🎉 Merged PR [#42](https://github.com/bernangabriel/react-native-news/pull/42) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+3. 🎉 Merged PR [#142](https://github.com/VueDominicana/DominicanWhoCodes/pull/142) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+4. 🎉 Merged PR [#47](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/47) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+5. 🎉 Merged PR [#135](https://github.com/Jadhielv/ITL/pull/135) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
