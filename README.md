@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 Software Engineer at [Acid Labs](https://acid.cl/) — working on [Sky Airline](https://www.skyairline.com).
-- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/ta-vivo/ta-vivo-api/pull/33) in [ta-vivo/ta-vivo-api](https://github.com/ta-vivo/ta-vivo-api)
-2. 🎉 Merged PR [#42](https://github.com/bernangabriel/react-native-news/pull/42) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-3. 🎉 Merged PR [#142](https://github.com/VueDominicana/DominicanWhoCodes/pull/142) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-4. 🎉 Merged PR [#47](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/47) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-5. 🎉 Merged PR [#135](https://github.com/Jadhielv/ITL/pull/135) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#28](https://github.com/Jadhielv/client-app-ng-base/pull/28) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+2. 💪 Opened PR [#33](https://github.com/ta-vivo/ta-vivo-api/pull/33) in [ta-vivo/ta-vivo-api](https://github.com/ta-vivo/ta-vivo-api)
+3. 🎉 Merged PR [#42](https://github.com/bernangabriel/react-native-news/pull/42) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+4. 🎉 Merged PR [#142](https://github.com/VueDominicana/DominicanWhoCodes/pull/142) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+5. 🎉 Merged PR [#47](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/47) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
 <!--END_SECTION:activity-->
 </details>
