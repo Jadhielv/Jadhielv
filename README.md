@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Jadhielv/course-project-pwa/pull/12) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
-2. 🎉 Merged PR [#28](https://github.com/Jadhielv/client-app-ng-base/pull/28) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-3. 💪 Opened PR [#33](https://github.com/ta-vivo/ta-vivo-api/pull/33) in [ta-vivo/ta-vivo-api](https://github.com/ta-vivo/ta-vivo-api)
-4. 🎉 Merged PR [#42](https://github.com/bernangabriel/react-native-news/pull/42) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-5. 🎉 Merged PR [#142](https://github.com/VueDominicana/DominicanWhoCodes/pull/142) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+1. 🎉 Merged PR [#32](https://github.com/Jadhielv/client-app-ng-base/pull/32) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+2. 🗣 Commented on [#32](https://github.com/Jadhielv/client-app-ng-base/issues/32) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+3. 🎉 Merged PR [#31](https://github.com/Jadhielv/client-app-ng-base/pull/31) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+4. 🗣 Commented on [#31](https://github.com/Jadhielv/client-app-ng-base/issues/31) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+5. 🎉 Merged PR [#30](https://github.com/Jadhielv/client-app-ng-base/pull/30) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
 <!--END_SECTION:activity-->
 </details>
