@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#136](https://github.com/Jadhielv/ITL/pull/136) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#46](https://github.com/Jadhielv/search-tasks/pull/46) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. 🎉 Merged PR [#32](https://github.com/Jadhielv/client-app-ng-base/pull/32) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-4. 🗣 Commented on [#32](https://github.com/Jadhielv/client-app-ng-base/issues/32) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-5. 🎉 Merged PR [#31](https://github.com/Jadhielv/client-app-ng-base/pull/31) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+1. 🎉 Merged PR [#29](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/29) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+2. 🎉 Merged PR [#28](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/28) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+3. 🎉 Merged PR [#27](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/27) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+4. 🎉 Merged PR [#136](https://github.com/Jadhielv/ITL/pull/136) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#46](https://github.com/Jadhielv/search-tasks/pull/46) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
