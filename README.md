@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/Jadhielv/agile-visitors/pull/31) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
-2. 💪 Opened PR [#143](https://github.com/VueDominicana/DominicanWhoCodes/pull/143) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-3. 🎉 Merged PR [#29](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/29) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-4. 🎉 Merged PR [#28](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/28) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-5. 🎉 Merged PR [#27](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/27) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+1. 🎉 Merged PR [#30](https://github.com/Jadhielv/agile-visitors/pull/30) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+2. 🎉 Merged PR [#31](https://github.com/Jadhielv/agile-visitors/pull/31) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+3. 💪 Opened PR [#31](https://github.com/Jadhielv/agile-visitors/pull/31) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+4. 💪 Opened PR [#143](https://github.com/VueDominicana/DominicanWhoCodes/pull/143) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+5. 🎉 Merged PR [#29](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/29) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
 <!--END_SECTION:activity-->
 </details>
