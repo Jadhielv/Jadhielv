@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/Jadhielv/client-app-ng-base/pull/33) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-2. 🎉 Merged PR [#48](https://github.com/Jadhielv/search-tasks/pull/48) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. 🎉 Merged PR [#47](https://github.com/Jadhielv/search-tasks/pull/47) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. 💪 Opened PR [#78](https://github.com/itsalb3rt/agile-visitors/pull/78) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
-5. 🎉 Merged PR [#30](https://github.com/Jadhielv/agile-visitors/pull/30) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+1. 💪 Opened PR [#32](https://github.com/Jadhielv/agile-visitors/pull/32) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+2. 🎉 Merged PR [#33](https://github.com/Jadhielv/client-app-ng-base/pull/33) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+3. 🎉 Merged PR [#48](https://github.com/Jadhielv/search-tasks/pull/48) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. 🎉 Merged PR [#47](https://github.com/Jadhielv/search-tasks/pull/47) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. 💪 Opened PR [#78](https://github.com/itsalb3rt/agile-visitors/pull/78) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
 <!--END_SECTION:activity-->
 </details>
