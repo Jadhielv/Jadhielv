@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#97](https://github.com/ta-vivo/ta-vivo-landing/pull/97) in [ta-vivo/ta-vivo-landing](https://github.com/ta-vivo/ta-vivo-landing)
-2. 🎉 Merged PR [#96](https://github.com/ta-vivo/ta-vivo-landing/pull/96) in [ta-vivo/ta-vivo-landing](https://github.com/ta-vivo/ta-vivo-landing)
-3. ❌ Closed PR [#102](https://github.com/VueDominicana/DominicanWhoCodes/pull/102) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-4. 🎉 Merged PR [#34](https://github.com/Jadhielv/client-app-ng-base/pull/34) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-5. 🎉 Merged PR [#32](https://github.com/Jadhielv/agile-visitors/pull/32) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+1. 🎉 Merged PR [#35](https://github.com/Jadhielv/client-app-ng-base/pull/35) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+2. 💪 Opened PR [#97](https://github.com/ta-vivo/ta-vivo-landing/pull/97) in [ta-vivo/ta-vivo-landing](https://github.com/ta-vivo/ta-vivo-landing)
+3. 🎉 Merged PR [#96](https://github.com/ta-vivo/ta-vivo-landing/pull/96) in [ta-vivo/ta-vivo-landing](https://github.com/ta-vivo/ta-vivo-landing)
+4. ❌ Closed PR [#102](https://github.com/VueDominicana/DominicanWhoCodes/pull/102) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+5. 🎉 Merged PR [#34](https://github.com/Jadhielv/client-app-ng-base/pull/34) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
 <!--END_SECTION:activity-->
 </details>
