@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#208](https://github.com/maintainers/invite-automation/issues/208) in [maintainers/invite-automation](https://github.com/maintainers/invite-automation)
-2. 🎉 Merged PR [#35](https://github.com/Jadhielv/client-app-ng-base/pull/35) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-3. 💪 Opened PR [#97](https://github.com/ta-vivo/ta-vivo-landing/pull/97) in [ta-vivo/ta-vivo-landing](https://github.com/ta-vivo/ta-vivo-landing)
-4. 🎉 Merged PR [#96](https://github.com/ta-vivo/ta-vivo-landing/pull/96) in [ta-vivo/ta-vivo-landing](https://github.com/ta-vivo/ta-vivo-landing)
-5. ❌ Closed PR [#102](https://github.com/VueDominicana/DominicanWhoCodes/pull/102) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+1. 🎉 Merged PR [#49](https://github.com/Jadhielv/search-tasks/pull/49) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🗣 Commented on [#208](https://github.com/maintainers/invite-automation/issues/208) in [maintainers/invite-automation](https://github.com/maintainers/invite-automation)
+3. 🎉 Merged PR [#35](https://github.com/Jadhielv/client-app-ng-base/pull/35) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+4. 💪 Opened PR [#97](https://github.com/ta-vivo/ta-vivo-landing/pull/97) in [ta-vivo/ta-vivo-landing](https://github.com/ta-vivo/ta-vivo-landing)
+5. 🎉 Merged PR [#96](https://github.com/ta-vivo/ta-vivo-landing/pull/96) in [ta-vivo/ta-vivo-landing](https://github.com/ta-vivo/ta-vivo-landing)
 <!--END_SECTION:activity-->
 </details>
