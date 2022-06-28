@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/12) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
-2. 🎉 Merged PR [#13](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/13) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
-3. 💪 Opened PR [#144](https://github.com/VueDominicana/DominicanWhoCodes/pull/144) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-4. 🎉 Merged PR [#33](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/33) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-5. 🎉 Merged PR [#32](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/32) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+1. 🎉 Merged PR [#147](https://github.com/Jadhielv/ITL/pull/147) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#146](https://github.com/Jadhielv/ITL/pull/146) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#12](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/12) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
+4. 🎉 Merged PR [#13](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/13) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
+5. 💪 Opened PR [#144](https://github.com/VueDominicana/DominicanWhoCodes/pull/144) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
