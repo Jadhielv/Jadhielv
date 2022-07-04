@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/14) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
-2. 🎉 Merged PR [#15](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/15) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
-3. 🎉 Merged PR [#149](https://github.com/Jadhielv/ITL/pull/149) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#148](https://github.com/Jadhielv/ITL/pull/148) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🗣 Commented on [#42](https://github.com/ta-vivo/ta-vivo-api/issues/42) in [ta-vivo/ta-vivo-api](https://github.com/ta-vivo/ta-vivo-api)
+1. 🎉 Merged PR [#150](https://github.com/Jadhielv/ITL/pull/150) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#14](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/14) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
+3. 🎉 Merged PR [#15](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/15) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
+4. 🎉 Merged PR [#149](https://github.com/Jadhielv/ITL/pull/149) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#148](https://github.com/Jadhielv/ITL/pull/148) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
