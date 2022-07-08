@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#151](https://github.com/Jadhielv/ITL/pull/151) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🗣 Commented on [#111](https://github.com/ta-vivo/ta-vivo-landing/issues/111) in [ta-vivo/ta-vivo-landing](https://github.com/ta-vivo/ta-vivo-landing)
-3. 🎉 Merged PR [#150](https://github.com/Jadhielv/ITL/pull/150) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#14](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/14) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
-5. 🎉 Merged PR [#15](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/15) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
+1. 💪 Opened PR [#30](https://github.com/Jadhielv/agile-visitors-api/pull/30) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+2. 🎉 Merged PR [#151](https://github.com/Jadhielv/ITL/pull/151) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#111](https://github.com/ta-vivo/ta-vivo-landing/issues/111) in [ta-vivo/ta-vivo-landing](https://github.com/ta-vivo/ta-vivo-landing)
+4. 🎉 Merged PR [#150](https://github.com/Jadhielv/ITL/pull/150) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#14](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/14) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
 <!--END_SECTION:activity-->
 </details>
