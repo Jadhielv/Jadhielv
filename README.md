@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Jadhielv/parcel/pull/1) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-2. 🎉 Merged PR [#42](https://github.com/Jadhielv/agile-visitors/pull/42) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
-3. 🎉 Merged PR [#31](https://github.com/Jadhielv/agile-visitors-api/pull/31) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
-4. 🗣 Commented on [#117](https://github.com/ta-vivo/ta-vivo-landing/issues/117) in [ta-vivo/ta-vivo-landing](https://github.com/ta-vivo/ta-vivo-landing)
-5. 💪 Opened PR [#79](https://github.com/itsalb3rt/agile-visitors/pull/79) in [itsalb3rt/agile-visitors](https://github.com/itsalb3rt/agile-visitors)
+1. 💪 Opened PR [#2](https://github.com/Jadhielv/parcel/pull/2) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+2. 💪 Opened PR [#1](https://github.com/Jadhielv/parcel/pull/1) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+3. 🎉 Merged PR [#42](https://github.com/Jadhielv/agile-visitors/pull/42) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+4. 🎉 Merged PR [#31](https://github.com/Jadhielv/agile-visitors-api/pull/31) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+5. 🗣 Commented on [#117](https://github.com/ta-vivo/ta-vivo-landing/issues/117) in [ta-vivo/ta-vivo-landing](https://github.com/ta-vivo/ta-vivo-landing)
 <!--END_SECTION:activity-->
 </details>
