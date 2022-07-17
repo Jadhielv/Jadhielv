@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/Jadhielv/react-native-todo-list/pull/21) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-2. 💪 Opened PR [#2](https://github.com/Jadhielv/parcel/pull/2) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-3. 💪 Opened PR [#1](https://github.com/Jadhielv/parcel/pull/1) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-4. 🎉 Merged PR [#42](https://github.com/Jadhielv/agile-visitors/pull/42) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
-5. 🎉 Merged PR [#31](https://github.com/Jadhielv/agile-visitors-api/pull/31) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+1. 💪 Opened PR [#36](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/36) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+2. 💪 Opened PR [#21](https://github.com/Jadhielv/react-native-todo-list/pull/21) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+3. 💪 Opened PR [#2](https://github.com/Jadhielv/parcel/pull/2) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+4. 💪 Opened PR [#1](https://github.com/Jadhielv/parcel/pull/1) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+5. 🎉 Merged PR [#42](https://github.com/Jadhielv/agile-visitors/pull/42) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
 <!--END_SECTION:activity-->
 </details>
