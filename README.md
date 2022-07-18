@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 Software Engineer at [Acid Labs](https://acid.cl/) — working on [Sky Airline](https://www.skyairline.com).
-- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#123](https://github.com/ta-vivo/ta-vivo-landing/pull/123) in [ta-vivo/ta-vivo-landing](https://github.com/ta-vivo/ta-vivo-landing)
-2. 🎉 Merged PR [#122](https://github.com/ta-vivo/ta-vivo-landing/pull/122) in [ta-vivo/ta-vivo-landing](https://github.com/ta-vivo/ta-vivo-landing)
-3. 🎉 Merged PR [#52](https://github.com/Jadhielv/search-tasks/pull/52) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. 💪 Opened PR [#36](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/36) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-5. 💪 Opened PR [#21](https://github.com/Jadhielv/react-native-todo-list/pull/21) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+1. 🎉 Merged PR [#153](https://github.com/Jadhielv/ITL/pull/153) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#152](https://github.com/Jadhielv/ITL/pull/152) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#195](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/195) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. 🎉 Merged PR [#194](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/194) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. 💪 Opened PR [#123](https://github.com/ta-vivo/ta-vivo-landing/pull/123) in [ta-vivo/ta-vivo-landing](https://github.com/ta-vivo/ta-vivo-landing)
 <!--END_SECTION:activity-->
 </details>
