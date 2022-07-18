@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/36) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-2. 💪 Opened PR [#21](https://github.com/Jadhielv/react-native-todo-list/pull/21) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-3. 💪 Opened PR [#2](https://github.com/Jadhielv/parcel/pull/2) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-4. 💪 Opened PR [#1](https://github.com/Jadhielv/parcel/pull/1) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-5. 🎉 Merged PR [#42](https://github.com/Jadhielv/agile-visitors/pull/42) in [Jadhielv/agile-visitors](https://github.com/Jadhielv/agile-visitors)
+1. 💪 Opened PR [#123](https://github.com/ta-vivo/ta-vivo-landing/pull/123) in [ta-vivo/ta-vivo-landing](https://github.com/ta-vivo/ta-vivo-landing)
+2. 🎉 Merged PR [#122](https://github.com/ta-vivo/ta-vivo-landing/pull/122) in [ta-vivo/ta-vivo-landing](https://github.com/ta-vivo/ta-vivo-landing)
+3. 🎉 Merged PR [#52](https://github.com/Jadhielv/search-tasks/pull/52) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. 💪 Opened PR [#36](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/36) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+5. 💪 Opened PR [#21](https://github.com/Jadhielv/react-native-todo-list/pull/21) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
 <!--END_SECTION:activity-->
 </details>
