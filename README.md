@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/Jadhielv/react-native-todo-list/pull/23) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-2. 🎉 Merged PR [#24](https://github.com/Jadhielv/react-native-todo-list/pull/24) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-3. 🎉 Merged PR [#13](https://github.com/Jadhielv/course-project-pwa/pull/13) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
-4. 🎉 Merged PR [#146](https://github.com/VueDominicana/DominicanWhoCodes/pull/146) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-5. 💪 Opened PR [#162](https://github.com/Jadhielv/ITL/pull/162) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 💪 Opened PR [#25](https://github.com/Jadhielv/react-native-todo-list/pull/25) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+2. 🎉 Merged PR [#23](https://github.com/Jadhielv/react-native-todo-list/pull/23) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+3. 🎉 Merged PR [#24](https://github.com/Jadhielv/react-native-todo-list/pull/24) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+4. 🎉 Merged PR [#13](https://github.com/Jadhielv/course-project-pwa/pull/13) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
+5. 🎉 Merged PR [#146](https://github.com/VueDominicana/DominicanWhoCodes/pull/146) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
