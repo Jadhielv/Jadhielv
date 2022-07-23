@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 Software Engineer at [Acid Labs](https://acid.cl/) — working on [Sky Airline](https://www.skyairline.com).
-- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/Jadhielv/react-native-todo-list/pull/25) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-2. 🎉 Merged PR [#23](https://github.com/Jadhielv/react-native-todo-list/pull/23) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-3. 🎉 Merged PR [#24](https://github.com/Jadhielv/react-native-todo-list/pull/24) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-4. 🎉 Merged PR [#13](https://github.com/Jadhielv/course-project-pwa/pull/13) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
-5. 🎉 Merged PR [#146](https://github.com/VueDominicana/DominicanWhoCodes/pull/146) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+1. 🎉 Merged PR [#162](https://github.com/Jadhielv/ITL/pull/162) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#25](https://github.com/Jadhielv/react-native-todo-list/pull/25) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+3. 💪 Opened PR [#25](https://github.com/Jadhielv/react-native-todo-list/pull/25) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+4. 🎉 Merged PR [#23](https://github.com/Jadhielv/react-native-todo-list/pull/23) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+5. 🎉 Merged PR [#24](https://github.com/Jadhielv/react-native-todo-list/pull/24) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
 <!--END_SECTION:activity-->
 </details>
