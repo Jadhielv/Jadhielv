@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/Jadhielv/search-tasks/pull/53) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🎉 Merged PR [#37](https://github.com/Jadhielv/client-app-ng-base/pull/37) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-3. 🎉 Merged PR [#163](https://github.com/Jadhielv/ITL/pull/163) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#17](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/17) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
-5. 🎉 Merged PR [#16](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/16) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
+1. 🎉 Merged PR [#39](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/39) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+2. 🎉 Merged PR [#53](https://github.com/Jadhielv/search-tasks/pull/53) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🎉 Merged PR [#37](https://github.com/Jadhielv/client-app-ng-base/pull/37) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+4. 🎉 Merged PR [#163](https://github.com/Jadhielv/ITL/pull/163) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#17](https://github.com/Jadhielv/graphql-with-dotnet-core/pull/17) in [Jadhielv/graphql-with-dotnet-core](https://github.com/Jadhielv/graphql-with-dotnet-core)
 <!--END_SECTION:activity-->
 </details>
