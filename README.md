@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/41) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-2. 🎉 Merged PR [#40](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/40) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-3. 🎉 Merged PR [#164](https://github.com/Jadhielv/ITL/pull/164) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#14](https://github.com/Jadhielv/course-project-pwa/pull/14) in [Jadhielv/course-project-pwa](https://github.com/Jadhielv/course-project-pwa)
-5. 🗣 Commented on [#129](https://github.com/ta-vivo/ta-vivo-landing/issues/129) in [ta-vivo/ta-vivo-landing](https://github.com/ta-vivo/ta-vivo-landing)
+1. 💪 Opened PR [#28](https://github.com/Jadhielv/react-native-todo-list/pull/28) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+2. 💪 Opened PR [#27](https://github.com/Jadhielv/react-native-todo-list/pull/27) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+3. 🎉 Merged PR [#41](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/41) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+4. 🎉 Merged PR [#40](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/40) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+5. 🎉 Merged PR [#164](https://github.com/Jadhielv/ITL/pull/164) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
