@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#165](https://github.com/Jadhielv/ITL/pull/165) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 💪 Opened PR [#165](https://github.com/Jadhielv/ITL/pull/165) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#28](https://github.com/Jadhielv/react-native-todo-list/pull/28) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-4. 🎉 Merged PR [#26](https://github.com/Jadhielv/react-native-todo-list/pull/26) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-5. 🎉 Merged PR [#27](https://github.com/Jadhielv/react-native-todo-list/pull/27) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+1. 🗣 Commented on [#45](https://github.com/ta-vivo/ta-vivo/issues/45) in [ta-vivo/ta-vivo](https://github.com/ta-vivo/ta-vivo)
+2. 💪 Opened PR [#42](https://github.com/ta-vivo/ta-vivo/pull/42) in [ta-vivo/ta-vivo](https://github.com/ta-vivo/ta-vivo)
+3. 🗣 Commented on [#41](https://github.com/ta-vivo/ta-vivo/issues/41) in [ta-vivo/ta-vivo](https://github.com/ta-vivo/ta-vivo)
+4. 🎉 Merged PR [#165](https://github.com/Jadhielv/ITL/pull/165) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 💪 Opened PR [#165](https://github.com/Jadhielv/ITL/pull/165) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
