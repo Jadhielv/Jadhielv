@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 Software Engineer at [Acid Labs](https://acid.cl/) — working on [Sky Airline](https://www.skyairline.com).
-- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#185](https://github.com/Jadhielv/ITL/pull/185) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#200](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/200) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. 🎉 Merged PR [#40](https://github.com/Jadhielv/client-app-ng-base/pull/40) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-4. 🎉 Merged PR [#64](https://github.com/Jadhielv/search-tasks/pull/64) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 🎉 Merged PR [#63](https://github.com/Jadhielv/search-tasks/pull/63) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+1. 🎉 Merged PR [#8](https://github.com/Jadhielv/shiki-playground/pull/8) in [Jadhielv/shiki-playground](https://github.com/Jadhielv/shiki-playground)
+2. 🎉 Merged PR [#7](https://github.com/Jadhielv/shiki-playground/pull/7) in [Jadhielv/shiki-playground](https://github.com/Jadhielv/shiki-playground)
+3. ❌ Closed PR [#2](https://github.com/Jadhielv/shiki/pull/2) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+4. 🎉 Merged PR [#185](https://github.com/Jadhielv/ITL/pull/185) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#200](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/200) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
