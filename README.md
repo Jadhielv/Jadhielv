@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Jadhielv/shiki-playground/pull/9) in [Jadhielv/shiki-playground](https://github.com/Jadhielv/shiki-playground)
-2. 🎉 Merged PR [#8](https://github.com/Jadhielv/shiki-playground/pull/8) in [Jadhielv/shiki-playground](https://github.com/Jadhielv/shiki-playground)
-3. 🎉 Merged PR [#7](https://github.com/Jadhielv/shiki-playground/pull/7) in [Jadhielv/shiki-playground](https://github.com/Jadhielv/shiki-playground)
-4. ❌ Closed PR [#2](https://github.com/Jadhielv/shiki/pull/2) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-5. 🎉 Merged PR [#185](https://github.com/Jadhielv/ITL/pull/185) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#186](https://github.com/Jadhielv/ITL/pull/186) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#9](https://github.com/Jadhielv/shiki-playground/pull/9) in [Jadhielv/shiki-playground](https://github.com/Jadhielv/shiki-playground)
+3. 🎉 Merged PR [#8](https://github.com/Jadhielv/shiki-playground/pull/8) in [Jadhielv/shiki-playground](https://github.com/Jadhielv/shiki-playground)
+4. 🎉 Merged PR [#7](https://github.com/Jadhielv/shiki-playground/pull/7) in [Jadhielv/shiki-playground](https://github.com/Jadhielv/shiki-playground)
+5. ❌ Closed PR [#2](https://github.com/Jadhielv/shiki/pull/2) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
 <!--END_SECTION:activity-->
 </details>
