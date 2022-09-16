@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/Jadhielv/first-vue-app-with-graphql/issues/51) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-2. 🎉 Merged PR [#50](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/50) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-3. 🎉 Merged PR [#49](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/49) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-4. 🎉 Merged PR [#48](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/48) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-5. 🎉 Merged PR [#198](https://github.com/Jadhielv/ITL/pull/198) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#51](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/51) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+2. 🗣 Commented on [#51](https://github.com/Jadhielv/first-vue-app-with-graphql/issues/51) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+3. 🎉 Merged PR [#50](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/50) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+4. 🎉 Merged PR [#49](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/49) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+5. 🎉 Merged PR [#48](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/48) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
 <!--END_SECTION:activity-->
 </details>
