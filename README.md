@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#202](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/202) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. 🎉 Merged PR [#201](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/201) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. 🎉 Merged PR [#52](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/52) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-4. 💪 Opened PR [#52](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/52) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-5. 🎉 Merged PR [#51](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/51) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+1. 🎉 Merged PR [#203](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/203) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 🎉 Merged PR [#202](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/202) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 🎉 Merged PR [#201](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/201) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. 🎉 Merged PR [#52](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/52) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+5. 💪 Opened PR [#52](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/52) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
 <!--END_SECTION:activity-->
 </details>
