@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/Jadhielv/search-tasks/pull/69) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🎉 Merged PR [#204](https://github.com/Jadhielv/ITL/pull/204) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#68](https://github.com/Jadhielv/search-tasks/pull/68) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. 🎉 Merged PR [#203](https://github.com/Jadhielv/ITL/pull/203) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#67](https://github.com/Jadhielv/search-tasks/pull/67) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+1. 🎉 Merged PR [#208](https://github.com/Jadhielv/ITL/pull/208) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#204](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/204) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 🎉 Merged PR [#207](https://github.com/Jadhielv/ITL/pull/207) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. ❗️ Closed issue [#202](https://github.com/Jadhielv/ITL/issues/202) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#206](https://github.com/Jadhielv/ITL/pull/206) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
