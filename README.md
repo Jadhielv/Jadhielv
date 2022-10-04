@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/53) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-2. 🎉 Merged PR [#208](https://github.com/Jadhielv/ITL/pull/208) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#204](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/204) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. 🎉 Merged PR [#207](https://github.com/Jadhielv/ITL/pull/207) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. ❗️ Closed issue [#202](https://github.com/Jadhielv/ITL/issues/202) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 💪 Opened PR [#71](https://github.com/ta-vivo/ta-vivo-api/pull/71) in [ta-vivo/ta-vivo-api](https://github.com/ta-vivo/ta-vivo-api)
+2. 🎉 Merged PR [#53](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/53) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+3. 🎉 Merged PR [#208](https://github.com/Jadhielv/ITL/pull/208) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#204](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/204) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. 🎉 Merged PR [#207](https://github.com/Jadhielv/ITL/pull/207) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
