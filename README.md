@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#68](https://github.com/ta-vivo/ta-vivo/pull/68) in [ta-vivo/ta-vivo](https://github.com/ta-vivo/ta-vivo)
-2. 🗣 Commented on [#67](https://github.com/ta-vivo/ta-vivo-api/issues/67) in [ta-vivo/ta-vivo-api](https://github.com/ta-vivo/ta-vivo-api)
-3. 🗣 Commented on [#67](https://github.com/ta-vivo/ta-vivo-api/issues/67) in [ta-vivo/ta-vivo-api](https://github.com/ta-vivo/ta-vivo-api)
-4. 🗣 Commented on [#64](https://github.com/ta-vivo/ta-vivo/issues/64) in [ta-vivo/ta-vivo](https://github.com/ta-vivo/ta-vivo)
-5. 🗣 Commented on [#63](https://github.com/ta-vivo/ta-vivo/issues/63) in [ta-vivo/ta-vivo](https://github.com/ta-vivo/ta-vivo)
+1. 🎉 Merged PR [#111](https://github.com/Jadhielv/grammar-nazi-bot/pull/111) in [Jadhielv/grammar-nazi-bot](https://github.com/Jadhielv/grammar-nazi-bot)
+2. ❌ Closed PR [#68](https://github.com/ta-vivo/ta-vivo/pull/68) in [ta-vivo/ta-vivo](https://github.com/ta-vivo/ta-vivo)
+3. 💪 Opened PR [#68](https://github.com/ta-vivo/ta-vivo/pull/68) in [ta-vivo/ta-vivo](https://github.com/ta-vivo/ta-vivo)
+4. 🗣 Commented on [#67](https://github.com/ta-vivo/ta-vivo-api/issues/67) in [ta-vivo/ta-vivo-api](https://github.com/ta-vivo/ta-vivo-api)
+5. 🗣 Commented on [#67](https://github.com/ta-vivo/ta-vivo-api/issues/67) in [ta-vivo/ta-vivo-api](https://github.com/ta-vivo/ta-vivo-api)
 <!--END_SECTION:activity-->
 </details>
