@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#209](https://github.com/Jadhielv/ITL/pull/209) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#111](https://github.com/Jadhielv/grammar-nazi-bot/pull/111) in [Jadhielv/grammar-nazi-bot](https://github.com/Jadhielv/grammar-nazi-bot)
-3. ❌ Closed PR [#68](https://github.com/ta-vivo/ta-vivo/pull/68) in [ta-vivo/ta-vivo](https://github.com/ta-vivo/ta-vivo)
-4. 💪 Opened PR [#68](https://github.com/ta-vivo/ta-vivo/pull/68) in [ta-vivo/ta-vivo](https://github.com/ta-vivo/ta-vivo)
-5. 🗣 Commented on [#67](https://github.com/ta-vivo/ta-vivo-api/issues/67) in [ta-vivo/ta-vivo-api](https://github.com/ta-vivo/ta-vivo-api)
+1. ❌ Closed PR [#4](https://github.com/Jadhielv/parcel/pull/4) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+2. ❌ Closed PR [#3](https://github.com/Jadhielv/parcel/pull/3) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+3. 🎉 Merged PR [#209](https://github.com/Jadhielv/ITL/pull/209) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#111](https://github.com/Jadhielv/grammar-nazi-bot/pull/111) in [Jadhielv/grammar-nazi-bot](https://github.com/Jadhielv/grammar-nazi-bot)
+5. ❌ Closed PR [#68](https://github.com/ta-vivo/ta-vivo/pull/68) in [ta-vivo/ta-vivo](https://github.com/ta-vivo/ta-vivo)
 <!--END_SECTION:activity-->
 </details>
