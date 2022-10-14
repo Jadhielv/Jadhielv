@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 Software Engineer at [Acid Labs](https://acid.cl/) — working on [Sky Airline](https://www.skyairline.com).
-- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[33 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/Jadhielv/parcel/pull/4) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-2. ❌ Closed PR [#3](https://github.com/Jadhielv/parcel/pull/3) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-3. 🎉 Merged PR [#209](https://github.com/Jadhielv/ITL/pull/209) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#111](https://github.com/Jadhielv/grammar-nazi-bot/pull/111) in [Jadhielv/grammar-nazi-bot](https://github.com/Jadhielv/grammar-nazi-bot)
-5. ❌ Closed PR [#68](https://github.com/ta-vivo/ta-vivo/pull/68) in [ta-vivo/ta-vivo](https://github.com/ta-vivo/ta-vivo)
+1. 🎉 Merged PR [#54](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/54) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
+2. 🎉 Merged PR [#70](https://github.com/Jadhielv/search-tasks/pull/70) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. ❌ Closed PR [#4](https://github.com/Jadhielv/parcel/pull/4) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+4. ❌ Closed PR [#3](https://github.com/Jadhielv/parcel/pull/3) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+5. 🎉 Merged PR [#209](https://github.com/Jadhielv/ITL/pull/209) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
