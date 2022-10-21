@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#208](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/208) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. 💪 Opened PR [#208](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/208) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. 🎉 Merged PR [#46](https://github.com/bernangabriel/react-native-news/pull/46) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-4. 🗣 Commented on [#46](https://github.com/bernangabriel/react-native-news/issues/46) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+1. 🗣 Commented on [#209](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/209) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 🎉 Merged PR [#208](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/208) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 💪 Opened PR [#208](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/208) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. 🎉 Merged PR [#46](https://github.com/bernangabriel/react-native-news/pull/46) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
 5. 🗣 Commented on [#46](https://github.com/bernangabriel/react-native-news/issues/46) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
 <!--END_SECTION:activity-->
 </details>
