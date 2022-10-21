@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/bernangabriel/react-native-news/pull/44) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-2. 🎉 Merged PR [#43](https://github.com/bernangabriel/react-native-news/pull/43) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-3. 💪 Opened PR [#508](https://github.com/nminaya/grammar-nazi-bot/pull/508) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-4. 🗣 Commented on [#502](https://github.com/unoplatform/Uno.Gallery/issues/502) in [unoplatform/Uno.Gallery](https://github.com/unoplatform/Uno.Gallery)
-5. 🗣 Commented on [#501](https://github.com/unoplatform/Uno.Gallery/issues/501) in [unoplatform/Uno.Gallery](https://github.com/unoplatform/Uno.Gallery)
+1. 🎉 Merged PR [#46](https://github.com/bernangabriel/react-native-news/pull/46) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+2. 🗣 Commented on [#46](https://github.com/bernangabriel/react-native-news/issues/46) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+3. 🗣 Commented on [#46](https://github.com/bernangabriel/react-native-news/issues/46) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+4. 🎉 Merged PR [#45](https://github.com/bernangabriel/react-native-news/pull/45) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+5. 🎉 Merged PR [#44](https://github.com/bernangabriel/react-native-news/pull/44) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
 <!--END_SECTION:activity-->
 </details>
