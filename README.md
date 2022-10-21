@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#209](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/209) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. 🎉 Merged PR [#211](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/211) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. 🗣 Commented on [#211](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/211) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. 🗣 Commented on [#210](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/210) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. 🗣 Commented on [#209](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/209) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. 🎉 Merged PR [#507](https://github.com/nminaya/grammar-nazi-bot/pull/507) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+2. 🗣 Commented on [#507](https://github.com/nminaya/grammar-nazi-bot/issues/507) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+3. 🎉 Merged PR [#506](https://github.com/nminaya/grammar-nazi-bot/pull/506) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+4. ❗️ Closed issue [#209](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/209) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. 🎉 Merged PR [#211](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/211) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
