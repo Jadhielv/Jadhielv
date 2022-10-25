@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#148](https://github.com/VueDominicana/DominicanWhoCodes/pull/148) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-2. 🎉 Merged PR [#66](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/66) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-3. 🎉 Merged PR [#65](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/65) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-4. 🗣 Commented on [#65](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/issues/65) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-5. 🎉 Merged PR [#64](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/64) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+1. 🎉 Merged PR [#70](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/70) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+2. 🗣 Commented on [#70](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/issues/70) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+3. 🎉 Merged PR [#69](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/69) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+4. 🎉 Merged PR [#68](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/68) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+5. 🎉 Merged PR [#67](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/67) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
 <!--END_SECTION:activity-->
 </details>
