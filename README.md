@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#150](https://github.com/VueDominicana/DominicanWhoCodes/pull/150) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-2. ❗️ Opened issue [#149](https://github.com/VueDominicana/DominicanWhoCodes/issues/149) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-3. 🎉 Merged PR [#221](https://github.com/Jadhielv/ITL/pull/221) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🗣 Commented on [#210](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/210) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. 🎉 Merged PR [#77](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/77) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+1. ❌ Closed PR [#24](https://github.com/Jadhielv/ticket-system-api/pull/24) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
+2. ❌ Closed PR [#23](https://github.com/Jadhielv/ticket-system-api/pull/23) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
+3. 💪 Opened PR [#150](https://github.com/VueDominicana/DominicanWhoCodes/pull/150) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+4. ❗️ Opened issue [#149](https://github.com/VueDominicana/DominicanWhoCodes/issues/149) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+5. 🎉 Merged PR [#221](https://github.com/Jadhielv/ITL/pull/221) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
