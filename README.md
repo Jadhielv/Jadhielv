@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 Software Engineer at [Acid Labs](https://acid.cl/) — working on [Sky Airline](https://www.skyairline.com).
-- 👨🏻‍💻 I’m contributing **[32 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#223](https://github.com/Jadhielv/ITL/pull/223) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#222](https://github.com/Jadhielv/ITL/pull/222) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#29](https://github.com/Jadhielv/afterman/pull/29) in [Jadhielv/afterman](https://github.com/Jadhielv/afterman)
-4. 💪 Opened PR [#29](https://github.com/Jadhielv/afterman/pull/29) in [Jadhielv/afterman](https://github.com/Jadhielv/afterman)
-5. 🎉 Merged PR [#28](https://github.com/Jadhielv/afterman/pull/28) in [Jadhielv/afterman](https://github.com/Jadhielv/afterman)
+1. ❌ Closed PR [#51](https://github.com/Jadhielv/agile-visitors-api/pull/51) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+2. ❌ Closed PR [#50](https://github.com/Jadhielv/agile-visitors-api/pull/50) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+3. ❌ Closed PR [#46](https://github.com/Jadhielv/agile-visitors-api/pull/46) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+4. ❌ Closed PR [#40](https://github.com/Jadhielv/agile-visitors-api/pull/40) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+5. ❌ Closed PR [#36](https://github.com/Jadhielv/agile-visitors-api/pull/36) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
 <!--END_SECTION:activity-->
 </details>
