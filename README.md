@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 Software Engineer at [Acid Labs](https://acid.cl/) — working on [Sky Airline](https://www.skyairline.com).
-- 👨🏻‍💻 I’m contributing **[34 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[34 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -59,10 +59,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#220](https://github.com/Jadhielv/ITL/issues/220) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. ❌ Closed PR [#24](https://github.com/Jadhielv/ticket-system-api/pull/24) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
-3. ❌ Closed PR [#23](https://github.com/Jadhielv/ticket-system-api/pull/23) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
-4. 💪 Opened PR [#150](https://github.com/VueDominicana/DominicanWhoCodes/pull/150) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-5. ❗️ Opened issue [#149](https://github.com/VueDominicana/DominicanWhoCodes/issues/149) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+1. 🎉 Merged PR [#212](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/212) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 🎉 Merged PR [#41](https://github.com/Jadhielv/client-app-ng-base/pull/41) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+3. ❗️ Closed issue [#220](https://github.com/Jadhielv/ITL/issues/220) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. ❌ Closed PR [#24](https://github.com/Jadhielv/ticket-system-api/pull/24) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
+5. ❌ Closed PR [#23](https://github.com/Jadhielv/ticket-system-api/pull/23) in [Jadhielv/ticket-system-api](https://github.com/Jadhielv/ticket-system-api)
 <!--END_SECTION:activity-->
 </details>
