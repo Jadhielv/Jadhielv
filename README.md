@@ -43,8 +43,6 @@
 
 [![@jadhielv's Holopin board](https://holopin.me/jadhielv)](https://holopin.io/@jadhielv)
 
-<br/>
-
 📊 **Github Stats:**
 
 <details>
