@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 Software Engineer at [Acid Labs](https://acid.cl/) — working on [Sky Airline](https://www.skyairline.com).
-- 👨🏻‍💻 I’m contributing **[28 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[unit-testing-with-dotnet-core](https://github.com/Jadhielv/unit-testing-with-dotnet-core)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[28 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#210](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/210) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. ❌ Closed PR [#5](https://github.com/Jadhielv/parcel/pull/5) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-3. 🎉 Merged PR [#224](https://github.com/Jadhielv/ITL/pull/224) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🗣 Commented on [#3](https://github.com/Jadhielv/github-activity-readme/issues/3) in [Jadhielv/github-activity-readme](https://github.com/Jadhielv/github-activity-readme)
+2. 🎉 Merged PR [#2](https://github.com/Jadhielv/github-activity-readme/pull/2) in [Jadhielv/github-activity-readme](https://github.com/Jadhielv/github-activity-readme)
+3. 🎉 Merged PR [#1](https://github.com/Jadhielv/github-activity-readme/pull/1) in [Jadhielv/github-activity-readme](https://github.com/Jadhielv/github-activity-readme)
 4. 🗣 Commented on [#210](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/210) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. ❗️ Closed issue [#149](https://github.com/VueDominicana/DominicanWhoCodes/issues/149) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+5. ❌ Closed PR [#5](https://github.com/Jadhielv/parcel/pull/5) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
 <!--END_SECTION:activity-->
 </details>
