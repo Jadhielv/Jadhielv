@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#224](https://github.com/Jadhielv/ITL/pull/224) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🗣 Commented on [#210](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/210) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. ❗️ Closed issue [#149](https://github.com/VueDominicana/DominicanWhoCodes/issues/149) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-4. 🎉 Merged PR [#150](https://github.com/VueDominicana/DominicanWhoCodes/pull/150) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-5. ❌ Closed PR [#51](https://github.com/Jadhielv/agile-visitors-api/pull/51) in [Jadhielv/agile-visitors-api](https://github.com/Jadhielv/agile-visitors-api)
+1. 🗣 Commented on [#210](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/210) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. ❌ Closed PR [#5](https://github.com/Jadhielv/parcel/pull/5) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+3. 🎉 Merged PR [#224](https://github.com/Jadhielv/ITL/pull/224) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🗣 Commented on [#210](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/210) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. ❗️ Closed issue [#149](https://github.com/VueDominicana/DominicanWhoCodes/issues/149) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
