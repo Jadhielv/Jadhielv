@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#232](https://github.com/Jadhielv/ITL/issues/232) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. ❗️ Opened issue [#232](https://github.com/Jadhielv/ITL/issues/232) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🗣 Commented on [#218](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/218) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. ❗️ Opened issue [#218](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/218) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. 🎉 Merged PR [#151](https://github.com/VueDominicana/DominicanWhoCodes/pull/151) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+1. 💪 Opened PR [#524](https://github.com/nminaya/grammar-nazi-bot/pull/524) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+2. 🗣 Commented on [#232](https://github.com/Jadhielv/ITL/issues/232) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. ❗️ Opened issue [#232](https://github.com/Jadhielv/ITL/issues/232) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🗣 Commented on [#218](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/218) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. ❗️ Opened issue [#218](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/218) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
