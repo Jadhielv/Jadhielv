@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#233](https://github.com/Jadhielv/ITL/pull/233) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🗣 Commented on [#526](https://github.com/nminaya/grammar-nazi-bot/issues/526) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-3. 💪 Opened PR [#524](https://github.com/nminaya/grammar-nazi-bot/pull/524) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-4. 🗣 Commented on [#232](https://github.com/Jadhielv/ITL/issues/232) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. ❗️ Opened issue [#232](https://github.com/Jadhielv/ITL/issues/232) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🗣 Commented on [#210](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/210) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 💪 Opened PR [#233](https://github.com/Jadhielv/ITL/pull/233) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#526](https://github.com/nminaya/grammar-nazi-bot/issues/526) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+4. 💪 Opened PR [#524](https://github.com/nminaya/grammar-nazi-bot/pull/524) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+5. 🗣 Commented on [#232](https://github.com/Jadhielv/ITL/issues/232) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
