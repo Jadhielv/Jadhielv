@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#502](https://github.com/unoplatform/Uno.Gallery/issues/502) in [unoplatform/Uno.Gallery](https://github.com/unoplatform/Uno.Gallery)
-2. 🎉 Merged PR [#220](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/220) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. ❗️ Closed issue [#218](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/218) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. 🎉 Merged PR [#42](https://github.com/Jadhielv/client-app-ng-base/pull/42) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-5. 🎉 Merged PR [#237](https://github.com/Jadhielv/ITL/pull/237) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🗣 Commented on [#501](https://github.com/unoplatform/Uno.Gallery/issues/501) in [unoplatform/Uno.Gallery](https://github.com/unoplatform/Uno.Gallery)
+2. 🗣 Commented on [#502](https://github.com/unoplatform/Uno.Gallery/issues/502) in [unoplatform/Uno.Gallery](https://github.com/unoplatform/Uno.Gallery)
+3. 🎉 Merged PR [#220](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/220) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. ❗️ Closed issue [#218](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/218) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. 🎉 Merged PR [#42](https://github.com/Jadhielv/client-app-ng-base/pull/42) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
 <!--END_SECTION:activity-->
 </details>
