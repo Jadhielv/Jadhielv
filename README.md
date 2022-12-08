@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/Jadhielv/search-tasks/pull/79) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🎉 Merged PR [#78](https://github.com/Jadhielv/search-tasks/pull/78) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. 🎉 Merged PR [#239](https://github.com/Jadhielv/ITL/pull/239) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#238](https://github.com/Jadhielv/ITL/pull/238) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🗣 Commented on [#501](https://github.com/unoplatform/Uno.Gallery/issues/501) in [unoplatform/Uno.Gallery](https://github.com/unoplatform/Uno.Gallery)
+1. 🎉 Merged PR [#47](https://github.com/bernangabriel/react-native-news/pull/47) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+2. 🎉 Merged PR [#79](https://github.com/Jadhielv/search-tasks/pull/79) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🎉 Merged PR [#78](https://github.com/Jadhielv/search-tasks/pull/78) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. 🎉 Merged PR [#239](https://github.com/Jadhielv/ITL/pull/239) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#238](https://github.com/Jadhielv/ITL/pull/238) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
