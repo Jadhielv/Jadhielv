@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#83](https://github.com/Jadhielv/search-tasks/pull/83) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🎉 Merged PR [#82](https://github.com/Jadhielv/search-tasks/pull/82) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. 🎉 Merged PR [#81](https://github.com/Jadhielv/search-tasks/pull/81) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. 🎉 Merged PR [#80](https://github.com/Jadhielv/search-tasks/pull/80) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 🎉 Merged PR [#48](https://github.com/bernangabriel/react-native-news/pull/48) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+1. 💪 Opened PR [#83](https://github.com/Juguetear/juguetear-web/pull/83) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
+2. 🎉 Merged PR [#83](https://github.com/Jadhielv/search-tasks/pull/83) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🎉 Merged PR [#82](https://github.com/Jadhielv/search-tasks/pull/82) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. 🎉 Merged PR [#81](https://github.com/Jadhielv/search-tasks/pull/81) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. 🎉 Merged PR [#80](https://github.com/Jadhielv/search-tasks/pull/80) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
