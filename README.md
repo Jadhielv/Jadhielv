@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com/Jadhielv/search-tasks/pull/84) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 💪 Opened PR [#83](https://github.com/Juguetear/juguetear-web/pull/83) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
-3. 🎉 Merged PR [#83](https://github.com/Jadhielv/search-tasks/pull/83) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. 🎉 Merged PR [#82](https://github.com/Jadhielv/search-tasks/pull/82) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 🎉 Merged PR [#81](https://github.com/Jadhielv/search-tasks/pull/81) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+1. 🗣 Commented on [#535](https://github.com/nminaya/grammar-nazi-bot/issues/535) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+2. 🗣 Commented on [#538](https://github.com/nminaya/grammar-nazi-bot/issues/538) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+3. 🎉 Merged PR [#84](https://github.com/Jadhielv/search-tasks/pull/84) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. 💪 Opened PR [#83](https://github.com/Juguetear/juguetear-web/pull/83) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
+5. 🎉 Merged PR [#83](https://github.com/Jadhielv/search-tasks/pull/83) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
