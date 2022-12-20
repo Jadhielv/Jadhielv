@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 Software Engineer at [Acid Labs](https://acid.cl/) — working on [Sky Airline](https://www.skyairline.com).
-- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[blazor-web](https://github.com/Jadhielv/blazor-web)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#223](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/223) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. 🎉 Merged PR [#224](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/224) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. 🎉 Merged PR [#222](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/222) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. 🎉 Merged PR [#4](https://github.com/Jadhielv/blazor-web/pull/4) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
-5. 🎉 Merged PR [#3](https://github.com/Jadhielv/blazor-web/pull/3) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
+1. 🎉 Merged PR [#223](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/223) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 🗣 Commented on [#223](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/223) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 🎉 Merged PR [#224](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/224) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. 🎉 Merged PR [#222](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/222) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. 🎉 Merged PR [#4](https://github.com/Jadhielv/blazor-web/pull/4) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
 <!--END_SECTION:activity-->
 </details>
