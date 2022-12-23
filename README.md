@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#244](https://github.com/Jadhielv/ITL/pull/244) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#241](https://github.com/Jadhielv/ITL/pull/241) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🗣 Commented on [#244](https://github.com/Jadhielv/ITL/issues/244) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#242](https://github.com/Jadhielv/ITL/pull/242) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#223](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/223) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. 🗣 Commented on [#101](https://github.com/Juguetear/juguetear-web/issues/101) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
+2. 🎉 Merged PR [#244](https://github.com/Jadhielv/ITL/pull/244) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#241](https://github.com/Jadhielv/ITL/pull/241) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🗣 Commented on [#244](https://github.com/Jadhielv/ITL/issues/244) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#242](https://github.com/Jadhielv/ITL/pull/242) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
