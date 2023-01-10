@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#88](https://github.com/Jadhielv/search-tasks/pull/88) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🎉 Merged PR [#49](https://github.com/bernangabriel/react-native-news/pull/49) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-3. 🎉 Merged PR [#44](https://github.com/Jadhielv/client-app-ng-base/pull/44) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-4. 🎉 Merged PR [#251](https://github.com/Jadhielv/ITL/pull/251) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#250](https://github.com/Jadhielv/ITL/pull/250) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#90](https://github.com/Jadhielv/search-tasks/pull/90) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🎉 Merged PR [#89](https://github.com/Jadhielv/search-tasks/pull/89) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🎉 Merged PR [#88](https://github.com/Jadhielv/search-tasks/pull/88) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. 🎉 Merged PR [#49](https://github.com/bernangabriel/react-native-news/pull/49) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+5. 🎉 Merged PR [#44](https://github.com/Jadhielv/client-app-ng-base/pull/44) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
 <!--END_SECTION:activity-->
 </details>
