@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#129](https://github.com/Juguetear/juguetear-web/pull/129) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
-2. 🎉 Merged PR [#90](https://github.com/Jadhielv/search-tasks/pull/90) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. 🎉 Merged PR [#89](https://github.com/Jadhielv/search-tasks/pull/89) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. 🎉 Merged PR [#88](https://github.com/Jadhielv/search-tasks/pull/88) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 🎉 Merged PR [#49](https://github.com/bernangabriel/react-native-news/pull/49) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+1. ❌ Closed PR [#152](https://github.com/VueDominicana/DominicanWhoCodes/pull/152) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+2. 💪 Opened PR [#129](https://github.com/Juguetear/juguetear-web/pull/129) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
+3. 🎉 Merged PR [#90](https://github.com/Jadhielv/search-tasks/pull/90) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. 🎉 Merged PR [#89](https://github.com/Jadhielv/search-tasks/pull/89) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. 🎉 Merged PR [#88](https://github.com/Jadhielv/search-tasks/pull/88) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
