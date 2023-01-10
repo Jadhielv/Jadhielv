@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 Software Engineer at [Acid Labs](https://acid.cl/) — working on [Sky Airline](https://www.skyairline.com).
-- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[search-tasks](https://github.com/Jadhielv/search-tasks)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#250](https://github.com/Jadhielv/ITL/pull/250) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#43](https://github.com/Jadhielv/client-app-ng-base/pull/43) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-3. 🎉 Merged PR [#249](https://github.com/Jadhielv/ITL/pull/249) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#248](https://github.com/Jadhielv/ITL/pull/248) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#247](https://github.com/Jadhielv/ITL/pull/247) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#88](https://github.com/Jadhielv/search-tasks/pull/88) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🎉 Merged PR [#49](https://github.com/bernangabriel/react-native-news/pull/49) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+3. 🎉 Merged PR [#44](https://github.com/Jadhielv/client-app-ng-base/pull/44) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+4. 🎉 Merged PR [#251](https://github.com/Jadhielv/ITL/pull/251) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#250](https://github.com/Jadhielv/ITL/pull/250) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
