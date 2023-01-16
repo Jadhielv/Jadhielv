@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#549](https://github.com/nminaya/grammar-nazi-bot/issues/549) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-2. 🗣 Commented on [#548](https://github.com/nminaya/grammar-nazi-bot/issues/548) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-3. 🎉 Merged PR [#6](https://github.com/Jadhielv/blazor-web/pull/6) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
-4. 🎉 Merged PR [#5](https://github.com/Jadhielv/blazor-web/pull/5) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
-5. 🗣 Commented on [#256](https://github.com/Jadhielv/ITL/issues/256) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#260](https://github.com/Jadhielv/ITL/pull/260) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#258](https://github.com/Jadhielv/ITL/pull/258) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#549](https://github.com/nminaya/grammar-nazi-bot/issues/549) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+4. 🗣 Commented on [#548](https://github.com/nminaya/grammar-nazi-bot/issues/548) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+5. 🎉 Merged PR [#6](https://github.com/Jadhielv/blazor-web/pull/6) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
 <!--END_SECTION:activity-->
 </details>
