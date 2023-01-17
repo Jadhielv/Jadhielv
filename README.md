@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#259](https://github.com/Jadhielv/ITL/pull/259) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#261](https://github.com/Jadhielv/ITL/pull/261) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#260](https://github.com/Jadhielv/ITL/pull/260) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#258](https://github.com/Jadhielv/ITL/pull/258) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🗣 Commented on [#549](https://github.com/nminaya/grammar-nazi-bot/issues/549) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+1. 🎉 Merged PR [#7](https://github.com/Jadhielv/github-activity-readme/pull/7) in [Jadhielv/github-activity-readme](https://github.com/Jadhielv/github-activity-readme)
+2. 🎉 Merged PR [#259](https://github.com/Jadhielv/ITL/pull/259) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#261](https://github.com/Jadhielv/ITL/pull/261) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#260](https://github.com/Jadhielv/ITL/pull/260) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#258](https://github.com/Jadhielv/ITL/pull/258) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
