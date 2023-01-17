@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#262](https://github.com/Jadhielv/ITL/issues/262) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🗣 Commented on [#129](https://github.com/Juguetear/juguetear-web/issues/129) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
-3. 🎉 Merged PR [#7](https://github.com/Jadhielv/github-activity-readme/pull/7) in [Jadhielv/github-activity-readme](https://github.com/Jadhielv/github-activity-readme)
-4. 🎉 Merged PR [#259](https://github.com/Jadhielv/ITL/pull/259) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#261](https://github.com/Jadhielv/ITL/pull/261) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#263](https://github.com/Jadhielv/ITL/pull/263) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. ❗️ Closed issue [#262](https://github.com/Jadhielv/ITL/issues/262) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#129](https://github.com/Juguetear/juguetear-web/issues/129) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
+4. 🎉 Merged PR [#7](https://github.com/Jadhielv/github-activity-readme/pull/7) in [Jadhielv/github-activity-readme](https://github.com/Jadhielv/github-activity-readme)
+5. 🎉 Merged PR [#259](https://github.com/Jadhielv/ITL/pull/259) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
