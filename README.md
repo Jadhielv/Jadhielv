@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 Software Engineer at [Acid Labs](https://acid.cl/) — working on [Sky Airline](https://www.skyairline.com).
-- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#92](https://github.com/Jadhielv/search-tasks/pull/92) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🗣 Commented on [#117](https://github.com/Juguetear/juguetear-web/issues/117) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
-3. 🎉 Merged PR [#263](https://github.com/Jadhielv/ITL/pull/263) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. ❗️ Closed issue [#262](https://github.com/Jadhielv/ITL/issues/262) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🗣 Commented on [#129](https://github.com/Juguetear/juguetear-web/issues/129) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
+1. 🎉 Merged PR [#264](https://github.com/Jadhielv/ITL/pull/264) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#92](https://github.com/Jadhielv/search-tasks/pull/92) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🗣 Commented on [#117](https://github.com/Juguetear/juguetear-web/issues/117) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
+4. 🎉 Merged PR [#263](https://github.com/Jadhielv/ITL/pull/263) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. ❗️ Closed issue [#262](https://github.com/Jadhielv/ITL/issues/262) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
