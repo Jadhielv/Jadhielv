@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#198](https://github.com/Jadhielv/opus-web/pull/198) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-2. 🎉 Merged PR [#196](https://github.com/Jadhielv/opus-web/pull/196) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-3. 🎉 Merged PR [#187](https://github.com/Jadhielv/opus-web/pull/187) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-4. 🎉 Merged PR [#182](https://github.com/Jadhielv/opus-web/pull/182) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-5. 🎉 Merged PR [#129](https://github.com/Jadhielv/opus-web/pull/129) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+1. 🎉 Merged PR [#205](https://github.com/Jadhielv/opus-web/pull/205) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+2. 🗣 Commented on [#205](https://github.com/Jadhielv/opus-web/issues/205) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+3. 🎉 Merged PR [#204](https://github.com/Jadhielv/opus-web/pull/204) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+4. 🎉 Merged PR [#203](https://github.com/Jadhielv/opus-web/pull/203) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+5. 🎉 Merged PR [#202](https://github.com/Jadhielv/opus-web/pull/202) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
 <!--END_SECTION:activity-->
 </details>
