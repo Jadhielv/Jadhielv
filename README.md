@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#228](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/228) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. 💪 Opened PR [#165](https://github.com/Juguetear/juguetear-web/pull/165) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
-3. 🗣 Commented on [#151](https://github.com/Juguetear/juguetear-web/issues/151) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
-4. 💪 Opened PR [#152](https://github.com/Juguetear/juguetear-web/pull/152) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
-5. 🎉 Merged PR [#93](https://github.com/Jadhielv/search-tasks/pull/93) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+1. 🗣 Commented on [#120](https://github.com/Juguetear/juguetear-web/issues/120) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
+2. 🎉 Merged PR [#228](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/228) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 💪 Opened PR [#165](https://github.com/Juguetear/juguetear-web/pull/165) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
+4. 🗣 Commented on [#151](https://github.com/Juguetear/juguetear-web/issues/151) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
+5. 💪 Opened PR [#152](https://github.com/Juguetear/juguetear-web/pull/152) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
 <!--END_SECTION:activity-->
 </details>
