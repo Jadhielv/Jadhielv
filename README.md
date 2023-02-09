@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#232](https://github.com/Jadhielv/opus-web/pull/232) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-2. 🎉 Merged PR [#50](https://github.com/bernangabriel/react-native-news/pull/50) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-3. ❌ Closed PR [#4](https://github.com/Jadhielv/shiki/pull/4) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-4. 🎉 Merged PR [#231](https://github.com/Jadhielv/opus-web/pull/231) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-5. 🗣 Commented on [#120](https://github.com/Juguetear/juguetear-web/issues/120) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
+1. 🗣 Commented on [#153](https://github.com/VueDominicana/DominicanWhoCodes/issues/153) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+2. 🎉 Merged PR [#232](https://github.com/Jadhielv/opus-web/pull/232) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+3. 🎉 Merged PR [#50](https://github.com/bernangabriel/react-native-news/pull/50) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+4. ❌ Closed PR [#4](https://github.com/Jadhielv/shiki/pull/4) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+5. 🎉 Merged PR [#231](https://github.com/Jadhielv/opus-web/pull/231) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
 <!--END_SECTION:activity-->
 </details>
