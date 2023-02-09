@@ -63,8 +63,8 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#153](https://github.com/VueDominicana/DominicanWhoCodes/issues/153) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
 2. 🗣 Commented on [#153](https://github.com/VueDominicana/DominicanWhoCodes/issues/153) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-3. 🎉 Merged PR [#232](https://github.com/Jadhielv/opus-web/pull/232) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-4. 🎉 Merged PR [#50](https://github.com/bernangabriel/react-native-news/pull/50) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-5. ❌ Closed PR [#4](https://github.com/Jadhielv/shiki/pull/4) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+3. 🗣 Commented on [#153](https://github.com/VueDominicana/DominicanWhoCodes/issues/153) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+4. 🎉 Merged PR [#232](https://github.com/Jadhielv/opus-web/pull/232) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+5. 🎉 Merged PR [#50](https://github.com/bernangabriel/react-native-news/pull/50) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
 <!--END_SECTION:activity-->
 </details>
