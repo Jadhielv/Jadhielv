@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/Jadhielv/opus-api/issues/64) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-2. 🎉 Merged PR [#58](https://github.com/Jadhielv/opus-api/pull/58) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
-3. 🎉 Merged PR [#237](https://github.com/Jadhielv/opus-web/pull/237) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-4. 🗣 Commented on [#186](https://github.com/Juguetear/juguetear-web/issues/186) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
-5. 💪 Opened PR [#189](https://github.com/Juguetear/juguetear-web/pull/189) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
+1. 🎉 Merged PR [#67](https://github.com/Jadhielv/opus-api/pull/67) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+2. 🗣 Commented on [#67](https://github.com/Jadhielv/opus-api/issues/67) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+3. 🎉 Merged PR [#66](https://github.com/Jadhielv/opus-api/pull/66) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+4. 💪 Opened PR [#58](https://github.com/Streamelopers/opus-web/pull/58) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+5. 🗣 Commented on [#66](https://github.com/Jadhielv/opus-api/issues/66) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
 <!--END_SECTION:activity-->
 </details>
