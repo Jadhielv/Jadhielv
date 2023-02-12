@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#186](https://github.com/Juguetear/juguetear-web/issues/186) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
-2. 💪 Opened PR [#189](https://github.com/Juguetear/juguetear-web/pull/189) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
-3. ❗️ Opened issue [#267](https://github.com/Jadhielv/ITL/issues/267) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. ❗️ Opened issue [#266](https://github.com/Jadhielv/ITL/issues/266) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. ❗️ Opened issue [#265](https://github.com/Jadhielv/ITL/issues/265) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🗣 Commented on [#64](https://github.com/Jadhielv/opus-api/issues/64) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+2. 🎉 Merged PR [#58](https://github.com/Jadhielv/opus-api/pull/58) in [Jadhielv/opus-api](https://github.com/Jadhielv/opus-api)
+3. 🎉 Merged PR [#237](https://github.com/Jadhielv/opus-web/pull/237) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+4. 🗣 Commented on [#186](https://github.com/Juguetear/juguetear-web/issues/186) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
+5. 💪 Opened PR [#189](https://github.com/Juguetear/juguetear-web/pull/189) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
 <!--END_SECTION:activity-->
 </details>
