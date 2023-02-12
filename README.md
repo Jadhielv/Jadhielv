@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#267](https://github.com/Jadhielv/ITL/issues/267) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. ❗️ Opened issue [#266](https://github.com/Jadhielv/ITL/issues/266) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. ❗️ Opened issue [#265](https://github.com/Jadhielv/ITL/issues/265) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#236](https://github.com/Jadhielv/opus-web/pull/236) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
-5. 🗣 Commented on [#236](https://github.com/Jadhielv/opus-web/issues/236) in [Jadhielv/opus-web](https://github.com/Jadhielv/opus-web)
+1. 🗣 Commented on [#186](https://github.com/Juguetear/juguetear-web/issues/186) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
+2. 💪 Opened PR [#189](https://github.com/Juguetear/juguetear-web/pull/189) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
+3. ❗️ Opened issue [#267](https://github.com/Jadhielv/ITL/issues/267) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. ❗️ Opened issue [#266](https://github.com/Jadhielv/ITL/issues/266) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. ❗️ Opened issue [#265](https://github.com/Jadhielv/ITL/issues/265) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
