@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 Software Engineer at [Acid Labs](https://acid.cl/) — working on [Sky Airline](https://www.skyairline.com).
-- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[search-tasks](https://github.com/Jadhielv/search-tasks)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[blazor-web](https://github.com/Jadhielv/blazor-web)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/Jadhielv/search-tasks/pull/95) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. ❌ Closed PR [#7](https://github.com/Jadhielv/shiki/pull/7) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-3. ❌ Closed PR [#6](https://github.com/Jadhielv/shiki/pull/6) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-4. 🎉 Merged PR [#229](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/229) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. 🎉 Merged PR [#94](https://github.com/Jadhielv/search-tasks/pull/94) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+1. 🎉 Merged PR [#7](https://github.com/Jadhielv/blazor-web/pull/7) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
+2. 🗣 Commented on [#269](https://github.com/Jadhielv/ITL/issues/269) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#268](https://github.com/Jadhielv/ITL/pull/268) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🗣 Commented on [#231](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/231) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. 🎉 Merged PR [#230](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/230) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
