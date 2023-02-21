@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 Software Engineer at [Acid Labs](https://acid.cl/) — working on [Sky Airline](https://www.skyairline.com).
-- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#270](https://github.com/Jadhielv/ITL/issues/270) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#269](https://github.com/Jadhielv/ITL/pull/269) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#8](https://github.com/Jadhielv/blazor-web/pull/8) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
-4. 🎉 Merged PR [#7](https://github.com/Jadhielv/blazor-web/pull/7) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
-5. 🗣 Commented on [#269](https://github.com/Jadhielv/ITL/issues/269) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#231](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/231) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 🗣 Commented on [#270](https://github.com/Jadhielv/ITL/issues/270) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#269](https://github.com/Jadhielv/ITL/pull/269) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#8](https://github.com/Jadhielv/blazor-web/pull/8) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
+5. 🎉 Merged PR [#7](https://github.com/Jadhielv/blazor-web/pull/7) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
 <!--END_SECTION:activity-->
 </details>
