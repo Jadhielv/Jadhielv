@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/Jadhielv/shiki/pull/9) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-2. ❗️ Closed issue [#186](https://github.com/Juguetear/juguetear-web/issues/186) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
-3. 🎉 Merged PR [#7](https://github.com/Jadhielv/Jadhielv/pull/7) in [Jadhielv/Jadhielv](https://github.com/Jadhielv/Jadhielv)
-4. 🎉 Merged PR [#233](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/233) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. ❌ Closed PR [#8](https://github.com/Jadhielv/shiki/pull/8) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+1. ❌ Closed PR [#9](https://github.com/Jadhielv/shiki/pull/9) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+2. 💪 Opened PR [#9](https://github.com/Jadhielv/shiki/pull/9) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+3. ❗️ Closed issue [#186](https://github.com/Juguetear/juguetear-web/issues/186) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
+4. 🎉 Merged PR [#7](https://github.com/Jadhielv/Jadhielv/pull/7) in [Jadhielv/Jadhielv](https://github.com/Jadhielv/Jadhielv)
+5. 🎉 Merged PR [#233](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/233) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
