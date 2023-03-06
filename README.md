@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 Software Engineer at [Acid Labs](https://acid.cl/) — working on [Sky Airline](https://www.skyairline.com).
-- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/Jadhielv/shiki/pull/9) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-2. 💪 Opened PR [#9](https://github.com/Jadhielv/shiki/pull/9) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-3. ❗️ Closed issue [#186](https://github.com/Juguetear/juguetear-web/issues/186) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
-4. 🎉 Merged PR [#7](https://github.com/Jadhielv/Jadhielv/pull/7) in [Jadhielv/Jadhielv](https://github.com/Jadhielv/Jadhielv)
-5. 🎉 Merged PR [#233](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/233) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. 🎉 Merged PR [#281](https://github.com/Jadhielv/ITL/pull/281) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. ❌ Closed PR [#9](https://github.com/Jadhielv/shiki/pull/9) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+3. 💪 Opened PR [#9](https://github.com/Jadhielv/shiki/pull/9) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+4. ❗️ Closed issue [#186](https://github.com/Juguetear/juguetear-web/issues/186) in [Juguetear/juguetear-web](https://github.com/Juguetear/juguetear-web)
+5. 🎉 Merged PR [#7](https://github.com/Jadhielv/Jadhielv/pull/7) in [Jadhielv/Jadhielv](https://github.com/Jadhielv/Jadhielv)
 <!--END_SECTION:activity-->
 </details>
