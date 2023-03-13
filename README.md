@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/Jadhielv/shiki/pull/11) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-2. ❌ Closed PR [#10](https://github.com/Jadhielv/shiki/pull/10) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-3. 🎉 Merged PR [#281](https://github.com/Jadhielv/ITL/pull/281) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. ❌ Closed PR [#9](https://github.com/Jadhielv/shiki/pull/9) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-5. 💪 Opened PR [#9](https://github.com/Jadhielv/shiki/pull/9) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+1. 🗣 Commented on [#3](https://github.com/Jadhielv/ACGSS/issues/3) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+2. 🎉 Merged PR [#2](https://github.com/Jadhielv/ACGSS/pull/2) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+3. 🎉 Merged PR [#1](https://github.com/Jadhielv/ACGSS/pull/1) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+4. ❌ Closed PR [#11](https://github.com/Jadhielv/shiki/pull/11) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+5. ❌ Closed PR [#10](https://github.com/Jadhielv/shiki/pull/10) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
 <!--END_SECTION:activity-->
 </details>
