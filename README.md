@@ -5,7 +5,7 @@
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
 
 - 🔭 Software Engineer at [EvoPoint Solutions](https://evopoint.do/) — working on [Chase Bank](https://www.chase.com/).
-- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[search-tasks](https://github.com/Jadhielv/search-tasks)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/Jadhielv/search-tasks/issues/97) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🎉 Merged PR [#96](https://github.com/Jadhielv/search-tasks/pull/96) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. ❌ Closed PR [#12](https://github.com/Jadhielv/shiki/pull/12) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-4. 🎉 Merged PR [#4](https://github.com/Jadhielv/ACGSS/pull/4) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-5. 🎉 Merged PR [#3](https://github.com/Jadhielv/ACGSS/pull/3) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. 🎉 Merged PR [#97](https://github.com/Jadhielv/search-tasks/pull/97) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🗣 Commented on [#97](https://github.com/Jadhielv/search-tasks/issues/97) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🎉 Merged PR [#96](https://github.com/Jadhielv/search-tasks/pull/96) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. ❌ Closed PR [#12](https://github.com/Jadhielv/shiki/pull/12) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+5. 🎉 Merged PR [#4](https://github.com/Jadhielv/ACGSS/pull/4) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
