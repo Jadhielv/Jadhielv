@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/Streamelopers/opus-web/pull/59) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
-2. 🎉 Merged PR [#97](https://github.com/Jadhielv/search-tasks/pull/97) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. 🗣 Commented on [#97](https://github.com/Jadhielv/search-tasks/issues/97) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. 🎉 Merged PR [#96](https://github.com/Jadhielv/search-tasks/pull/96) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. ❌ Closed PR [#12](https://github.com/Jadhielv/shiki/pull/12) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+1. ❌ Closed PR [#154](https://github.com/VueDominicana/DominicanWhoCodes/pull/154) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+2. 🎉 Merged PR [#86](https://github.com/Streamelopers/opus-api/pull/86) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+3. 🎉 Merged PR [#59](https://github.com/Streamelopers/opus-web/pull/59) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+4. 🎉 Merged PR [#97](https://github.com/Jadhielv/search-tasks/pull/97) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. 🗣 Commented on [#97](https://github.com/Jadhielv/search-tasks/issues/97) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
