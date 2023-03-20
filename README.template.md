@@ -3,6 +3,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/jadhielv/)
 [![freecodecamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white&style=plastic)](https://www.freecodecamp.org/jadhielv)
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Jadhielv/Jadhielv/actions)
+[![Update README](https://github.com/Jadhielv/Jadhielv/actions/workflows/update-profile.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/update-profile.yml)
 
 - 🔭 I’m currently working at [EvoPoint Solutions](https://evopoint.do/) as a Senior Software Engineer helping [leading companies](https://evopoint.do/clientes.html) to succeed.
 - 👨🏻‍💻 I’m contributing **[{gh_repos_count} open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[{gh_repo_name}]({gh_repo_url})** in my spare time.
