@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#236](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/236) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. 🎉 Merged PR [#235](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/235) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. 🎉 Merged PR [#10](https://github.com/Jadhielv/blazor-web/pull/10) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
-4. 🗣 Commented on [#10](https://github.com/Jadhielv/blazor-web/issues/10) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
-5. 🎉 Merged PR [#9](https://github.com/Jadhielv/blazor-web/pull/9) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
+1. 🎉 Merged PR [#236](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/236) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 🗣 Commented on [#236](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/236) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 🎉 Merged PR [#235](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/235) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. 🎉 Merged PR [#10](https://github.com/Jadhielv/blazor-web/pull/10) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
+5. 🗣 Commented on [#10](https://github.com/Jadhielv/blazor-web/issues/10) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
 <!--END_SECTION:activity-->
 </details>
