@@ -48,7 +48,7 @@ jobs:
         with:
           COMMIT_MSG: 'chore: update'
 
-      - uses: stefanzweifel/git-auto-commit-action@v4.1.2
+      - uses: stefanzweifel/git-auto-commit-action@v4.16.0
         with:
           commit_message: 'chore: update'
           branch: master
