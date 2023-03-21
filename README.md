@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Jadhielv/ACGSS/issues/5) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-2. 🗣 Commented on [#9](https://github.com/Jadhielv/ACGSS/issues/9) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-3. 🗣 Commented on [#8](https://github.com/Jadhielv/ACGSS/issues/8) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-4. 🗣 Commented on [#6](https://github.com/Jadhielv/ACGSS/issues/6) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. 🎉 Merged PR [#8](https://github.com/Jadhielv/ACGSS/pull/8) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+2. 🎉 Merged PR [#5](https://github.com/Jadhielv/ACGSS/pull/5) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+3. 🗣 Commented on [#5](https://github.com/Jadhielv/ACGSS/issues/5) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+4. 🎉 Merged PR [#9](https://github.com/Jadhielv/ACGSS/pull/9) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 5. 🗣 Commented on [#5](https://github.com/Jadhielv/ACGSS/issues/5) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
