@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m currently working at [EvoPoint Solutions](https://evopoint.do/) as a Senior Software Engineer helping [leading companies](https://evopoint.do/clientes.html) to succeed.
-- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Vlzient](https://github.com/Jadhielv/Vlzient)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#293](https://github.com/Jadhielv/ITL/pull/293) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🗣 Commented on [#293](https://github.com/Jadhielv/ITL/issues/293) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#292](https://github.com/Jadhielv/ITL/pull/292) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#29](https://github.com/Jadhielv/react-native-todo-list/pull/29) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-5. 🎉 Merged PR [#45](https://github.com/Jadhielv/client-app-ng-base/pull/45) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+1. 🗣 Commented on [#294](https://github.com/Jadhielv/ITL/issues/294) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#293](https://github.com/Jadhielv/ITL/pull/293) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#293](https://github.com/Jadhielv/ITL/issues/293) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#292](https://github.com/Jadhielv/ITL/pull/292) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#29](https://github.com/Jadhielv/react-native-todo-list/pull/29) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
 <!--END_SECTION:activity-->
 </details>
