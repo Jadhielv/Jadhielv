@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/Jadhielv/react-native-todo-list/pull/29) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
-2. 🎉 Merged PR [#45](https://github.com/Jadhielv/client-app-ng-base/pull/45) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-3. 💪 Opened PR [#45](https://github.com/Jadhielv/client-app-ng-base/pull/45) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-4. 🎉 Merged PR [#99](https://github.com/Jadhielv/search-tasks/pull/99) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 🎉 Merged PR [#12](https://github.com/Jadhielv/github-activity-readme/pull/12) in [Jadhielv/github-activity-readme](https://github.com/Jadhielv/github-activity-readme)
+1. 🗣 Commented on [#293](https://github.com/Jadhielv/ITL/issues/293) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#292](https://github.com/Jadhielv/ITL/pull/292) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#29](https://github.com/Jadhielv/react-native-todo-list/pull/29) in [Jadhielv/react-native-todo-list](https://github.com/Jadhielv/react-native-todo-list)
+4. 🎉 Merged PR [#45](https://github.com/Jadhielv/client-app-ng-base/pull/45) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+5. 💪 Opened PR [#45](https://github.com/Jadhielv/client-app-ng-base/pull/45) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
 <!--END_SECTION:activity-->
 </details>
