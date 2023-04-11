@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m currently working at [EvoPoint Solutions](https://evopoint.do/) as a Senior Software Engineer helping [leading companies](https://evopoint.do/clientes.html) to succeed.
-- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[search-tasks](https://github.com/Jadhielv/search-tasks)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#296](https://github.com/Jadhielv/ITL/pull/296) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🗣 Commented on [#296](https://github.com/Jadhielv/ITL/issues/296) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#295](https://github.com/Jadhielv/ITL/pull/295) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#87](https://github.com/Streamelopers/opus-api/pull/87) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-5. 🎉 Merged PR [#12](https://github.com/Jadhielv/ACGSS/pull/12) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. ❌ Closed PR [#14](https://github.com/Jadhielv/shiki/pull/14) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+2. 🎉 Merged PR [#100](https://github.com/Jadhielv/search-tasks/pull/100) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🎉 Merged PR [#14](https://github.com/Jadhielv/ACGSS/pull/14) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+4. 🗣 Commented on [#14](https://github.com/Jadhielv/ACGSS/issues/14) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+5. 🎉 Merged PR [#13](https://github.com/Jadhielv/ACGSS/pull/13) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
