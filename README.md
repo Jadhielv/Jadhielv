@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#298](https://github.com/Jadhielv/ITL/pull/298) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#302](https://github.com/Jadhielv/ITL/pull/302) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#297](https://github.com/Jadhielv/ITL/pull/297) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#237](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/237) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. 🎉 Merged PR [#89](https://github.com/Streamelopers/opus-api/pull/89) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+1. 🎉 Merged PR [#11](https://github.com/Jadhielv/blazor-web/pull/11) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
+2. 🎉 Merged PR [#299](https://github.com/Jadhielv/ITL/pull/299) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#238](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/238) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. 🎉 Merged PR [#298](https://github.com/Jadhielv/ITL/pull/298) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#302](https://github.com/Jadhielv/ITL/pull/302) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
