@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#304](https://github.com/Jadhielv/ITL/pull/304) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. ❌ Closed PR [#17](https://github.com/Jadhielv/shiki/pull/17) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-3. 🎉 Merged PR [#13](https://github.com/Jadhielv/github-activity-readme/pull/13) in [Jadhielv/github-activity-readme](https://github.com/Jadhielv/github-activity-readme)
-4. ❌ Closed PR [#8](https://github.com/Jadhielv/parcel/pull/8) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-5. ❌ Closed PR [#7](https://github.com/Jadhielv/parcel/pull/7) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+1. ❌ Closed PR [#18](https://github.com/Jadhielv/shiki/pull/18) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+2. 🎉 Merged PR [#304](https://github.com/Jadhielv/ITL/pull/304) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. ❌ Closed PR [#17](https://github.com/Jadhielv/shiki/pull/17) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+4. 🎉 Merged PR [#13](https://github.com/Jadhielv/github-activity-readme/pull/13) in [Jadhielv/github-activity-readme](https://github.com/Jadhielv/github-activity-readme)
+5. ❌ Closed PR [#8](https://github.com/Jadhielv/parcel/pull/8) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
 <!--END_SECTION:activity-->
 </details>
