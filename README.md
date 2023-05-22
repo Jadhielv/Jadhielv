@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#240](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/240) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. ❌ Closed PR [#20](https://github.com/Jadhielv/shiki/pull/20) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-3. 🎉 Merged PR [#91](https://github.com/Streamelopers/opus-api/pull/91) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-4. 🎉 Merged PR [#308](https://github.com/Jadhielv/ITL/pull/308) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. ❌ Closed PR [#19](https://github.com/Jadhielv/shiki/pull/19) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+1. 🎉 Merged PR [#242](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/242) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 🎉 Merged PR [#240](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/240) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. ❌ Closed PR [#20](https://github.com/Jadhielv/shiki/pull/20) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+4. 🎉 Merged PR [#91](https://github.com/Streamelopers/opus-api/pull/91) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+5. 🎉 Merged PR [#308](https://github.com/Jadhielv/ITL/pull/308) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
