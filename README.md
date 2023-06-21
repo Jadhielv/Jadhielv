@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m currently working at [EvoPoint Solutions](https://evopoint.do/) as a Senior Software Engineer helping [leading companies](https://evopoint.do/clientes.html) to succeed.
-- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ACGSS](https://github.com/Jadhielv/ACGSS)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#246](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/246) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. ❌ Closed PR [#21](https://github.com/Jadhielv/parcel/pull/21) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-3. ❌ Closed PR [#20](https://github.com/Jadhielv/parcel/pull/20) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-4. ❌ Closed PR [#19](https://github.com/Jadhielv/parcel/pull/19) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-5. ❌ Closed PR [#18](https://github.com/Jadhielv/parcel/pull/18) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+1. 🎉 Merged PR [#30](https://github.com/Jadhielv/ACGSS/pull/30) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+2. 🎉 Merged PR [#28](https://github.com/Jadhielv/ACGSS/pull/28) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+3. 🎉 Merged PR [#246](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/246) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. ❌ Closed PR [#21](https://github.com/Jadhielv/parcel/pull/21) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+5. ❌ Closed PR [#20](https://github.com/Jadhielv/parcel/pull/20) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
 <!--END_SECTION:activity-->
 </details>
