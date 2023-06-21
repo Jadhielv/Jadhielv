@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#21](https://github.com/Jadhielv/parcel/pull/21) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-2. ❌ Closed PR [#20](https://github.com/Jadhielv/parcel/pull/20) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-3. ❌ Closed PR [#19](https://github.com/Jadhielv/parcel/pull/19) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-4. ❌ Closed PR [#18](https://github.com/Jadhielv/parcel/pull/18) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-5. ❌ Closed PR [#17](https://github.com/Jadhielv/parcel/pull/17) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+1. 🎉 Merged PR [#246](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/246) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. ❌ Closed PR [#21](https://github.com/Jadhielv/parcel/pull/21) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+3. ❌ Closed PR [#20](https://github.com/Jadhielv/parcel/pull/20) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+4. ❌ Closed PR [#19](https://github.com/Jadhielv/parcel/pull/19) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+5. ❌ Closed PR [#18](https://github.com/Jadhielv/parcel/pull/18) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
 <!--END_SECTION:activity-->
 </details>
