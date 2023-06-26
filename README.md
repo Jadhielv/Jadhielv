@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#330](https://github.com/Jadhielv/ITL/pull/330) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#331](https://github.com/Jadhielv/ITL/pull/331) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#329](https://github.com/Jadhielv/ITL/pull/329) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#326](https://github.com/Jadhielv/ITL/pull/326) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#16](https://github.com/Jadhielv/blazor-web/pull/16) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
+1. 🗣 Commented on [#333](https://github.com/Jadhielv/ITL/issues/333) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🗣 Commented on [#328](https://github.com/Jadhielv/ITL/issues/328) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#327](https://github.com/Jadhielv/ITL/issues/327) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#332](https://github.com/Jadhielv/ITL/pull/332) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#330](https://github.com/Jadhielv/ITL/pull/330) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
