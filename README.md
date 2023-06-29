@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/Jadhielv/ACGSS/pull/33) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-2. 🗣 Commented on [#33](https://github.com/Jadhielv/ACGSS/issues/33) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-3. 🎉 Merged PR [#34](https://github.com/Jadhielv/ACGSS/pull/34) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-4. 🗣 Commented on [#34](https://github.com/Jadhielv/ACGSS/issues/34) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. ❌ Closed PR [#147](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/147) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+2. ❌ Closed PR [#146](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/146) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+3. ❌ Closed PR [#145](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/145) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+4. 🎉 Merged PR [#33](https://github.com/Jadhielv/ACGSS/pull/33) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 5. 🗣 Commented on [#33](https://github.com/Jadhielv/ACGSS/issues/33) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
