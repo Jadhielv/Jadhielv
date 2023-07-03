@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m currently working at [EvoPoint Solutions](https://evopoint.do/) as a Senior Software Engineer helping [leading companies](https://evopoint.do/clientes.html) to succeed.
-- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/Jadhielv/shiki/pull/22) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-2. ❌ Closed PR [#147](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/147) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-3. ❌ Closed PR [#146](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/146) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-4. ❌ Closed PR [#145](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/145) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-5. 🎉 Merged PR [#33](https://github.com/Jadhielv/ACGSS/pull/33) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. 🎉 Merged PR [#334](https://github.com/Jadhielv/ITL/pull/334) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🗣 Commented on [#250](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/250) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 🎉 Merged PR [#249](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/249) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. 💪 Opened PR [#22](https://github.com/Jadhielv/shiki/pull/22) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+5. ❌ Closed PR [#147](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/147) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
 <!--END_SECTION:activity-->
 </details>
