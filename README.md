@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/Jadhielv/shiki/pull/23) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-2. 💪 Opened PR [#25](https://github.com/Jadhielv/parcel/pull/25) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-3. 💪 Opened PR [#24](https://github.com/Jadhielv/parcel/pull/24) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-4. ❌ Closed PR [#23](https://github.com/Jadhielv/parcel/pull/23) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-5. 💪 Opened PR [#23](https://github.com/Jadhielv/parcel/pull/23) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+1. ❌ Closed PR [#25](https://github.com/Jadhielv/parcel/pull/25) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+2. ❌ Closed PR [#24](https://github.com/Jadhielv/parcel/pull/24) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+3. ❌ Closed PR [#23](https://github.com/Jadhielv/shiki/pull/23) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+4. 💪 Opened PR [#23](https://github.com/Jadhielv/shiki/pull/23) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+5. 💪 Opened PR [#25](https://github.com/Jadhielv/parcel/pull/25) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
 <!--END_SECTION:activity-->
 </details>
