@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/Jadhielv/parcel/pull/23) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-2. 🎉 Merged PR [#37](https://github.com/Jadhielv/ACGSS/pull/37) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-3. ❌ Closed PR [#148](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/148) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-4. 🎉 Merged PR [#250](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/250) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. ❌ Closed PR [#22](https://github.com/Jadhielv/shiki/pull/22) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+1. ❌ Closed PR [#23](https://github.com/Jadhielv/parcel/pull/23) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+2. 💪 Opened PR [#23](https://github.com/Jadhielv/parcel/pull/23) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+3. 🎉 Merged PR [#37](https://github.com/Jadhielv/ACGSS/pull/37) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+4. ❌ Closed PR [#148](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/148) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+5. 🎉 Merged PR [#250](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/250) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
