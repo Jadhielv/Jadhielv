@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#27](https://github.com/Jadhielv/parcel/pull/27) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-2. ❌ Closed PR [#28](https://github.com/Jadhielv/parcel/pull/28) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-3. 💪 Opened PR [#28](https://github.com/Jadhielv/parcel/pull/28) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-4. 💪 Opened PR [#27](https://github.com/Jadhielv/parcel/pull/27) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-5. ❌ Closed PR [#26](https://github.com/Jadhielv/parcel/pull/26) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+1. ❌ Closed PR [#150](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/150) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+2. ❌ Closed PR [#27](https://github.com/Jadhielv/parcel/pull/27) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+3. ❌ Closed PR [#28](https://github.com/Jadhielv/parcel/pull/28) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+4. 💪 Opened PR [#28](https://github.com/Jadhielv/parcel/pull/28) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+5. 💪 Opened PR [#27](https://github.com/Jadhielv/parcel/pull/27) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
 <!--END_SECTION:activity-->
 </details>
