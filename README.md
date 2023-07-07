@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m currently working at [EvoPoint Solutions](https://evopoint.do/) as a Senior Software Engineer helping [leading companies](https://evopoint.do/clientes.html) to succeed.
-- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#24](https://github.com/Jadhielv/shiki/pull/24) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-2. 💪 Opened PR [#24](https://github.com/Jadhielv/shiki/pull/24) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-3. ❌ Closed PR [#150](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/150) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-4. ❌ Closed PR [#27](https://github.com/Jadhielv/parcel/pull/27) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-5. ❌ Closed PR [#28](https://github.com/Jadhielv/parcel/pull/28) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+1. 🎉 Merged PR [#337](https://github.com/Jadhielv/ITL/pull/337) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. ❌ Closed PR [#24](https://github.com/Jadhielv/shiki/pull/24) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+3. 💪 Opened PR [#24](https://github.com/Jadhielv/shiki/pull/24) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+4. ❌ Closed PR [#150](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/150) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+5. ❌ Closed PR [#27](https://github.com/Jadhielv/parcel/pull/27) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
 <!--END_SECTION:activity-->
 </details>
