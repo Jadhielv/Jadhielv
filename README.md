@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#25](https://github.com/Jadhielv/shiki/pull/25) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-2. 🎉 Merged PR [#252](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/252) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. 🎉 Merged PR [#51](https://github.com/bernangabriel/react-native-news/pull/51) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-4. 🗣 Commented on [#252](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/252) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. 🎉 Merged PR [#251](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/251) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. 🎉 Merged PR [#112](https://github.com/Jadhielv/search-tasks/pull/112) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. ❌ Closed PR [#25](https://github.com/Jadhielv/shiki/pull/25) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+3. 🎉 Merged PR [#252](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/252) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. 🎉 Merged PR [#51](https://github.com/bernangabriel/react-native-news/pull/51) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+5. 🗣 Commented on [#252](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/252) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
