@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/Jadhielv/ACGSS/pull/38) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-2. 🎉 Merged PR [#112](https://github.com/Jadhielv/search-tasks/pull/112) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. ❌ Closed PR [#25](https://github.com/Jadhielv/shiki/pull/25) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-4. 🎉 Merged PR [#252](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/252) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. 🎉 Merged PR [#51](https://github.com/bernangabriel/react-native-news/pull/51) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+1. 🎉 Merged PR [#52](https://github.com/bernangabriel/react-native-news/pull/52) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+2. 🎉 Merged PR [#38](https://github.com/Jadhielv/ACGSS/pull/38) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+3. 🎉 Merged PR [#112](https://github.com/Jadhielv/search-tasks/pull/112) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. ❌ Closed PR [#25](https://github.com/Jadhielv/shiki/pull/25) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+5. 🎉 Merged PR [#252](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/252) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
