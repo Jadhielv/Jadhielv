@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/Streamelopers/opus-web/pull/60) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
-2. 🎉 Merged PR [#92](https://github.com/Streamelopers/opus-api/pull/92) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-3. 🎉 Merged PR [#52](https://github.com/bernangabriel/react-native-news/pull/52) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
-4. 🎉 Merged PR [#38](https://github.com/Jadhielv/ACGSS/pull/38) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-5. 🎉 Merged PR [#112](https://github.com/Jadhielv/search-tasks/pull/112) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+1. 🎉 Merged PR [#93](https://github.com/Streamelopers/opus-api/pull/93) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+2. 🎉 Merged PR [#60](https://github.com/Streamelopers/opus-web/pull/60) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+3. 🎉 Merged PR [#92](https://github.com/Streamelopers/opus-api/pull/92) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+4. 🎉 Merged PR [#52](https://github.com/bernangabriel/react-native-news/pull/52) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+5. 🎉 Merged PR [#38](https://github.com/Jadhielv/ACGSS/pull/38) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
