@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#26](https://github.com/Jadhielv/shiki/pull/26) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-2. 💪 Opened PR [#26](https://github.com/Jadhielv/shiki/pull/26) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-3. 🎉 Merged PR [#93](https://github.com/Streamelopers/opus-api/pull/93) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-4. 🎉 Merged PR [#60](https://github.com/Streamelopers/opus-web/pull/60) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
-5. 🎉 Merged PR [#92](https://github.com/Streamelopers/opus-api/pull/92) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+1. 🎉 Merged PR [#113](https://github.com/Jadhielv/search-tasks/pull/113) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. ❌ Closed PR [#26](https://github.com/Jadhielv/shiki/pull/26) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+3. 💪 Opened PR [#26](https://github.com/Jadhielv/shiki/pull/26) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+4. 🎉 Merged PR [#93](https://github.com/Streamelopers/opus-api/pull/93) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+5. 🎉 Merged PR [#60](https://github.com/Streamelopers/opus-web/pull/60) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
 <!--END_SECTION:activity-->
 </details>
