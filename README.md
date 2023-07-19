@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#156](https://github.com/VueDominicana/DominicanWhoCodes/issues/156) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-2. 🎉 Merged PR [#115](https://github.com/Jadhielv/search-tasks/pull/115) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. ❌ Closed PR [#29](https://github.com/Jadhielv/shiki/pull/29) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-4. 💪 Opened PR [#29](https://github.com/Jadhielv/shiki/pull/29) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-5. 🎉 Merged PR [#40](https://github.com/Jadhielv/ACGSS/pull/40) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. 🎉 Merged PR [#53](https://github.com/bernangabriel/react-native-news/pull/53) in [bernangabriel/react-native-news](https://github.com/bernangabriel/react-native-news)
+2. ❗️ Opened issue [#156](https://github.com/VueDominicana/DominicanWhoCodes/issues/156) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+3. 🎉 Merged PR [#115](https://github.com/Jadhielv/search-tasks/pull/115) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. ❌ Closed PR [#29](https://github.com/Jadhielv/shiki/pull/29) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+5. 💪 Opened PR [#29](https://github.com/Jadhielv/shiki/pull/29) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
 <!--END_SECTION:activity-->
 </details>
