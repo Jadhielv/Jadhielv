@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m currently working at [EvoPoint Solutions](https://evopoint.do/) as a Senior Software Engineer helping [leading companies](https://evopoint.do/clientes.html) to succeed.
-- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[search-tasks](https://github.com/Jadhielv/search-tasks)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#29](https://github.com/Jadhielv/shiki/pull/29) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-2. 💪 Opened PR [#29](https://github.com/Jadhielv/shiki/pull/29) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-3. 🎉 Merged PR [#40](https://github.com/Jadhielv/ACGSS/pull/40) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-4. 🗣 Commented on [#40](https://github.com/Jadhielv/ACGSS/issues/40) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-5. 🎉 Merged PR [#42](https://github.com/Jadhielv/ACGSS/pull/42) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. ❗️ Opened issue [#156](https://github.com/VueDominicana/DominicanWhoCodes/issues/156) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+2. 🎉 Merged PR [#115](https://github.com/Jadhielv/search-tasks/pull/115) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. ❌ Closed PR [#29](https://github.com/Jadhielv/shiki/pull/29) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+4. 💪 Opened PR [#29](https://github.com/Jadhielv/shiki/pull/29) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+5. 🎉 Merged PR [#40](https://github.com/Jadhielv/ACGSS/pull/40) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
