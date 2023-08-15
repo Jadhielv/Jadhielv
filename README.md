@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m currently working at [EvoPoint Solutions](https://evopoint.do/) as a Senior Software Engineer helping [leading companies](https://evopoint.do/clientes.html) to succeed.
-- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[blazor-web](https://github.com/Jadhielv/blazor-web)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ACGSS](https://github.com/Jadhielv/ACGSS)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/Jadhielv/blazor-web/issues/20) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
-2. 🎉 Merged PR [#19](https://github.com/Jadhielv/blazor-web/pull/19) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
-3. 🎉 Merged PR [#357](https://github.com/Jadhielv/ITL/pull/357) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🗣 Commented on [#50](https://github.com/Jadhielv/ACGSS/issues/50) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-5. 🗣 Commented on [#46](https://github.com/Jadhielv/ACGSS/issues/46) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. 🎉 Merged PR [#52](https://github.com/Jadhielv/ACGSS/pull/52) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+2. 🎉 Merged PR [#51](https://github.com/Jadhielv/ACGSS/pull/51) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+3. 🎉 Merged PR [#20](https://github.com/Jadhielv/blazor-web/pull/20) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
+4. 🗣 Commented on [#20](https://github.com/Jadhielv/blazor-web/issues/20) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
+5. 🎉 Merged PR [#19](https://github.com/Jadhielv/blazor-web/pull/19) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
 <!--END_SECTION:activity-->
 </details>
