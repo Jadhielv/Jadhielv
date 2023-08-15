@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#35](https://github.com/Jadhielv/shiki/pull/35) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-2. 💪 Opened PR [#35](https://github.com/Jadhielv/shiki/pull/35) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-3. ❌ Closed PR [#34](https://github.com/Jadhielv/shiki/pull/34) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-4. 💪 Opened PR [#34](https://github.com/Jadhielv/shiki/pull/34) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-5. ❌ Closed PR [#168](https://github.com/Jadhielv/juguetear-web/pull/168) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+1. 🎉 Merged PR [#356](https://github.com/Jadhielv/ITL/pull/356) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#354](https://github.com/Jadhielv/ITL/pull/354) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. ❌ Closed PR [#35](https://github.com/Jadhielv/shiki/pull/35) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+4. 💪 Opened PR [#35](https://github.com/Jadhielv/shiki/pull/35) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+5. ❌ Closed PR [#34](https://github.com/Jadhielv/shiki/pull/34) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
 <!--END_SECTION:activity-->
 </details>
