@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/Jadhielv/ACGSS/pull/50) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-2. 🗣 Commented on [#50](https://github.com/Jadhielv/ACGSS/issues/50) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-3. 🎉 Merged PR [#46](https://github.com/Jadhielv/ACGSS/pull/46) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. ❗️ Opened issue [#619](https://github.com/nminaya/grammar-nazi-bot/issues/619) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+2. 🎉 Merged PR [#9](https://github.com/Jadhielv/Jadhielv/pull/9) in [Jadhielv/Jadhielv](https://github.com/Jadhielv/Jadhielv)
+3. 🎉 Merged PR [#50](https://github.com/Jadhielv/ACGSS/pull/50) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 4. 🗣 Commented on [#50](https://github.com/Jadhielv/ACGSS/issues/50) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-5. 🗣 Commented on [#50](https://github.com/Jadhielv/ACGSS/issues/50) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+5. 🎉 Merged PR [#46](https://github.com/Jadhielv/ACGSS/pull/46) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
