@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#363](https://github.com/Jadhielv/ITL/pull/363) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#259](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/259) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. ❌ Closed PR [#36](https://github.com/Jadhielv/shiki/pull/36) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-4. 💪 Opened PR [#36](https://github.com/Jadhielv/shiki/pull/36) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-5. ❗️ Opened issue [#619](https://github.com/nminaya/grammar-nazi-bot/issues/619) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+1. 🎉 Merged PR [#364](https://github.com/Jadhielv/ITL/pull/364) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#363](https://github.com/Jadhielv/ITL/pull/363) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#259](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/259) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. ❌ Closed PR [#36](https://github.com/Jadhielv/shiki/pull/36) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+5. 💪 Opened PR [#36](https://github.com/Jadhielv/shiki/pull/36) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
 <!--END_SECTION:activity-->
 </details>
