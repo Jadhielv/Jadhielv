@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#124](https://github.com/Jadhielv/search-tasks/pull/124) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🎉 Merged PR [#56](https://github.com/Jadhielv/ACGSS/pull/56) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-3. 🎉 Merged PR [#59](https://github.com/Jadhielv/ACGSS/pull/59) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-4. 🎉 Merged PR [#60](https://github.com/Jadhielv/ACGSS/pull/60) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-5. 🎉 Merged PR [#379](https://github.com/Jadhielv/ITL/pull/379) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#10](https://github.com/Jadhielv/Jadhielv/pull/10) in [Jadhielv/Jadhielv](https://github.com/Jadhielv/Jadhielv)
+2. 🎉 Merged PR [#124](https://github.com/Jadhielv/search-tasks/pull/124) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🎉 Merged PR [#56](https://github.com/Jadhielv/ACGSS/pull/56) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+4. 🎉 Merged PR [#59](https://github.com/Jadhielv/ACGSS/pull/59) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+5. 🎉 Merged PR [#60](https://github.com/Jadhielv/ACGSS/pull/60) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
