@@ -6,7 +6,7 @@
 [![Update README](https://github.com/Jadhielv/Jadhielv/actions/workflows/update-profile.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/update-profile.yml)
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
-- 🔭 I’m currently working at [EvoPoint Solutions](https://evopoint.do/) as a Senior Software Engineer helping [leading companies](https://evopoint.do/clientes.html) to succeed.
+- 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
 - 👨🏻‍💻 I’m contributing **[{gh_repos_count} open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[{gh_repo_name}]({gh_repo_url})** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
