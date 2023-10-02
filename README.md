@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/Jadhielv/parcel/pull/30) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-2. ❌ Closed PR [#29](https://github.com/Jadhielv/parcel/pull/29) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-3. 💪 Opened PR [#29](https://github.com/Jadhielv/parcel/pull/29) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
-4. 🎉 Merged PR [#381](https://github.com/Jadhielv/ITL/pull/381) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#380](https://github.com/Jadhielv/ITL/pull/380) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#634](https://github.com/nminaya/grammar-nazi-bot/pull/634) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+2. ❌ Closed PR [#30](https://github.com/Jadhielv/parcel/pull/30) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+3. 💪 Opened PR [#30](https://github.com/Jadhielv/parcel/pull/30) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+4. ❌ Closed PR [#29](https://github.com/Jadhielv/parcel/pull/29) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+5. 💪 Opened PR [#29](https://github.com/Jadhielv/parcel/pull/29) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
 <!--END_SECTION:activity-->
 </details>
