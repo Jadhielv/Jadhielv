@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/Jadhielv/shiki/pull/42) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-2. 🎉 Merged PR [#128](https://github.com/Jadhielv/search-tasks/pull/128) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. 🗣 Commented on [#634](https://github.com/nminaya/grammar-nazi-bot/issues/634) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-4. 🎉 Merged PR [#634](https://github.com/nminaya/grammar-nazi-bot/pull/634) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-5. ❌ Closed PR [#30](https://github.com/Jadhielv/parcel/pull/30) in [Jadhielv/parcel](https://github.com/Jadhielv/parcel)
+1. ❌ Closed PR [#42](https://github.com/Jadhielv/shiki/pull/42) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+2. 💪 Opened PR [#42](https://github.com/Jadhielv/shiki/pull/42) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+3. 🎉 Merged PR [#128](https://github.com/Jadhielv/search-tasks/pull/128) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. 🗣 Commented on [#634](https://github.com/nminaya/grammar-nazi-bot/issues/634) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+5. 🎉 Merged PR [#634](https://github.com/nminaya/grammar-nazi-bot/pull/634) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
 <!--END_SECTION:activity-->
 </details>
