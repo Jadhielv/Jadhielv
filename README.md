@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
-- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#42](https://github.com/Jadhielv/shiki/pull/42) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-2. 💪 Opened PR [#42](https://github.com/Jadhielv/shiki/pull/42) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-3. 🎉 Merged PR [#128](https://github.com/Jadhielv/search-tasks/pull/128) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. 🗣 Commented on [#634](https://github.com/nminaya/grammar-nazi-bot/issues/634) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-5. 🎉 Merged PR [#634](https://github.com/nminaya/grammar-nazi-bot/pull/634) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+1. 💪 Opened PR [#46](https://github.com/Jadhielv/client-app-ng-base/pull/46) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+2. ❌ Closed PR [#42](https://github.com/Jadhielv/shiki/pull/42) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+3. 💪 Opened PR [#42](https://github.com/Jadhielv/shiki/pull/42) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+4. 🎉 Merged PR [#128](https://github.com/Jadhielv/search-tasks/pull/128) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. 🗣 Commented on [#634](https://github.com/nminaya/grammar-nazi-bot/issues/634) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
 <!--END_SECTION:activity-->
 </details>
