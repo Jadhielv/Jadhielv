@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#383](https://github.com/Jadhielv/ITL/pull/383) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#382](https://github.com/Jadhielv/ITL/pull/382) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#46](https://github.com/Jadhielv/client-app-ng-base/pull/46) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-4. 🎉 Merged PR [#129](https://github.com/Jadhielv/search-tasks/pull/129) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 💪 Opened PR [#46](https://github.com/Jadhielv/client-app-ng-base/pull/46) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+1. 🎉 Merged PR [#384](https://github.com/Jadhielv/ITL/pull/384) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#383](https://github.com/Jadhielv/ITL/pull/383) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#382](https://github.com/Jadhielv/ITL/pull/382) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#46](https://github.com/Jadhielv/client-app-ng-base/pull/46) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+5. 🎉 Merged PR [#129](https://github.com/Jadhielv/search-tasks/pull/129) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
