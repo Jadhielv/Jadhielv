@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#269](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/269) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. 🎉 Merged PR [#268](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/268) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. 🎉 Merged PR [#267](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/267) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. 🎉 Merged PR [#266](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/266) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. 🎉 Merged PR [#384](https://github.com/Jadhielv/ITL/pull/384) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#270](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/270) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 🎉 Merged PR [#269](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/269) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 🎉 Merged PR [#268](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/268) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. 🎉 Merged PR [#267](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/267) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. 🎉 Merged PR [#266](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/266) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
