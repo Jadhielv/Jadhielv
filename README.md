@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/Jadhielv/ACGSS/pull/69) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-2. 🎉 Merged PR [#393](https://github.com/Jadhielv/ITL/pull/393) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#392](https://github.com/Jadhielv/ITL/pull/392) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#55](https://github.com/Ninja-Dev-Team/react-native-news/pull/55) in [Ninja-Dev-Team/react-native-news](https://github.com/Ninja-Dev-Team/react-native-news)
-5. 🎉 Merged PR [#271](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/271) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. 🎉 Merged PR [#133](https://github.com/Jadhielv/search-tasks/pull/133) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🎉 Merged PR [#69](https://github.com/Jadhielv/ACGSS/pull/69) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+3. 🎉 Merged PR [#393](https://github.com/Jadhielv/ITL/pull/393) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#392](https://github.com/Jadhielv/ITL/pull/392) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#55](https://github.com/Ninja-Dev-Team/react-native-news/pull/55) in [Ninja-Dev-Team/react-native-news](https://github.com/Ninja-Dev-Team/react-native-news)
 <!--END_SECTION:activity-->
 </details>
