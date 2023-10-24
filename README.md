@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
-- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[search-tasks](https://github.com/Jadhielv/search-tasks)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#392](https://github.com/Jadhielv/ITL/pull/392) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#55](https://github.com/Ninja-Dev-Team/react-native-news/pull/55) in [Ninja-Dev-Team/react-native-news](https://github.com/Ninja-Dev-Team/react-native-news)
-3. 🎉 Merged PR [#271](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/271) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. 🎉 Merged PR [#62](https://github.com/Streamelopers/opus-web/pull/62) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
-5. 🎉 Merged PR [#95](https://github.com/Streamelopers/opus-api/pull/95) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+1. 🎉 Merged PR [#69](https://github.com/Jadhielv/ACGSS/pull/69) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+2. 🎉 Merged PR [#393](https://github.com/Jadhielv/ITL/pull/393) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#392](https://github.com/Jadhielv/ITL/pull/392) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#55](https://github.com/Ninja-Dev-Team/react-native-news/pull/55) in [Ninja-Dev-Team/react-native-news](https://github.com/Ninja-Dev-Team/react-native-news)
+5. 🎉 Merged PR [#271](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/271) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
