@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
-- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -63,10 +63,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/Jadhielv/blazor-web/pull/26) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
-2. 🎉 Merged PR [#25](https://github.com/Jadhielv/blazor-web/pull/25) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
-3. 🎉 Merged PR [#273](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/273) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. 🎉 Merged PR [#272](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/272) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. 🎉 Merged PR [#394](https://github.com/Jadhielv/ITL/pull/394) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#399](https://github.com/Jadhielv/ITL/pull/399) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#395](https://github.com/Jadhielv/ITL/pull/395) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#26](https://github.com/Jadhielv/blazor-web/pull/26) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
+4. 🎉 Merged PR [#25](https://github.com/Jadhielv/blazor-web/pull/25) in [Jadhielv/blazor-web](https://github.com/Jadhielv/blazor-web)
+5. 🎉 Merged PR [#273](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/273) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
