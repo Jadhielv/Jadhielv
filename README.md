@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#224](https://github.com/Jadhielv/juguetear-web/pull/224) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-2. ❌ Closed PR [#223](https://github.com/Jadhielv/juguetear-web/pull/223) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-3. ❌ Closed PR [#222](https://github.com/Jadhielv/juguetear-web/pull/222) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-4. ❌ Closed PR [#221](https://github.com/Jadhielv/juguetear-web/pull/221) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-5. ❌ Closed PR [#220](https://github.com/Jadhielv/juguetear-web/pull/220) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+1. ❌ Closed PR [#231](https://github.com/Jadhielv/juguetear-web/pull/231) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+2. ❌ Closed PR [#225](https://github.com/Jadhielv/juguetear-web/pull/225) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+3. ❌ Closed PR [#230](https://github.com/Jadhielv/juguetear-web/pull/230) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+4. ❌ Closed PR [#229](https://github.com/Jadhielv/juguetear-web/pull/229) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+5. ❌ Closed PR [#227](https://github.com/Jadhielv/juguetear-web/pull/227) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
 <!--END_SECTION:activity-->
 </details>
