@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
-- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[search-tasks](https://github.com/Jadhielv/search-tasks)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#147](https://github.com/Jadhielv/search-tasks/pull/147) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🎉 Merged PR [#146](https://github.com/Jadhielv/search-tasks/pull/146) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. 💪 Opened PR [#48](https://github.com/Jadhielv/shiki/pull/48) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-4. 🎉 Merged PR [#431](https://github.com/Jadhielv/ITL/pull/431) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#145](https://github.com/Jadhielv/search-tasks/pull/145) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+1. ❌ Closed PR [#238](https://github.com/Jadhielv/juguetear-web/pull/238) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+2. ❌ Closed PR [#237](https://github.com/Jadhielv/juguetear-web/pull/237) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+3. ❌ Closed PR [#236](https://github.com/Jadhielv/juguetear-web/pull/236) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+4. 🎉 Merged PR [#147](https://github.com/Jadhielv/search-tasks/pull/147) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. 🎉 Merged PR [#146](https://github.com/Jadhielv/search-tasks/pull/146) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
