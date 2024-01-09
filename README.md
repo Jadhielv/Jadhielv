@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#150](https://github.com/Jadhielv/search-tasks/issues/150) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🎉 Merged PR [#149](https://github.com/Jadhielv/search-tasks/pull/149) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. 🎉 Merged PR [#148](https://github.com/Jadhielv/search-tasks/pull/148) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. 🗣 Commented on [#159](https://github.com/VueDominicana/DominicanWhoCodes/issues/159) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-5. 🗣 Commented on [#158](https://github.com/VueDominicana/DominicanWhoCodes/issues/158) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+1. 🎉 Merged PR [#150](https://github.com/Jadhielv/search-tasks/pull/150) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. ❗️ Closed issue [#156](https://github.com/VueDominicana/DominicanWhoCodes/issues/156) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+3. 🗣 Commented on [#150](https://github.com/Jadhielv/search-tasks/issues/150) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. 🎉 Merged PR [#149](https://github.com/Jadhielv/search-tasks/pull/149) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. 🎉 Merged PR [#148](https://github.com/Jadhielv/search-tasks/pull/148) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
