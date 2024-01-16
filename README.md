@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/Jadhielv/ACGSS/pull/97) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-2. 🎉 Merged PR [#96](https://github.com/Jadhielv/ACGSS/pull/96) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-3. 🎉 Merged PR [#95](https://github.com/Jadhielv/ACGSS/pull/95) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-4. 🎉 Merged PR [#94](https://github.com/Jadhielv/ACGSS/pull/94) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-5. 🎉 Merged PR [#443](https://github.com/Jadhielv/ITL/pull/443) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#96](https://github.com/Streamelopers/opus-api/pull/96) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+2. 🎉 Merged PR [#97](https://github.com/Jadhielv/ACGSS/pull/97) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+3. 🎉 Merged PR [#96](https://github.com/Jadhielv/ACGSS/pull/96) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+4. 🎉 Merged PR [#95](https://github.com/Jadhielv/ACGSS/pull/95) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+5. 🎉 Merged PR [#94](https://github.com/Jadhielv/ACGSS/pull/94) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
