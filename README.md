@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
-- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[30 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#678](https://github.com/nminaya/grammar-nazi-bot/pull/678) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-2. 🎉 Merged PR [#100](https://github.com/Jadhielv/ACGSS/pull/100) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-3. 🎉 Merged PR [#420](https://github.com/Jadhielv/ITL/pull/420) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#101](https://github.com/Jadhielv/ACGSS/pull/101) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-5. 🎉 Merged PR [#152](https://github.com/Jadhielv/search-tasks/pull/152) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+1. 🎉 Merged PR [#450](https://github.com/Jadhielv/ITL/pull/450) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 💪 Opened PR [#678](https://github.com/nminaya/grammar-nazi-bot/pull/678) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+3. 🎉 Merged PR [#100](https://github.com/Jadhielv/ACGSS/pull/100) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+4. 🎉 Merged PR [#420](https://github.com/Jadhielv/ITL/pull/420) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#101](https://github.com/Jadhielv/ACGSS/pull/101) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
