@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#450](https://github.com/Jadhielv/ITL/pull/450) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 💪 Opened PR [#678](https://github.com/nminaya/grammar-nazi-bot/pull/678) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-3. 🎉 Merged PR [#100](https://github.com/Jadhielv/ACGSS/pull/100) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-4. 🎉 Merged PR [#420](https://github.com/Jadhielv/ITL/pull/420) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#101](https://github.com/Jadhielv/ACGSS/pull/101) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. 🎉 Merged PR [#292](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/292) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 🎉 Merged PR [#450](https://github.com/Jadhielv/ITL/pull/450) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 💪 Opened PR [#678](https://github.com/nminaya/grammar-nazi-bot/pull/678) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+4. 🎉 Merged PR [#100](https://github.com/Jadhielv/ACGSS/pull/100) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+5. 🎉 Merged PR [#420](https://github.com/Jadhielv/ITL/pull/420) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
