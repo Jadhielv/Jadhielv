@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#157](https://github.com/Jadhielv/search-tasks/pull/157) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🗣 Commented on [#466](https://github.com/Jadhielv/ITL/issues/466) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#465](https://github.com/Jadhielv/ITL/pull/465) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 💪 Opened PR [#53](https://github.com/Jadhielv/shiki/pull/53) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-5. ❗️ Closed issue [#460](https://github.com/Jadhielv/ITL/issues/460) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#466](https://github.com/Jadhielv/ITL/pull/466) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#157](https://github.com/Jadhielv/search-tasks/pull/157) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🗣 Commented on [#466](https://github.com/Jadhielv/ITL/issues/466) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#465](https://github.com/Jadhielv/ITL/pull/465) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 💪 Opened PR [#53](https://github.com/Jadhielv/shiki/pull/53) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
 <!--END_SECTION:activity-->
 </details>
