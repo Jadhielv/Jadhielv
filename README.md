@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
-- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/Jadhielv/shiki/pull/53) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-2. ❗️ Closed issue [#460](https://github.com/Jadhielv/ITL/issues/460) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#451](https://github.com/Jadhielv/ITL/pull/451) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🗣 Commented on [#451](https://github.com/Jadhielv/ITL/issues/451) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🗣 Commented on [#451](https://github.com/Jadhielv/ITL/issues/451) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#157](https://github.com/Jadhielv/search-tasks/pull/157) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🗣 Commented on [#466](https://github.com/Jadhielv/ITL/issues/466) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#465](https://github.com/Jadhielv/ITL/pull/465) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 💪 Opened PR [#53](https://github.com/Jadhielv/shiki/pull/53) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
+5. ❗️ Closed issue [#460](https://github.com/Jadhielv/ITL/issues/460) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
