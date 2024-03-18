@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
-- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#303](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/303) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. 🎉 Merged PR [#302](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/302) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. 🎉 Merged PR [#301](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/301) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. ❌ Closed PR [#53](https://github.com/Jadhielv/shiki/pull/53) in [Jadhielv/shiki](https://github.com/Jadhielv/shiki)
-5. 🎉 Merged PR [#466](https://github.com/Jadhielv/ITL/pull/466) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. ❗️ Opened issue [#116](https://github.com/Jadhielv/ACGSS/issues/116) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+2. ❌ Closed PR [#161](https://github.com/VueDominicana/DominicanWhoCodes/pull/161) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+3. 🎉 Merged PR [#467](https://github.com/Jadhielv/ITL/pull/467) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#303](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/303) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. 🎉 Merged PR [#302](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/302) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
