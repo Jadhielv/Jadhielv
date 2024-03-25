@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#477](https://github.com/Jadhielv/ITL/pull/477) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#476](https://github.com/Jadhielv/ITL/pull/476) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. ❗️ Closed issue [#116](https://github.com/Jadhielv/ACGSS/issues/116) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-4. 🎉 Merged PR [#110](https://github.com/Jadhielv/ACGSS/pull/110) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-5. 🗣 Commented on [#110](https://github.com/Jadhielv/ACGSS/issues/110) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. ❌ Closed PR [#162](https://github.com/VueDominicana/DominicanWhoCodes/pull/162) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+2. 🎉 Merged PR [#477](https://github.com/Jadhielv/ITL/pull/477) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#476](https://github.com/Jadhielv/ITL/pull/476) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. ❗️ Closed issue [#116](https://github.com/Jadhielv/ACGSS/issues/116) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+5. 🎉 Merged PR [#110](https://github.com/Jadhielv/ACGSS/pull/110) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
