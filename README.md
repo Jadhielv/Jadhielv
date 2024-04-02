@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#480](https://github.com/Jadhielv/ITL/pull/480) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🗣 Commented on [#163](https://github.com/VueDominicana/DominicanWhoCodes/issues/163) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-3. 🎉 Merged PR [#123](https://github.com/Jadhielv/ACGSS/pull/123) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-4. 🎉 Merged PR [#161](https://github.com/Jadhielv/search-tasks/pull/161) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 🎉 Merged PR [#160](https://github.com/Jadhielv/search-tasks/pull/160) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+1. 🎉 Merged PR [#100](https://github.com/Streamelopers/opus-api/pull/100) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+2. 🎉 Merged PR [#480](https://github.com/Jadhielv/ITL/pull/480) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#163](https://github.com/VueDominicana/DominicanWhoCodes/issues/163) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+4. 🎉 Merged PR [#123](https://github.com/Jadhielv/ACGSS/pull/123) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+5. 🎉 Merged PR [#161](https://github.com/Jadhielv/search-tasks/pull/161) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
