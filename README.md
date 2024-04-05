@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#482](https://github.com/Jadhielv/ITL/issues/482) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#481](https://github.com/Jadhielv/ITL/pull/481) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#100](https://github.com/Streamelopers/opus-api/pull/100) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-4. 🎉 Merged PR [#480](https://github.com/Jadhielv/ITL/pull/480) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🗣 Commented on [#163](https://github.com/VueDominicana/DominicanWhoCodes/issues/163) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+1. 🗣 Commented on [#483](https://github.com/Jadhielv/ITL/issues/483) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#482](https://github.com/Jadhielv/ITL/pull/482) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#482](https://github.com/Jadhielv/ITL/issues/482) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#481](https://github.com/Jadhielv/ITL/pull/481) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#100](https://github.com/Streamelopers/opus-api/pull/100) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
 <!--END_SECTION:activity-->
 </details>
