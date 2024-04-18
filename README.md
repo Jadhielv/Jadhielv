@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/Streamelopers/opus-api/pull/101) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-2. 🎉 Merged PR [#130](https://github.com/Jadhielv/ACGSS/pull/130) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-3. 🗣 Commented on [#130](https://github.com/Jadhielv/ACGSS/issues/130) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-4. 🎉 Merged PR [#126](https://github.com/Jadhielv/ACGSS/pull/126) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-5. 🗣 Commented on [#129](https://github.com/Jadhielv/ACGSS/issues/129) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. 💪 Opened PR [#5](https://github.com/Jadhielv/uno/pull/5) in [Jadhielv/uno](https://github.com/Jadhielv/uno)
+2. 🎉 Merged PR [#101](https://github.com/Streamelopers/opus-api/pull/101) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+3. 🎉 Merged PR [#130](https://github.com/Jadhielv/ACGSS/pull/130) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+4. 🗣 Commented on [#130](https://github.com/Jadhielv/ACGSS/issues/130) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+5. 🎉 Merged PR [#126](https://github.com/Jadhielv/ACGSS/pull/126) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
