@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#505](https://github.com/Jadhielv/ITL/pull/505) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#504](https://github.com/Jadhielv/ITL/pull/504) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#137](https://github.com/Jadhielv/ACGSS/pull/137) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-4. 🎉 Merged PR [#503](https://github.com/Jadhielv/ITL/pull/503) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#133](https://github.com/Jadhielv/ACGSS/pull/133) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. 🎉 Merged PR [#313](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/313) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 🎉 Merged PR [#138](https://github.com/Jadhielv/ACGSS/pull/138) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+3. 🎉 Merged PR [#505](https://github.com/Jadhielv/ITL/pull/505) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#504](https://github.com/Jadhielv/ITL/pull/504) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#137](https://github.com/Jadhielv/ACGSS/pull/137) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
