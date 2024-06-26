@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#102](https://github.com/Streamelopers/opus-api/pull/102) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-2. 🎉 Merged PR [#103](https://github.com/Streamelopers/opus-api/pull/103) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-3. 🎉 Merged PR [#12](https://github.com/Jadhielv/Jadhielv/pull/12) in [Jadhielv/Jadhielv](https://github.com/Jadhielv/Jadhielv)
-4. 🗣 Commented on [#165](https://github.com/VueDominicana/DominicanWhoCodes/issues/165) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-5. 🎉 Merged PR [#145](https://github.com/Jadhielv/ACGSS/pull/145) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. 🗣 Commented on [#155](https://github.com/VueDominicana/DominicanWhoCodes/issues/155) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+2. 🎉 Merged PR [#102](https://github.com/Streamelopers/opus-api/pull/102) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+3. 🎉 Merged PR [#103](https://github.com/Streamelopers/opus-api/pull/103) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+4. 🎉 Merged PR [#12](https://github.com/Jadhielv/Jadhielv/pull/12) in [Jadhielv/Jadhielv](https://github.com/Jadhielv/Jadhielv)
+5. 🗣 Commented on [#165](https://github.com/VueDominicana/DominicanWhoCodes/issues/165) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
