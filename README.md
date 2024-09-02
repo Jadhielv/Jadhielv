@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
-- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ACGSS](https://github.com/Jadhielv/ACGSS)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#361](https://github.com/Jadhielv/juguetear-web/pull/361) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-2. ❌ Closed PR [#360](https://github.com/Jadhielv/juguetear-web/pull/360) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-3. ❌ Closed PR [#359](https://github.com/Jadhielv/juguetear-web/pull/359) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-4. ❌ Closed PR [#358](https://github.com/Jadhielv/juguetear-web/pull/358) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-5. ❌ Closed PR [#357](https://github.com/Jadhielv/juguetear-web/pull/357) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+1. ❌ Closed PR [#363](https://github.com/Jadhielv/juguetear-web/pull/363) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+2. ❌ Closed PR [#362](https://github.com/Jadhielv/juguetear-web/pull/362) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+3. 🎉 Merged PR [#153](https://github.com/Jadhielv/ACGSS/pull/153) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+4. 🎉 Merged PR [#152](https://github.com/Jadhielv/ACGSS/pull/152) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+5. ❌ Closed PR [#361](https://github.com/Jadhielv/juguetear-web/pull/361) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
 <!--END_SECTION:activity-->
 </details>
