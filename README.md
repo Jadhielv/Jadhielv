@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](https://github.com/Jadhielv/client-app-ng-base/pull/47) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-2. 🎉 Merged PR [#551](https://github.com/Jadhielv/ITL/pull/551) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#550](https://github.com/Jadhielv/ITL/pull/550) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#155](https://github.com/Jadhielv/ACGSS/pull/155) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-5. 🗣 Commented on [#155](https://github.com/Jadhielv/ACGSS/issues/155) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. ❌ Closed PR [#374](https://github.com/Jadhielv/juguetear-web/pull/374) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+2. ❌ Reopened PR [#47](https://github.com/Jadhielv/client-app-ng-base/pull/47) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+3. ❌ Closed PR [#47](https://github.com/Jadhielv/client-app-ng-base/pull/47) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+4. ❌ Closed PR [#373](https://github.com/Jadhielv/juguetear-web/pull/373) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+5. ❌ Closed PR [#372](https://github.com/Jadhielv/juguetear-web/pull/372) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
 <!--END_SECTION:activity-->
 </details>
