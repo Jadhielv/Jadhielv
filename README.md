@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#374](https://github.com/Jadhielv/juguetear-web/pull/374) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-2. ❌ Reopened PR [#47](https://github.com/Jadhielv/client-app-ng-base/pull/47) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-3. ❌ Closed PR [#47](https://github.com/Jadhielv/client-app-ng-base/pull/47) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-4. ❌ Closed PR [#373](https://github.com/Jadhielv/juguetear-web/pull/373) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-5. ❌ Closed PR [#372](https://github.com/Jadhielv/juguetear-web/pull/372) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+1. 🎉 Merged PR [#47](https://github.com/Jadhielv/client-app-ng-base/pull/47) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+2. ❌ Closed PR [#374](https://github.com/Jadhielv/juguetear-web/pull/374) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+3. ❌ Reopened PR [#47](https://github.com/Jadhielv/client-app-ng-base/pull/47) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+4. ❌ Closed PR [#47](https://github.com/Jadhielv/client-app-ng-base/pull/47) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+5. ❌ Closed PR [#373](https://github.com/Jadhielv/juguetear-web/pull/373) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
 <!--END_SECTION:activity-->
 </details>
