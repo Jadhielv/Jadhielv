@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#291](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/291) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-2. ❌ Closed PR [#387](https://github.com/Jadhielv/juguetear-web/pull/387) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-3. ❌ Closed PR [#386](https://github.com/Jadhielv/juguetear-web/pull/386) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-4. ❌ Closed PR [#385](https://github.com/Jadhielv/juguetear-web/pull/385) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-5. ❌ Closed PR [#384](https://github.com/Jadhielv/juguetear-web/pull/384) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+1. 🗣 Commented on [#555](https://github.com/Jadhielv/ITL/issues/555) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#554](https://github.com/Jadhielv/ITL/pull/554) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#328](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/328) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. 🎉 Merged PR [#188](https://github.com/Jadhielv/search-tasks/pull/188) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. ❌ Closed PR [#291](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/291) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
 <!--END_SECTION:activity-->
 </details>
