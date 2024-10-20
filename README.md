@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#189](https://github.com/Jadhielv/search-tasks/pull/189) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🎉 Merged PR [#329](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/329) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. ❌ Closed PR [#295](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/295) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-4. ❌ Closed PR [#294](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/294) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-5. ❌ Closed PR [#293](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/293) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+1. 🎉 Merged PR [#330](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/330) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 🗣 Commented on [#170](https://github.com/VueDominicana/DominicanWhoCodes/issues/170) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+3. 🎉 Merged PR [#189](https://github.com/Jadhielv/search-tasks/pull/189) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. 🎉 Merged PR [#329](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/329) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. ❌ Closed PR [#295](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/295) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
 <!--END_SECTION:activity-->
 </details>
