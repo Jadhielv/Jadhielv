@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#562](https://github.com/Jadhielv/ITL/issues/562) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🗣 Commented on [#301](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/issues/301) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-3. 🎉 Merged PR [#191](https://github.com/Jadhielv/search-tasks/pull/191) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. 🎉 Merged PR [#561](https://github.com/Jadhielv/ITL/pull/561) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#16](https://github.com/Jadhielv/github-activity-readme/pull/16) in [Jadhielv/github-activity-readme](https://github.com/Jadhielv/github-activity-readme)
+1. 🎉 Merged PR [#105](https://github.com/Streamelopers/opus-api/pull/105) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+2. ❗️ Opened issue [#562](https://github.com/Jadhielv/ITL/issues/562) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#301](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/issues/301) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+4. 🎉 Merged PR [#191](https://github.com/Jadhielv/search-tasks/pull/191) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. 🎉 Merged PR [#561](https://github.com/Jadhielv/ITL/pull/561) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
