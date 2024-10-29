@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#563](https://github.com/Jadhielv/ITL/pull/563) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. ❌ Closed PR [#408](https://github.com/Jadhielv/juguetear-web/pull/408) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-3. 🎉 Merged PR [#105](https://github.com/Streamelopers/opus-api/pull/105) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-4. ❗️ Opened issue [#562](https://github.com/Jadhielv/ITL/issues/562) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🗣 Commented on [#301](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/issues/301) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+1. 🎉 Merged PR [#566](https://github.com/Jadhielv/ITL/pull/566) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#563](https://github.com/Jadhielv/ITL/pull/563) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. ❌ Closed PR [#408](https://github.com/Jadhielv/juguetear-web/pull/408) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+4. 🎉 Merged PR [#105](https://github.com/Streamelopers/opus-api/pull/105) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+5. ❗️ Opened issue [#562](https://github.com/Jadhielv/ITL/issues/562) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
