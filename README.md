@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#313](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/313) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-2. 🎉 Merged PR [#570](https://github.com/Jadhielv/ITL/pull/570) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#336](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/336) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. 🗣 Commented on [#570](https://github.com/Jadhielv/ITL/issues/570) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#569](https://github.com/Jadhielv/ITL/pull/569) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🗣 Commented on [#763](https://github.com/nminaya/grammar-nazi-bot/issues/763) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+2. 🎉 Merged PR [#337](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/337) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. ❌ Closed PR [#313](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/313) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+4. 🎉 Merged PR [#570](https://github.com/Jadhielv/ITL/pull/570) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#336](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/336) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
