@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#572](https://github.com/Jadhielv/ITL/pull/572) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#198](https://github.com/Jadhielv/search-tasks/pull/198) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. 🗣 Commented on [#572](https://github.com/Jadhielv/ITL/issues/572) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#571](https://github.com/Jadhielv/ITL/pull/571) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🗣 Commented on [#763](https://github.com/nminaya/grammar-nazi-bot/issues/763) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+1. ❌ Closed PR [#431](https://github.com/Jadhielv/juguetear-web/pull/431) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+2. ❌ Closed PR [#430](https://github.com/Jadhielv/juguetear-web/pull/430) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+3. ❌ Closed PR [#428](https://github.com/Jadhielv/juguetear-web/pull/428) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+4. ❌ Closed PR [#427](https://github.com/Jadhielv/juguetear-web/pull/427) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+5. ❌ Closed PR [#426](https://github.com/Jadhielv/juguetear-web/pull/426) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
 <!--END_SECTION:activity-->
 </details>
