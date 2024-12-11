@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#200](https://github.com/Jadhielv/search-tasks/pull/200) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🎉 Merged PR [#199](https://github.com/Jadhielv/search-tasks/pull/199) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. ❌ Closed PR [#320](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/320) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-4. ❌ Closed PR [#319](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/319) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-5. ❌ Closed PR [#443](https://github.com/Jadhielv/juguetear-web/pull/443) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+1. 🎉 Merged PR [#106](https://github.com/Streamelopers/opus-api/pull/106) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+2. 🎉 Merged PR [#200](https://github.com/Jadhielv/search-tasks/pull/200) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🎉 Merged PR [#199](https://github.com/Jadhielv/search-tasks/pull/199) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. ❌ Closed PR [#320](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/320) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+5. ❌ Closed PR [#319](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/319) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
 <!--END_SECTION:activity-->
 </details>
