@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#773](https://github.com/nminaya/grammar-nazi-bot/issues/773) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-2. 💪 Opened PR [#778](https://github.com/nminaya/grammar-nazi-bot/pull/778) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-3. ❗️ Opened issue [#777](https://github.com/nminaya/grammar-nazi-bot/issues/777) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-4. 💪 Opened PR [#578](https://github.com/Jadhielv/ITL/pull/578) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🗣 Commented on [#444](https://github.com/Jadhielv/juguetear-web/issues/444) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+1. 🗣 Commented on [#771](https://github.com/nminaya/grammar-nazi-bot/issues/771) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+2. 🗣 Commented on [#773](https://github.com/nminaya/grammar-nazi-bot/issues/773) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+3. 💪 Opened PR [#778](https://github.com/nminaya/grammar-nazi-bot/pull/778) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+4. ❗️ Opened issue [#777](https://github.com/nminaya/grammar-nazi-bot/issues/777) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+5. 💪 Opened PR [#578](https://github.com/Jadhielv/ITL/pull/578) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
