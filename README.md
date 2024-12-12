@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#578](https://github.com/Jadhielv/ITL/pull/578) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🗣 Commented on [#444](https://github.com/Jadhielv/juguetear-web/issues/444) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-3. 🎉 Merged PR [#106](https://github.com/Streamelopers/opus-api/pull/106) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
-4. 🎉 Merged PR [#200](https://github.com/Jadhielv/search-tasks/pull/200) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 🎉 Merged PR [#199](https://github.com/Jadhielv/search-tasks/pull/199) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+1. ❗️ Opened issue [#777](https://github.com/nminaya/grammar-nazi-bot/issues/777) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+2. 💪 Opened PR [#578](https://github.com/Jadhielv/ITL/pull/578) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#444](https://github.com/Jadhielv/juguetear-web/issues/444) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+4. 🎉 Merged PR [#106](https://github.com/Streamelopers/opus-api/pull/106) in [Streamelopers/opus-api](https://github.com/Streamelopers/opus-api)
+5. 🎉 Merged PR [#200](https://github.com/Jadhielv/search-tasks/pull/200) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
