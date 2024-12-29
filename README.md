@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
-- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ACGSS](https://github.com/Jadhielv/ACGSS)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#578](https://github.com/Jadhielv/ITL/issues/578) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🗣 Commented on [#771](https://github.com/nminaya/grammar-nazi-bot/issues/771) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-3. 🗣 Commented on [#773](https://github.com/nminaya/grammar-nazi-bot/issues/773) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-4. 💪 Opened PR [#778](https://github.com/nminaya/grammar-nazi-bot/pull/778) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
-5. ❗️ Opened issue [#777](https://github.com/nminaya/grammar-nazi-bot/issues/777) in [nminaya/grammar-nazi-bot](https://github.com/nminaya/grammar-nazi-bot)
+1. 🗣 Commented on [#163](https://github.com/Jadhielv/ACGSS/issues/163) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+2. 🎉 Merged PR [#162](https://github.com/Jadhielv/ACGSS/pull/162) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+3. ❌ Closed PR [#453](https://github.com/Jadhielv/juguetear-web/pull/453) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+4. ❌ Closed PR [#452](https://github.com/Jadhielv/juguetear-web/pull/452) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+5. ❌ Closed PR [#451](https://github.com/Jadhielv/juguetear-web/pull/451) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
 <!--END_SECTION:activity-->
 </details>
