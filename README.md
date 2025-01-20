@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Jadhielv/create-pull-request/pull/2) in [Jadhielv/create-pull-request](https://github.com/Jadhielv/create-pull-request)
-2. ❌ Closed PR [#326](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/326) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-3. ❌ Closed PR [#325](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/325) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-4. 🎉 Merged PR [#344](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/344) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. 🎉 Merged PR [#343](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/343) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. 🗣 Commented on [#346](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/346) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 🎉 Merged PR [#345](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/345) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. ❌ Closed PR [#2](https://github.com/Jadhielv/create-pull-request/pull/2) in [Jadhielv/create-pull-request](https://github.com/Jadhielv/create-pull-request)
+4. ❌ Closed PR [#463](https://github.com/Jadhielv/juguetear-web/pull/463) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+5. 💪 Opened PR [#2](https://github.com/Jadhielv/create-pull-request/pull/2) in [Jadhielv/create-pull-request](https://github.com/Jadhielv/create-pull-request)
 <!--END_SECTION:activity-->
 </details>
