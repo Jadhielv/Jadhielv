@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#168](https://github.com/Jadhielv/ACGSS/pull/168) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-2. 🗣 Commented on [#168](https://github.com/Jadhielv/ACGSS/issues/168) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-3. 🎉 Merged PR [#167](https://github.com/Jadhielv/ACGSS/pull/167) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-4. 🗣 Commented on [#167](https://github.com/Jadhielv/ACGSS/issues/167) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-5. 🎉 Merged PR [#166](https://github.com/Jadhielv/ACGSS/pull/166) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. ❌ Closed PR [#470](https://github.com/Jadhielv/juguetear-web/pull/470) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+2. ❌ Closed PR [#469](https://github.com/Jadhielv/juguetear-web/pull/469) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+3. 🎉 Merged PR [#168](https://github.com/Jadhielv/ACGSS/pull/168) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+4. 🗣 Commented on [#168](https://github.com/Jadhielv/ACGSS/issues/168) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+5. 🎉 Merged PR [#167](https://github.com/Jadhielv/ACGSS/pull/167) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
