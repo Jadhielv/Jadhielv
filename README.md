@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#598](https://github.com/Jadhielv/ITL/issues/598) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#208](https://github.com/Jadhielv/search-tasks/pull/208) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. 🎉 Merged PR [#206](https://github.com/Jadhielv/search-tasks/pull/206) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. ❌ Closed PR [#470](https://github.com/Jadhielv/juguetear-web/pull/470) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-5. ❌ Closed PR [#469](https://github.com/Jadhielv/juguetear-web/pull/469) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+1. 🗣 Commented on [#596](https://github.com/Jadhielv/ITL/issues/596) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#595](https://github.com/Jadhielv/ITL/pull/595) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#600](https://github.com/Jadhielv/ITL/issues/600) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🗣 Commented on [#596](https://github.com/Jadhielv/ITL/issues/596) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🗣 Commented on [#595](https://github.com/Jadhielv/ITL/issues/595) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
