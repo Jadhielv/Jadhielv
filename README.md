@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
-- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Jadhielv/order-management/issues/5) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-2. 🎉 Merged PR [#4](https://github.com/Jadhielv/order-management/pull/4) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-3. ❌ Closed PR [#333](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/333) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-4. ❌ Closed PR [#332](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/332) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-5. ❌ Closed PR [#476](https://github.com/Jadhielv/juguetear-web/pull/476) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+1. 🎉 Merged PR [#6](https://github.com/Jadhielv/order-management/pull/6) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+2. 🎉 Merged PR [#5](https://github.com/Jadhielv/order-management/pull/5) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+3. 🗣 Commented on [#5](https://github.com/Jadhielv/order-management/issues/5) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+4. 🎉 Merged PR [#4](https://github.com/Jadhielv/order-management/pull/4) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+5. ❌ Closed PR [#333](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/333) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
 <!--END_SECTION:activity-->
 </details>
