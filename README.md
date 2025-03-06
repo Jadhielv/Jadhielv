@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#612](https://github.com/Jadhielv/ITL/pull/612) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🗣 Commented on [#612](https://github.com/Jadhielv/ITL/issues/612) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#611](https://github.com/Jadhielv/ITL/pull/611) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#217](https://github.com/Jadhielv/search-tasks/pull/217) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. ❌ Closed PR [#334](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/334) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+1. 🎉 Merged PR [#613](https://github.com/Jadhielv/ITL/pull/613) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🎉 Merged PR [#612](https://github.com/Jadhielv/ITL/pull/612) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#612](https://github.com/Jadhielv/ITL/issues/612) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#611](https://github.com/Jadhielv/ITL/pull/611) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#217](https://github.com/Jadhielv/search-tasks/pull/217) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
