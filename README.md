@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#494](https://github.com/Jadhielv/juguetear-web/pull/494) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-2. ❌ Closed PR [#493](https://github.com/Jadhielv/juguetear-web/pull/493) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-3. ❌ Closed PR [#492](https://github.com/Jadhielv/juguetear-web/pull/492) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-4. ❌ Closed PR [#490](https://github.com/Jadhielv/juguetear-web/pull/490) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-5. ❌ Closed PR [#337](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/337) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+1. 🎉 Merged PR [#15](https://github.com/Jadhielv/order-management/pull/15) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+2. ❌ Closed PR [#494](https://github.com/Jadhielv/juguetear-web/pull/494) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+3. ❌ Closed PR [#493](https://github.com/Jadhielv/juguetear-web/pull/493) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+4. ❌ Closed PR [#492](https://github.com/Jadhielv/juguetear-web/pull/492) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+5. ❌ Closed PR [#490](https://github.com/Jadhielv/juguetear-web/pull/490) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
 <!--END_SECTION:activity-->
 </details>
