@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/Jadhielv/order-management/issues/13) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-2. 🎉 Merged PR [#12](https://github.com/Jadhielv/order-management/pull/12) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-3. 🎉 Merged PR [#9](https://github.com/Jadhielv/order-management/pull/9) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-4. 🎉 Merged PR [#616](https://github.com/Jadhielv/ITL/pull/616) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🗣 Commented on [#614](https://github.com/Jadhielv/ITL/issues/614) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#14](https://github.com/Jadhielv/order-management/pull/14) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+2. 🗣 Commented on [#14](https://github.com/Jadhielv/order-management/issues/14) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+3. 🎉 Merged PR [#13](https://github.com/Jadhielv/order-management/pull/13) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+4. 🗣 Commented on [#13](https://github.com/Jadhielv/order-management/issues/13) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+5. 🎉 Merged PR [#12](https://github.com/Jadhielv/order-management/pull/12) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
 <!--END_SECTION:activity-->
 </details>
