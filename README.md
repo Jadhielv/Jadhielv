@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/Jadhielv/order-management/pull/22) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-2. ❌ Closed PR [#503](https://github.com/Jadhielv/juguetear-web/pull/503) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-3. ❌ Closed PR [#502](https://github.com/Jadhielv/juguetear-web/pull/502) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-4. 🎉 Merged PR [#21](https://github.com/Jadhielv/order-management/pull/21) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-5. 🗣 Commented on [#21](https://github.com/Jadhielv/order-management/issues/21) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+1. 🎉 Merged PR [#70](https://github.com/Streamelopers/opus-web/pull/70) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+2. 🎉 Merged PR [#22](https://github.com/Jadhielv/order-management/pull/22) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+3. ❌ Closed PR [#503](https://github.com/Jadhielv/juguetear-web/pull/503) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+4. ❌ Closed PR [#502](https://github.com/Jadhielv/juguetear-web/pull/502) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+5. 🎉 Merged PR [#21](https://github.com/Jadhielv/order-management/pull/21) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
 <!--END_SECTION:activity-->
 </details>
