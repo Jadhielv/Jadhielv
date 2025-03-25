@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#631](https://github.com/Jadhielv/ITL/issues/631) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#629](https://github.com/Jadhielv/ITL/pull/629) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🗣 Commented on [#629](https://github.com/Jadhielv/ITL/issues/629) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#628](https://github.com/Jadhielv/ITL/pull/628) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#70](https://github.com/Streamelopers/opus-web/pull/70) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+1. 🗣 Commented on [#219](https://github.com/Jadhielv/search-tasks/issues/219) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🎉 Merged PR [#218](https://github.com/Jadhielv/search-tasks/pull/218) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🗣 Commented on [#631](https://github.com/Jadhielv/ITL/issues/631) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#629](https://github.com/Jadhielv/ITL/pull/629) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🗣 Commented on [#629](https://github.com/Jadhielv/ITL/issues/629) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
