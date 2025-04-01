@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#221](https://github.com/Jadhielv/search-tasks/issues/221) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🎉 Merged PR [#220](https://github.com/Jadhielv/search-tasks/pull/220) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. 🎉 Merged PR [#219](https://github.com/Jadhielv/search-tasks/pull/219) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. 🗣 Commented on [#219](https://github.com/Jadhielv/search-tasks/issues/219) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 🎉 Merged PR [#218](https://github.com/Jadhielv/search-tasks/pull/218) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+1. 🗣 Commented on [#222](https://github.com/Jadhielv/search-tasks/issues/222) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🎉 Merged PR [#221](https://github.com/Jadhielv/search-tasks/pull/221) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. 🗣 Commented on [#221](https://github.com/Jadhielv/search-tasks/issues/221) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. 🎉 Merged PR [#220](https://github.com/Jadhielv/search-tasks/pull/220) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. 🎉 Merged PR [#219](https://github.com/Jadhielv/search-tasks/pull/219) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
