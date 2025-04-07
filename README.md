@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/Jadhielv/order-management/issues/26) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-2. 🎉 Merged PR [#24](https://github.com/Jadhielv/order-management/pull/24) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-3. 🎉 Merged PR [#354](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/354) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. 🎉 Merged PR [#633](https://github.com/Jadhielv/ITL/pull/633) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#632](https://github.com/Jadhielv/ITL/pull/632) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#27](https://github.com/Jadhielv/order-management/pull/27) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+2. 🗣 Commented on [#27](https://github.com/Jadhielv/order-management/issues/27) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+3. 🎉 Merged PR [#26](https://github.com/Jadhielv/order-management/pull/26) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+4. 🗣 Commented on [#26](https://github.com/Jadhielv/order-management/issues/26) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+5. 🎉 Merged PR [#24](https://github.com/Jadhielv/order-management/pull/24) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
 <!--END_SECTION:activity-->
 </details>
