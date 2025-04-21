@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
-- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[order-management](https://github.com/Jadhielv/order-management)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#642](https://github.com/Jadhielv/ITL/pull/642) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🗣 Commented on [#642](https://github.com/Jadhielv/ITL/issues/642) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#643](https://github.com/Jadhielv/ITL/pull/643) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#641](https://github.com/Jadhielv/ITL/pull/641) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#175](https://github.com/Jadhielv/ACGSS/pull/175) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. 🗣 Commented on [#515](https://github.com/Jadhielv/juguetear-web/issues/515) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+2. 🗣 Commented on [#516](https://github.com/Jadhielv/juguetear-web/issues/516) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+3. 🎉 Merged PR [#29](https://github.com/Jadhielv/order-management/pull/29) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+4. 🎉 Merged PR [#224](https://github.com/Jadhielv/search-tasks/pull/224) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. 🎉 Merged PR [#642](https://github.com/Jadhielv/ITL/pull/642) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
