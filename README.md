@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#641](https://github.com/Jadhielv/ITL/pull/641) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#175](https://github.com/Jadhielv/ACGSS/pull/175) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-3. 🎉 Merged PR [#634](https://github.com/Jadhielv/ITL/pull/634) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#28](https://github.com/Jadhielv/order-management/pull/28) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-5. ❌ Closed PR [#511](https://github.com/Jadhielv/juguetear-web/pull/511) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+1. 🎉 Merged PR [#642](https://github.com/Jadhielv/ITL/pull/642) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🗣 Commented on [#642](https://github.com/Jadhielv/ITL/issues/642) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#643](https://github.com/Jadhielv/ITL/pull/643) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🎉 Merged PR [#641](https://github.com/Jadhielv/ITL/pull/641) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#175](https://github.com/Jadhielv/ACGSS/pull/175) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
