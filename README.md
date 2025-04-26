@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#515](https://github.com/Jadhielv/juguetear-web/issues/515) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-2. 🗣 Commented on [#516](https://github.com/Jadhielv/juguetear-web/issues/516) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-3. 🎉 Merged PR [#29](https://github.com/Jadhielv/order-management/pull/29) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-4. 🎉 Merged PR [#224](https://github.com/Jadhielv/search-tasks/pull/224) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 🎉 Merged PR [#642](https://github.com/Jadhielv/ITL/pull/642) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🎉 Merged PR [#644](https://github.com/Jadhielv/ITL/pull/644) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🗣 Commented on [#515](https://github.com/Jadhielv/juguetear-web/issues/515) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+3. 🗣 Commented on [#516](https://github.com/Jadhielv/juguetear-web/issues/516) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+4. 🎉 Merged PR [#29](https://github.com/Jadhielv/order-management/pull/29) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+5. 🎉 Merged PR [#224](https://github.com/Jadhielv/search-tasks/pull/224) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
