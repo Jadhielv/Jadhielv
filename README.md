@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jadhielv/Jadhielv/actions/workflows/codeql-analysis.yml)
 
 - 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
-- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[order-management](https://github.com/Jadhielv/order-management)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🤓 Willing to contribute to open-source development projects.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/Jadhielv/order-management/issues/31) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-2. 🎉 Merged PR [#30](https://github.com/Jadhielv/order-management/pull/30) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-3. 🎉 Merged PR [#644](https://github.com/Jadhielv/ITL/pull/644) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🗣 Commented on [#515](https://github.com/Jadhielv/juguetear-web/issues/515) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-5. 🗣 Commented on [#516](https://github.com/Jadhielv/juguetear-web/issues/516) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+1. 🎉 Merged PR [#31](https://github.com/Jadhielv/order-management/pull/31) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+2. 🗣 Commented on [#31](https://github.com/Jadhielv/order-management/issues/31) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+3. 🎉 Merged PR [#30](https://github.com/Jadhielv/order-management/pull/30) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+4. 🎉 Merged PR [#644](https://github.com/Jadhielv/ITL/pull/644) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🗣 Commented on [#515](https://github.com/Jadhielv/juguetear-web/issues/515) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
 <!--END_SECTION:activity-->
 </details>
