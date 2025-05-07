@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#650](https://github.com/Jadhielv/ITL/pull/650) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#177](https://github.com/Jadhielv/ACGSS/pull/177) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-3. 💪 Opened PR [#177](https://github.com/Jadhielv/ACGSS/pull/177) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-4. 🎉 Merged PR [#227](https://github.com/Jadhielv/search-tasks/pull/227) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 💪 Opened PR [#227](https://github.com/Jadhielv/search-tasks/pull/227) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+1. 🎉 Merged PR [#650](https://github.com/Jadhielv/ITL/pull/650) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 💪 Opened PR [#650](https://github.com/Jadhielv/ITL/pull/650) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#177](https://github.com/Jadhielv/ACGSS/pull/177) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+4. 💪 Opened PR [#177](https://github.com/Jadhielv/ACGSS/pull/177) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+5. 🎉 Merged PR [#227](https://github.com/Jadhielv/search-tasks/pull/227) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
