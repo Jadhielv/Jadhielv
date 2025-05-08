@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/Jadhielv/order-management/pull/35) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-2. 🎉 Merged PR [#650](https://github.com/Jadhielv/ITL/pull/650) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 💪 Opened PR [#650](https://github.com/Jadhielv/ITL/pull/650) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🎉 Merged PR [#177](https://github.com/Jadhielv/ACGSS/pull/177) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-5. 💪 Opened PR [#177](https://github.com/Jadhielv/ACGSS/pull/177) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. 🎉 Merged PR [#35](https://github.com/Jadhielv/order-management/pull/35) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+2. 💪 Opened PR [#35](https://github.com/Jadhielv/order-management/pull/35) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+3. 🎉 Merged PR [#650](https://github.com/Jadhielv/ITL/pull/650) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 💪 Opened PR [#650](https://github.com/Jadhielv/ITL/pull/650) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🎉 Merged PR [#177](https://github.com/Jadhielv/ACGSS/pull/177) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
