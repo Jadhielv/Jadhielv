@@ -61,10 +61,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/Streamelopers/opus-web/pull/73) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
-2. 🎉 Merged PR [#72](https://github.com/Streamelopers/opus-web/pull/72) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
-3. 🎉 Merged PR [#237](https://github.com/Jadhielv/search-tasks/pull/237) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. 🎉 Merged PR [#182](https://github.com/Jadhielv/ACGSS/pull/182) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-5. 🗣 Commented on [#669](https://github.com/Jadhielv/ITL/issues/669) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 💪 Opened PR [#3](https://github.com/Jadhielv/create-pull-request/pull/3) in [Jadhielv/create-pull-request](https://github.com/Jadhielv/create-pull-request)
+2. 🎉 Merged PR [#73](https://github.com/Streamelopers/opus-web/pull/73) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+3. 🎉 Merged PR [#72](https://github.com/Streamelopers/opus-web/pull/72) in [Streamelopers/opus-web](https://github.com/Streamelopers/opus-web)
+4. 🎉 Merged PR [#237](https://github.com/Jadhielv/search-tasks/pull/237) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. 🎉 Merged PR [#182](https://github.com/Jadhielv/ACGSS/pull/182) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
