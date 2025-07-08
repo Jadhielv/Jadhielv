@@ -35,6 +35,6 @@
 2. 🗣 Commented on [#184](https://github.com/Jadhielv/ACGSS/issues/184) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 3. 🗣 Commented on [#184](https://github.com/Jadhielv/ACGSS/issues/184) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 4. 🗣 Commented on [#184](https://github.com/Jadhielv/ACGSS/issues/184) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-5. 🎉 Merged PR [#185](https://github.com/Jadhielv/ACGSS/pull/185) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+5. 🗣 Commented on [#184](https://github.com/Jadhielv/ACGSS/issues/184) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
