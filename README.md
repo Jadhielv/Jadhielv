@@ -31,7 +31,7 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#184](https://github.com/Jadhielv/ACGSS/issues/184) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. 💪 Opened PR [#187](https://github.com/Jadhielv/ACGSS/pull/187) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 2. 🗣 Commented on [#184](https://github.com/Jadhielv/ACGSS/issues/184) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 3. 🗣 Commented on [#184](https://github.com/Jadhielv/ACGSS/issues/184) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 4. 🗣 Commented on [#184](https://github.com/Jadhielv/ACGSS/issues/184) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
