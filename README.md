@@ -31,10 +31,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/Jadhielv/ACGSS/issues/189) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-2. ❌ Closed PR [#187](https://github.com/Jadhielv/ACGSS/pull/187) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-3. 🗣 Commented on [#186](https://github.com/Jadhielv/ACGSS/issues/186) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-4. 🎉 Merged PR [#188](https://github.com/Jadhielv/ACGSS/pull/188) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-5. 💪 Opened PR [#188](https://github.com/Jadhielv/ACGSS/pull/188) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. 🗣 Commented on [#190](https://github.com/Jadhielv/ACGSS/issues/190) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+2. 🎉 Merged PR [#191](https://github.com/Jadhielv/ACGSS/pull/191) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+3. 💪 Opened PR [#191](https://github.com/Jadhielv/ACGSS/pull/191) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+4. 🗣 Commented on [#189](https://github.com/Jadhielv/ACGSS/issues/189) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+5. ❌ Closed PR [#187](https://github.com/Jadhielv/ACGSS/pull/187) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
