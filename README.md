@@ -31,10 +31,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#544](https://github.com/Jadhielv/juguetear-web/pull/544) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-2. ❌ Closed PR [#543](https://github.com/Jadhielv/juguetear-web/pull/543) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-3. 🗣 Commented on [#173](https://github.com/VueDominicana/DominicanWhoCodes/issues/173) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-4. 🎉 Merged PR [#44](https://github.com/Jadhielv/order-management/pull/44) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-5. 🗣 Commented on [#192](https://github.com/Jadhielv/ACGSS/issues/192) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. 🗣 Commented on [#673](https://github.com/Jadhielv/ITL/issues/673) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🗣 Commented on [#673](https://github.com/Jadhielv/ITL/issues/673) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. ❌ Closed PR [#544](https://github.com/Jadhielv/juguetear-web/pull/544) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+4. ❌ Closed PR [#543](https://github.com/Jadhielv/juguetear-web/pull/543) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+5. 🗣 Commented on [#173](https://github.com/VueDominicana/DominicanWhoCodes/issues/173) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
