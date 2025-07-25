@@ -31,10 +31,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#362](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/issues/362) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-2. 🎉 Merged PR [#45](https://github.com/Jadhielv/order-management/pull/45) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-3. 🗣 Commented on [#174](https://github.com/VueDominicana/DominicanWhoCodes/issues/174) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-4. 🗣 Commented on [#193](https://github.com/Jadhielv/ACGSS/issues/193) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-5. 🗣 Commented on [#17](https://github.com/Jadhielv/Jadhielv/issues/17) in [Jadhielv/Jadhielv](https://github.com/Jadhielv/Jadhielv)
+1. 🎉 Merged PR [#46](https://github.com/Jadhielv/order-management/pull/46) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+2. 🗣 Commented on [#362](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/issues/362) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+3. 🎉 Merged PR [#45](https://github.com/Jadhielv/order-management/pull/45) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
+4. 🗣 Commented on [#174](https://github.com/VueDominicana/DominicanWhoCodes/issues/174) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+5. 🗣 Commented on [#193](https://github.com/Jadhielv/ACGSS/issues/193) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
