@@ -8,7 +8,7 @@
 
 - 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
 - 🤓 A no-nonsense code warrior with a clean aesthetic and razor-sharp logic.
-- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[29 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
 - 📅 I have attended a few conferences such as [CodeCampSDQ](https://codecampsdq.com/), [GitHub Universe](https://githubuniverse.com/), [Caribbean Developers Conference](https://cdc.dev/), [DevFest Santo Domingo](https://gdg.community.dev/gdg-santo-domingo/), [GitLab Commit](https://gitlabcommitvirtual2021.com/), [MonkeyFestUSA](https://monkeyfest.dev/), [Visual Studio Launch](https://visualstudio.microsoft.com/vs/), [VS Code Day](https://code.visualstudio.com/vscode-day/) and [Global Azure](https://globalazure.net/).
@@ -31,10 +31,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#367](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/367) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. 🎉 Merged PR [#366](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/366) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. 🎉 Merged PR [#54](https://github.com/Jadhielv/order-management/pull/54) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-4. 🎉 Merged PR [#53](https://github.com/Jadhielv/order-management/pull/53) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-5. 🗣 Commented on [#363](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/363) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. 🗣 Commented on [#370](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/370) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 🎉 Merged PR [#369](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/369) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 🗣 Commented on [#367](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/367) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. 🎉 Merged PR [#366](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/366) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. 🎉 Merged PR [#54](https://github.com/Jadhielv/order-management/pull/54) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
 <!--END_SECTION:activity-->
 </details>
