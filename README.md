@@ -31,9 +31,9 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#677](https://github.com/Jadhielv/ITL/issues/677) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🗣 Commented on [#676](https://github.com/Jadhielv/ITL/issues/676) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🗣 Commented on [#374](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/374) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. 🗣 Commented on [#680](https://github.com/Jadhielv/ITL/issues/680) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🗣 Commented on [#677](https://github.com/Jadhielv/ITL/issues/677) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#676](https://github.com/Jadhielv/ITL/issues/676) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 4. 🗣 Commented on [#374](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/374) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 5. 🗣 Commented on [#374](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/374) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
