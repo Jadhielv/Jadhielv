@@ -31,10 +31,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#683](https://github.com/Jadhielv/ITL/issues/683) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🎉 Merged PR [#247](https://github.com/Jadhielv/search-tasks/pull/247) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-3. ❌ Closed PR [#547](https://github.com/Jadhielv/juguetear-web/pull/547) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-4. 🗣 Commented on [#247](https://github.com/Jadhielv/search-tasks/issues/247) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 🎉 Merged PR [#248](https://github.com/Jadhielv/search-tasks/pull/248) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+1. 🗣 Commented on [#375](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/375) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 🗣 Commented on [#683](https://github.com/Jadhielv/ITL/issues/683) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🎉 Merged PR [#247](https://github.com/Jadhielv/search-tasks/pull/247) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. ❌ Closed PR [#547](https://github.com/Jadhielv/juguetear-web/pull/547) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+5. 🗣 Commented on [#247](https://github.com/Jadhielv/search-tasks/issues/247) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
