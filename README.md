@@ -32,9 +32,9 @@
     
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#1](https://github.com/Jadhielv/Spoon-Knife/issues/1) in [Jadhielv/Spoon-Knife](https://github.com/Jadhielv/Spoon-Knife)
-2. 🎉 Merged PR [#2](https://github.com/Jadhielv/Spoon-Knife/pull/2) in [Jadhielv/Spoon-Knife](https://github.com/Jadhielv/Spoon-Knife)
-3. 💪 Opened PR [#2](https://github.com/Jadhielv/Spoon-Knife/pull/2) in [Jadhielv/Spoon-Knife](https://github.com/Jadhielv/Spoon-Knife)
-4. 🗣 Commented on [#375](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/375) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. 🗣 Commented on [#683](https://github.com/Jadhielv/ITL/issues/683) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 💪 Opened PR [#2](https://github.com/Jadhielv/Spoon-Knife/pull/2) in [Jadhielv/Spoon-Knife](https://github.com/Jadhielv/Spoon-Knife)
+3. ❗️ Labeled issue [#1](https://github.com/Jadhielv/Spoon-Knife/issues/1) in [Jadhielv/Spoon-Knife](https://github.com/Jadhielv/Spoon-Knife)
+4. ❗️ Assigned issue [#1](https://github.com/Jadhielv/Spoon-Knife/issues/1) in [Jadhielv/Spoon-Knife](https://github.com/Jadhielv/Spoon-Knife)
+5. ❗️ Opened issue [#1](https://github.com/Jadhielv/Spoon-Knife/issues/1) in [Jadhielv/Spoon-Knife](https://github.com/Jadhielv/Spoon-Knife)
 <!--END_SECTION:activity-->
 </details>
