@@ -31,10 +31,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/Jadhielv/order-management/pull/61) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-2. 🎉 Merged PR [#59](https://github.com/Jadhielv/order-management/pull/59) in [Jadhielv/order-management](https://github.com/Jadhielv/order-management)
-3. 🎉 Merged PR [#251](https://github.com/Jadhielv/search-tasks/pull/251) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. ❌ Closed PR [#379](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/379) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-5. ❌ Closed PR [#376](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/376) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+1. 🗣 Commented on [#253](https://github.com/Jadhielv/search-tasks/issues/253) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🗣 Commented on [#695](https://github.com/Jadhielv/ITL/issues/695) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#694](https://github.com/Jadhielv/ITL/issues/694) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🗣 Commented on [#693](https://github.com/Jadhielv/ITL/issues/693) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. ❌ Closed PR [#381](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/381) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
 <!--END_SECTION:activity-->
 </details>
