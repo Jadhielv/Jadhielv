@@ -33,8 +33,8 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#701](https://github.com/Jadhielv/ITL/issues/701) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 2. 🗣 Commented on [#702](https://github.com/Jadhielv/ITL/issues/702) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#386](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/386) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. 🎉 Merged PR [#255](https://github.com/Jadhielv/search-tasks/pull/255) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 🎉 Merged PR [#208](https://github.com/Jadhielv/ACGSS/pull/208) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+3. 🗣 Commented on [#208](https://github.com/Jadhielv/ACGSS/issues/208) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+4. 🗣 Commented on [#208](https://github.com/Jadhielv/ACGSS/issues/208) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+5. 🗣 Commented on [#207](https://github.com/Jadhielv/ACGSS/issues/207) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
