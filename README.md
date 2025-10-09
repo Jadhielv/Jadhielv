@@ -31,10 +31,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#701](https://github.com/Jadhielv/ITL/issues/701) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🗣 Commented on [#702](https://github.com/Jadhielv/ITL/issues/702) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🗣 Commented on [#208](https://github.com/Jadhielv/ACGSS/issues/208) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-4. 🗣 Commented on [#208](https://github.com/Jadhielv/ACGSS/issues/208) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-5. 🗣 Commented on [#207](https://github.com/Jadhielv/ACGSS/issues/207) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. ❗️ Labeled issue [#22](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/22) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. ❗️ Assigned issue [#22](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/22) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 🗣 Commented on [#701](https://github.com/Jadhielv/ITL/issues/701) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🗣 Commented on [#702](https://github.com/Jadhielv/ITL/issues/702) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🗣 Commented on [#208](https://github.com/Jadhielv/ACGSS/issues/208) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
