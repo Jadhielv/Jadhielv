@@ -31,10 +31,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#710](https://github.com/Jadhielv/ITL/issues/710) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🗣 Commented on [#709](https://github.com/Jadhielv/ITL/issues/709) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🗣 Commented on [#708](https://github.com/Jadhielv/ITL/issues/708) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🗣 Commented on [#708](https://github.com/Jadhielv/ITL/issues/708) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🗣 Commented on [#709](https://github.com/Jadhielv/ITL/issues/709) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🗣 Commented on [#710](https://github.com/Jadhielv/ITL/issues/710) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#710](https://github.com/Jadhielv/ITL/issues/710) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🗣 Commented on [#709](https://github.com/Jadhielv/ITL/issues/709) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 5. 🗣 Commented on [#708](https://github.com/Jadhielv/ITL/issues/708) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
