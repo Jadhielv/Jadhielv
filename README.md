@@ -31,10 +31,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#386](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/386) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-2. ❗️ Closed issue [#393](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/393) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. ❌ Labeled PR [#394](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/394) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. ❌ Labeled PR [#394](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/394) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. ❌ Labeled PR [#394](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/394) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. ❗️ Assigned issue [#396](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/396) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. ❗️ Labeled issue [#396](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/396) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. ❗️ Labeled issue [#396](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/396) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. ❗️ Labeled issue [#396](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/396) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. ❗️ Opened issue [#396](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/396) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
