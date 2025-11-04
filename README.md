@@ -31,9 +31,9 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#213](https://github.com/Jadhielv/ACGSS/issues/213) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-2. ❗️ Closed issue [#395](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/395) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. ❌ Labeled PR [#397](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/397) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. ❌ Closed PR [#387](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/387) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+2. 🗣 Commented on [#213](https://github.com/Jadhielv/ACGSS/issues/213) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+3. ❗️ Closed issue [#395](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/395) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 4. ❌ Labeled PR [#397](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/397) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 5. ❌ Labeled PR [#397](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/397) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
