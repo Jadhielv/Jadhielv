@@ -31,10 +31,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#722](https://github.com/Jadhielv/ITL/issues/722) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 🗣 Commented on [#721](https://github.com/Jadhielv/ITL/issues/721) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🗣 Commented on [#720](https://github.com/Jadhielv/ITL/issues/720) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 🗣 Commented on [#716](https://github.com/Jadhielv/ITL/issues/716) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 💪 Opened PR [#48](https://github.com/Jadhielv/client-app-ng-base/pull/48) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+1. 🗣 Commented on [#398](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/398) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 🗣 Commented on [#722](https://github.com/Jadhielv/ITL/issues/722) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#721](https://github.com/Jadhielv/ITL/issues/721) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🗣 Commented on [#720](https://github.com/Jadhielv/ITL/issues/720) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🗣 Commented on [#716](https://github.com/Jadhielv/ITL/issues/716) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
