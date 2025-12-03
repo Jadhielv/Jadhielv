@@ -31,10 +31,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#716](https://github.com/Jadhielv/ITL/issues/716) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 💪 Opened PR [#48](https://github.com/Jadhielv/client-app-ng-base/pull/48) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-3. ❌ Closed PR [#392](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/392) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-4. ❌ Closed PR [#391](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/391) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-5. ❌ Closed PR [#390](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/390) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+1. 🗣 Commented on [#721](https://github.com/Jadhielv/ITL/issues/721) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🗣 Commented on [#720](https://github.com/Jadhielv/ITL/issues/720) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#716](https://github.com/Jadhielv/ITL/issues/716) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 💪 Opened PR [#48](https://github.com/Jadhielv/client-app-ng-base/pull/48) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+5. ❌ Closed PR [#392](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/392) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
 <!--END_SECTION:activity-->
 </details>
