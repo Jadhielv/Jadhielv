@@ -31,10 +31,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#262](https://github.com/Jadhielv/search-tasks/issues/262) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. ❌ Merged PR [#49](https://github.com/Jadhielv/client-app-ng-base/pull/49) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-3. 💪 Opened PR [#49](https://github.com/Jadhielv/client-app-ng-base/pull/49) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-4. ❌ Merged PR [#48](https://github.com/Jadhielv/client-app-ng-base/pull/48) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-5. ❌ Closed PR [#176](https://github.com/VueDominicana/DominicanWhoCodes/pull/176) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
+1. ❌ Closed PR [#555](https://github.com/Jadhielv/juguetear-web/pull/555) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+2. 🗣 Commented on [#262](https://github.com/Jadhielv/search-tasks/issues/262) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. ❌ Merged PR [#49](https://github.com/Jadhielv/client-app-ng-base/pull/49) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+4. 💪 Opened PR [#49](https://github.com/Jadhielv/client-app-ng-base/pull/49) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+5. ❌ Merged PR [#48](https://github.com/Jadhielv/client-app-ng-base/pull/48) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
 <!--END_SECTION:activity-->
 </details>
