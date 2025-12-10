@@ -8,7 +8,7 @@
 
 - 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
 - 🤓 A no-nonsense code warrior with a clean aesthetic and razor-sharp logic.
-- 👨🏻‍💻 I’m contributing **[31 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[31 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[search-tasks](https://github.com/Jadhielv/search-tasks)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
 - 📅 I have attended a few conferences such as [CodeCampSDQ](https://codecampsdq.com/), [GitHub Universe](https://githubuniverse.com/), [Caribbean Developers Conference](https://cdc.dev/), [DevFest Santo Domingo](https://gdg.community.dev/gdg-santo-domingo/), [GitLab Commit](https://gitlabcommitvirtual2021.com/), [MonkeyFestUSA](https://monkeyfest.dev/), [Visual Studio Launch](https://visualstudio.microsoft.com/vs/), [VS Code Day](https://code.visualstudio.com/vscode-day/) and [Global Azure](https://globalazure.net/).
@@ -31,10 +31,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#393](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/393) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-2. ❌ Closed PR [#556](https://github.com/Jadhielv/juguetear-web/pull/556) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-3. ❌ Closed PR [#555](https://github.com/Jadhielv/juguetear-web/pull/555) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-4. 🗣 Commented on [#262](https://github.com/Jadhielv/search-tasks/issues/262) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. ❌ Merged PR [#49](https://github.com/Jadhielv/client-app-ng-base/pull/49) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+1. 🗣 Commented on [#264](https://github.com/Jadhielv/search-tasks/issues/264) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🗣 Commented on [#216](https://github.com/Jadhielv/ACGSS/issues/216) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+3. ❌ Closed PR [#393](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/393) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
+4. ❌ Closed PR [#556](https://github.com/Jadhielv/juguetear-web/pull/556) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+5. ❌ Closed PR [#555](https://github.com/Jadhielv/juguetear-web/pull/555) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
 <!--END_SECTION:activity-->
 </details>
