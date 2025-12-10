@@ -8,7 +8,7 @@
 
 - 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
 - 🤓 A no-nonsense code warrior with a clean aesthetic and razor-sharp logic.
-- 👨🏻‍💻 I’m contributing **[31 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[search-tasks](https://github.com/Jadhielv/search-tasks)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[31 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ITL](https://github.com/Jadhielv/ITL)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
 - 📅 I have attended a few conferences such as [CodeCampSDQ](https://codecampsdq.com/), [GitHub Universe](https://githubuniverse.com/), [Caribbean Developers Conference](https://cdc.dev/), [DevFest Santo Domingo](https://gdg.community.dev/gdg-santo-domingo/), [GitLab Commit](https://gitlabcommitvirtual2021.com/), [MonkeyFestUSA](https://monkeyfest.dev/), [Visual Studio Launch](https://visualstudio.microsoft.com/vs/), [VS Code Day](https://code.visualstudio.com/vscode-day/) and [Global Azure](https://globalazure.net/).
@@ -31,10 +31,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#266](https://github.com/Jadhielv/search-tasks/issues/266) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🗣 Commented on [#402](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/402) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. 🗣 Commented on [#265](https://github.com/Jadhielv/search-tasks/issues/265) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. 🗣 Commented on [#264](https://github.com/Jadhielv/search-tasks/issues/264) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. 🗣 Commented on [#216](https://github.com/Jadhielv/ACGSS/issues/216) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. 🗣 Commented on [#727](https://github.com/Jadhielv/ITL/issues/727) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 🗣 Commented on [#725](https://github.com/Jadhielv/ITL/issues/725) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 🗣 Commented on [#727](https://github.com/Jadhielv/ITL/issues/727) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 🗣 Commented on [#725](https://github.com/Jadhielv/ITL/issues/725) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. 🗣 Commented on [#725](https://github.com/Jadhielv/ITL/issues/725) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
