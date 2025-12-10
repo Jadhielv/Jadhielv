@@ -31,10 +31,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#264](https://github.com/Jadhielv/search-tasks/issues/264) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-2. 🗣 Commented on [#216](https://github.com/Jadhielv/ACGSS/issues/216) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-3. ❌ Closed PR [#393](https://github.com/Jadhielv/DominicanWhoCodes-VueClient/pull/393) in [Jadhielv/DominicanWhoCodes-VueClient](https://github.com/Jadhielv/DominicanWhoCodes-VueClient)
-4. ❌ Closed PR [#556](https://github.com/Jadhielv/juguetear-web/pull/556) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
-5. ❌ Closed PR [#555](https://github.com/Jadhielv/juguetear-web/pull/555) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+1. 🗣 Commented on [#266](https://github.com/Jadhielv/search-tasks/issues/266) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 🗣 Commented on [#402](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/402) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 🗣 Commented on [#265](https://github.com/Jadhielv/search-tasks/issues/265) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. 🗣 Commented on [#264](https://github.com/Jadhielv/search-tasks/issues/264) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. 🗣 Commented on [#216](https://github.com/Jadhielv/ACGSS/issues/216) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
 <!--END_SECTION:activity-->
 </details>
