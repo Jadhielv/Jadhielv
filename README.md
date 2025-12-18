@@ -31,10 +31,10 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#50](https://github.com/Jadhielv/client-app-ng-base/pull/50) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
-2. ❗️ Closed issue [#396](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/396) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-3. ❌ Merged PR [#403](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/403) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. ❌ Labeled PR [#403](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/403) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. 💪 Opened PR [#403](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/403) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. 🗣 Commented on [#269](https://github.com/Jadhielv/search-tasks/issues/269) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. 💪 Opened PR [#50](https://github.com/Jadhielv/client-app-ng-base/pull/50) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+3. ❗️ Closed issue [#396](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/396) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+4. ❌ Merged PR [#403](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/403) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+5. ❌ Labeled PR [#403](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/403) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
