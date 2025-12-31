@@ -19,7 +19,7 @@
     <summary>💻 Profile</summary>
     <br/>
 
-| [![Jadhiel Vélez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhielv&show_icons=true&text_color=f8f8f2&hide_title=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)	| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhielv&layout=compact&text_color=f8f8f2&langs_count=8&hide_title=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)	|
+| [![Jadhiel Vélez's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jadhielv&show_icons=true&text_color=f8f8f2&hide_title=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)	| [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jadhielv&layout=compact&text_color=f8f8f2&langs_count=8&hide_title=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)	|
 |---	                                                                                                                  |---
 
 ***NOTE**: Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I've the most code.*
