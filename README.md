@@ -35,6 +35,6 @@
 2. ❌ Merged PR [#51](https://github.com/Jadhielv/client-app-ng-base/pull/51) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
 3. 💪 Opened PR [#51](https://github.com/Jadhielv/client-app-ng-base/pull/51) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
 4. 🗣 Commented on [#405](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/405) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. ❌ Closed PR [#558](https://github.com/Jadhielv/juguetear-web/pull/558) in [Jadhielv/juguetear-web](https://github.com/Jadhielv/juguetear-web)
+5. 🎉 Merged PR [#170](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/170) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
