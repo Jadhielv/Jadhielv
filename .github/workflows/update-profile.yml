@@ -42,6 +42,13 @@ jobs:
         env:
           GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
 
+      - name: Generate Space Shooter GIF
+        uses: czl9707/gh-space-shooter@main
+        with:
+          github-token: ${{ secrets.GH_ACCESS_TOKEN }}
+          output-path: 'gh-space-shooter.gif'
+          strategy: 'random'
+
       - uses: Jadhielv/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}

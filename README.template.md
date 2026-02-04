@@ -38,3 +38,8 @@
 5. 🎉 Merged PR [#170](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/170) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
+
+<br/>
+
+🕹️ **GitHub Space Shooter:**
+![Space Shooter](gh-space-shooter.gif)
