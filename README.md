@@ -31,11 +31,11 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#16](https://github.com/Jadhielv/uno/pull/16) in [Jadhielv/uno](https://github.com/Jadhielv/uno)
-2. 🗣 Commented on [#219](https://github.com/Jadhielv/ACGSS/issues/219) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-3. 🗣 Commented on [#408](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/408) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-4. 🗣 Commented on [#274](https://github.com/Jadhielv/search-tasks/issues/274) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. ❌ Merged PR [#51](https://github.com/Jadhielv/client-app-ng-base/pull/51) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+1. ❌ Merged PR [#19](https://github.com/Jadhielv/Jadhielv/pull/19) in [Jadhielv/Jadhielv](https://github.com/Jadhielv/Jadhielv)
+2. 💪 Opened PR [#19](https://github.com/Jadhielv/Jadhielv/pull/19) in [Jadhielv/Jadhielv](https://github.com/Jadhielv/Jadhielv)
+3. ❌ Closed PR [#16](https://github.com/Jadhielv/uno/pull/16) in [Jadhielv/uno](https://github.com/Jadhielv/uno)
+4. 🗣 Commented on [#219](https://github.com/Jadhielv/ACGSS/issues/219) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+5. 🗣 Commented on [#408](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/408) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
 
