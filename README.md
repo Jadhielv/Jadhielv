@@ -38,3 +38,8 @@
 5. ❌ Merged PR [#51](https://github.com/Jadhielv/client-app-ng-base/pull/51) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
 <!--END_SECTION:activity-->
 </details>
+
+<br/>
+
+🕹️ **GitHub Space Shooter:**
+![Space Shooter](gh-space-shooter.gif)
