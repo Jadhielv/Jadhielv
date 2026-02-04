@@ -39,7 +39,6 @@
 <!--END_SECTION:activity-->
 </details>
 
-<br/>
 
 🕹️ **GitHub Space Shooter:**
 ![Space Shooter](gh-space-shooter.gif)
