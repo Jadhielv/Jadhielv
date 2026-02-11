@@ -31,11 +31,11 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#729](https://github.com/Jadhielv/ITL/pull/729) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 💪 Opened PR [#729](https://github.com/Jadhielv/ITL/pull/729) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. ❌ Merged PR [#728](https://github.com/Jadhielv/ITL/pull/728) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 💪 Opened PR [#728](https://github.com/Jadhielv/ITL/pull/728) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🗣 Commented on [#221](https://github.com/Jadhielv/ACGSS/issues/221) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. ❌ Merged PR [#730](https://github.com/Jadhielv/ITL/pull/730) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 💪 Opened PR [#730](https://github.com/Jadhielv/ITL/pull/730) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. ❌ Merged PR [#729](https://github.com/Jadhielv/ITL/pull/729) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 💪 Opened PR [#729](https://github.com/Jadhielv/ITL/pull/729) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. ❌ Merged PR [#728](https://github.com/Jadhielv/ITL/pull/728) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
 
