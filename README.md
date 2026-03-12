@@ -31,11 +31,11 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#237](https://github.com/Jadhielv/ACGSS/pull/237) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-2. 💪 Opened PR [#237](https://github.com/Jadhielv/ACGSS/pull/237) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-3. 🗣 Commented on [#230](https://github.com/Jadhielv/ACGSS/issues/230) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-4. 🗣 Commented on [#412](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/412) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. 🗣 Commented on [#228](https://github.com/Jadhielv/ACGSS/issues/228) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+1. 💪 Opened PR [#240](https://github.com/Jadhielv/ACGSS/pull/240) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+2. ❌ Merged PR [#237](https://github.com/Jadhielv/ACGSS/pull/237) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+3. 💪 Opened PR [#237](https://github.com/Jadhielv/ACGSS/pull/237) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+4. 🗣 Commented on [#230](https://github.com/Jadhielv/ACGSS/issues/230) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+5. 🗣 Commented on [#412](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/412) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
 
