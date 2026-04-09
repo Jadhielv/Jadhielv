@@ -8,7 +8,7 @@
 
 - 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
 - 🤓 A no-nonsense code warrior with a clean aesthetic and razor-sharp logic.
-- 👨🏻‍💻 I’m contributing **[31 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[31 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[search-tasks](https://github.com/Jadhielv/search-tasks)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
 - 📅 I have attended a few conferences such as [CodeCampSDQ](https://codecampsdq.com/), [GitHub Universe](https://githubuniverse.com/), [Caribbean Developers Conference](https://cdc.dev/), [DevFest Santo Domingo](https://gdg.community.dev/gdg-santo-domingo/), [GitLab Commit](https://gitlabcommitvirtual2021.com/), [MonkeyFestUSA](https://monkeyfest.dev/), [Visual Studio Launch](https://visualstudio.microsoft.com/vs/), [VS Code Day](https://code.visualstudio.com/vscode-day/) and [Global Azure](https://globalazure.net/).
@@ -31,11 +31,11 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#250](https://github.com/Jadhielv/ACGSS/issues/250) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-2. 🗣 Commented on [#249](https://github.com/Jadhielv/ACGSS/issues/249) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-3. ❌ Merged PR [#740](https://github.com/Jadhielv/ITL/pull/740) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. 💪 Opened PR [#740](https://github.com/Jadhielv/ITL/pull/740) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. ❌ Closed PR [#416](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/416) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. ❌ Closed PR [#284](https://github.com/Jadhielv/search-tasks/pull/284) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+2. ❌ Closed PR [#283](https://github.com/Jadhielv/search-tasks/pull/283) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+3. ❌ Closed PR [#282](https://github.com/Jadhielv/search-tasks/pull/282) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+4. ❌ Closed PR [#281](https://github.com/Jadhielv/search-tasks/pull/281) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+5. ❌ Closed PR [#279](https://github.com/Jadhielv/search-tasks/pull/279) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
 
