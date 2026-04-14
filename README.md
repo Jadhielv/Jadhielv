@@ -31,11 +31,11 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#743](https://github.com/Jadhielv/ITL/pull/743) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 💪 Opened PR [#743](https://github.com/Jadhielv/ITL/pull/743) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. ❌ Closed PR [#284](https://github.com/Jadhielv/search-tasks/pull/284) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-4. ❌ Closed PR [#283](https://github.com/Jadhielv/search-tasks/pull/283) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
-5. ❌ Closed PR [#282](https://github.com/Jadhielv/search-tasks/pull/282) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
+1. ❌ Merged PR [#744](https://github.com/Jadhielv/ITL/pull/744) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+2. 💪 Opened PR [#744](https://github.com/Jadhielv/ITL/pull/744) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. ❌ Merged PR [#743](https://github.com/Jadhielv/ITL/pull/743) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 💪 Opened PR [#743](https://github.com/Jadhielv/ITL/pull/743) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. ❌ Closed PR [#284](https://github.com/Jadhielv/search-tasks/pull/284) in [Jadhielv/search-tasks](https://github.com/Jadhielv/search-tasks)
 <!--END_SECTION:activity-->
 </details>
 
