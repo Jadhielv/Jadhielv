@@ -31,11 +31,11 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/Jadhielv/first-vue-app-with-graphql/pull/23) in [Jadhielv/first-vue-app-with-graphql](https://github.com/Jadhielv/first-vue-app-with-graphql)
-2. 🎉 Merged PR [#72](https://github.com/Jadhielv/ITL/pull/72) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 🎉 Merged PR [#127](https://github.com/VueDominicana/DominicanWhoCodes/pull/127) in [VueDominicana/DominicanWhoCodes](https://github.com/VueDominicana/DominicanWhoCodes)
-4. 🎉 Merged PR [#71](https://github.com/Jadhielv/ITL/pull/71) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 🎉 Merged PR [#170](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/170) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+1. ❌ Closed PR [#423](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/423) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 🗣 Commented on [#423](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/423) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 🗣 Commented on [#265](https://github.com/Jadhielv/ACGSS/issues/265) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+4. 🗣 Commented on [#263](https://github.com/Jadhielv/ACGSS/issues/263) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+5. ❌ Merged PR [#424](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/424) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
 
