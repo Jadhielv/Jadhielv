@@ -8,7 +8,7 @@
 
 - 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
 - 🤓 A no-nonsense code warrior with a clean aesthetic and razor-sharp logic.
-- 👨🏻‍💻 I’m contributing **[31 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[31 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[ACGSS](https://github.com/Jadhielv/ACGSS)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
 - 📅 I have attended a few conferences such as [CodeCampSDQ](https://codecampsdq.com/), [GitHub Universe](https://githubuniverse.com/), [Caribbean Developers Conference](https://cdc.dev/), [DevFest Santo Domingo](https://gdg.community.dev/gdg-santo-domingo/), [GitLab Commit](https://gitlabcommitvirtual2021.com/), [MonkeyFestUSA](https://monkeyfest.dev/), [Visual Studio Launch](https://visualstudio.microsoft.com/vs/), [VS Code Day](https://code.visualstudio.com/vscode-day/) and [Global Azure](https://globalazure.net/).
@@ -31,11 +31,11 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#50](https://github.com/Jadhielv/DominicanWhoCodes/pull/50) in [Jadhielv/DominicanWhoCodes](https://github.com/Jadhielv/DominicanWhoCodes)
-2. 🗣 Commented on [#258](https://github.com/Jadhielv/ACGSS/issues/258) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-3. 🗣 Commented on [#254](https://github.com/Jadhielv/ACGSS/issues/254) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
-4. 🗣 Commented on [#422](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/422) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-5. ❌ Merged PR [#747](https://github.com/Jadhielv/ITL/pull/747) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. ❌ Closed PR [#423](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/423) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. 🗣 Commented on [#423](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/423) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. 🗣 Commented on [#265](https://github.com/Jadhielv/ACGSS/issues/265) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+4. 🗣 Commented on [#263](https://github.com/Jadhielv/ACGSS/issues/263) in [Jadhielv/ACGSS](https://github.com/Jadhielv/ACGSS)
+5. ❌ Merged PR [#424](https://github.com/AngelGarcia13/DominicanWhoCodes/pull/424) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
 <!--END_SECTION:activity-->
 </details>
 
