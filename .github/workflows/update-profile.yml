@@ -45,8 +45,14 @@ jobs:
         env:
           GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
 
+      # This action has a hardcoded "commit and push" step (no toggle) that
+      # runs `git add gh-space-shooter.gif` on master. Since we gitignore the
+      # GIF to keep it out of master's history, that git add fails and the step
+      # exits 1. continue-on-error tolerates that: the GIF is still generated
+      # into the workspace, and the next step publishes it to the assets branch.
       - name: Generate Space Shooter GIF
         uses: czl9707/gh-space-shooter@main
+        continue-on-error: true
         with:
           github-token: ${{ secrets.GH_ACCESS_TOKEN }}
           output-path: 'gh-space-shooter.gif'
