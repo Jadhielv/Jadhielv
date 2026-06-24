@@ -1,0 +1,6 @@
+node_modules
+
+# The Space Shooter GIF is generated each run and published to the `assets`
+# branch (see .github/workflows/update-profile.yml) instead of being committed
+# to master, to keep the 12MB binary out of master's history.
+gh-space-shooter.gif

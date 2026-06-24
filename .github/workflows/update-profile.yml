@@ -1,0 +1,93 @@
+name: Update README
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Once a day at 00:00 UTC. Previously every 5 minutes, which committed a
+    # fresh ~12MB GIF to history on every run and bloated the repo.
+    - cron: '0 0 * * *'
+  repository_dispatch:
+    types: [trigger]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Read .nvmrc
+        run: echo NVMRC=$(cat .nvmrc) >> $GITHUB_OUTPUT
+        id: nvm
+
+      - name: Setup node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '${{ steps.nvm.outputs.NVMRC }}'
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Cache node modules
+        uses: actions/cache@v3
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+
+      - name: Install dependencies
+        run: npm i
+
+      - name: Update
+        run: npm run update-readme
+        env:
+          GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+
+      - name: Generate Space Shooter GIF
+        uses: czl9707/gh-space-shooter@main
+        with:
+          github-token: ${{ secrets.GH_ACCESS_TOKEN }}
+          output-path: 'gh-space-shooter.gif'
+          strategy: 'random'
+
+      # Publish the freshly generated GIF to the `assets` branch instead of
+      # committing it to master. We build the branch in an isolated temp repo
+      # and force-push a single orphan commit, so the branch always holds
+      # exactly one ~12MB blob and never accumulates history. README references
+      # it via raw.githubusercontent.com/.../assets/gh-space-shooter.gif. The
+      # GIF is gitignored on master, so git-auto-commit-action won't pick it up.
+      - name: Publish Space Shooter GIF to assets branch
+        run: |
+          set -euo pipefail
+          tmp="$(mktemp -d)"
+          cp gh-space-shooter.gif "$tmp/gh-space-shooter.gif"
+          cd "$tmp"
+          git init -q
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gh-space-shooter.gif
+          git commit -q -m "chore: update space shooter gif"
+          git branch -M assets
+          git push --force "https://x-access-token:${GH_ACCESS_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" assets
+        env:
+          GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+
+      # This action injects the recent-activity feed into README.md and then
+      # tries to commit/push on its own. That internal commit is redundant
+      # (git-auto-commit-action below is our single committer) and currently
+      # exits non-zero, which would otherwise abort the job before anything is
+      # pushed. continue-on-error lets the README edit stand while the commit
+      # is handled by the dedicated step.
+      - uses: Jadhielv/github-activity-readme@master
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+        with:
+          COMMIT_MSG: 'chore: update'
+
+      - uses: stefanzweifel/git-auto-commit-action@v4.16.0
+        with:
+          commit_message: 'chore: update'
+          branch: master
