@@ -8,7 +8,7 @@
 
 - 🔭 I’m a Senior Software Developer from the Dominican Republic 🇩🇴.
 - 🤓 A no-nonsense code warrior with a clean aesthetic and razor-sharp logic.
-- 👨🏻‍💻 I’m contributing **[31 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[Jadhielv](https://github.com/Jadhielv/Jadhielv)** in my spare time.
+- 👨🏻‍💻 I’m contributing **[31 open-source projects](https://github.com/Jadhielv?tab=repositories&q=&type=fork)** and maintain **[client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)** in my spare time.
 - 🌍 I'm mostly active within the **[DotNET](https://github.com/DotNetDo)** and **[Vue](https://github.com/VueDominicana)** communities.
 - 🌱 I’m currently learning about **PWAs**, **TypeScript** & **Flutter**.
 - 📅 I have attended a few conferences such as [CodeCampSDQ](https://codecampsdq.com/), [GitHub Universe](https://githubuniverse.com/), [Caribbean Developers Conference](https://cdc.dev/), [DevFest Santo Domingo](https://gdg.community.dev/gdg-santo-domingo/), [GitLab Commit](https://gitlabcommitvirtual2021.com/), [MonkeyFestUSA](https://monkeyfest.dev/), [Visual Studio Launch](https://visualstudio.microsoft.com/vs/), [VS Code Day](https://code.visualstudio.com/vscode-day/) and [Global Azure](https://globalazure.net/).
@@ -31,11 +31,11 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#852](https://github.com/Jadhielv/ITL/pull/852) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-2. 💪 Opened PR [#852](https://github.com/Jadhielv/ITL/pull/852) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. ❗️ Opened issue [#851](https://github.com/Jadhielv/ITL/issues/851) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. ❌ Merged PR [#850](https://github.com/Jadhielv/ITL/pull/850) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. 💪 Opened PR [#850](https://github.com/Jadhielv/ITL/pull/850) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🗣 Commented on [#457](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/457) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+2. ❌ Merged PR [#852](https://github.com/Jadhielv/ITL/pull/852) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+3. 💪 Opened PR [#852](https://github.com/Jadhielv/ITL/pull/852) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. ❗️ Opened issue [#851](https://github.com/Jadhielv/ITL/issues/851) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. ❌ Merged PR [#850](https://github.com/Jadhielv/ITL/pull/850) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
 
