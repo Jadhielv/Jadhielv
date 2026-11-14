@@ -31,11 +31,11 @@
     <br/>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#457](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/457) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
-2. ❌ Merged PR [#852](https://github.com/Jadhielv/ITL/pull/852) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-3. 💪 Opened PR [#852](https://github.com/Jadhielv/ITL/pull/852) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-4. ❗️ Opened issue [#851](https://github.com/Jadhielv/ITL/issues/851) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
-5. ❌ Merged PR [#850](https://github.com/Jadhielv/ITL/pull/850) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+1. 🗣 Commented on [#67](https://github.com/Jadhielv/client-app-ng-base/issues/67) in [Jadhielv/client-app-ng-base](https://github.com/Jadhielv/client-app-ng-base)
+2. 🗣 Commented on [#457](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/457) in [AngelGarcia13/DominicanWhoCodes](https://github.com/AngelGarcia13/DominicanWhoCodes)
+3. ❌ Merged PR [#852](https://github.com/Jadhielv/ITL/pull/852) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+4. 💪 Opened PR [#852](https://github.com/Jadhielv/ITL/pull/852) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
+5. ❗️ Opened issue [#851](https://github.com/Jadhielv/ITL/issues/851) in [Jadhielv/ITL](https://github.com/Jadhielv/ITL)
 <!--END_SECTION:activity-->
 </details>
 
